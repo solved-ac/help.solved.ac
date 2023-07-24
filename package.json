@@ -9,12 +9,23 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@floating-ui/react": "^0.24.8",
+    "@mdx-js/loader": "^2.3.0",
+    "@mdx-js/react": "^2.3.0",
+    "@next/mdx": "^13.4.12",
+    "@solved-ac/ui-react": "^0.5.0",
+    "@tabler/icons-react": "^2.28.0",
+    "@types/mdx": "^2.0.5",
     "@types/node": "20.4.4",
     "@types/react": "18.2.15",
     "@types/react-dom": "18.2.7",
     "eslint": "8.45.0",
     "eslint-config-next": "13.4.12",
+    "framer-motion": "^10.13.0",
     "next": "13.4.12",
+    "polished": "^4.2.2",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "typescript": "5.1.6"
