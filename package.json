@@ -1,6 +1,6 @@
 {
-  "name": "help-solved-ac",
-  "version": "0.1.0",
+  "name": "@solved-ac/help",
+  "version": "3.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
