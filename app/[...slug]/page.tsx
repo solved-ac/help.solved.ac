@@ -32,6 +32,6 @@ export default Page;
 export async function generateStaticParams() {
   const posts = await getAllPostSlugs();
   return posts.map((post) => ({
-    slug: post.split("/"),
+    slug: post.split("/").filter((s) => s !== ""),
   }));
 }
