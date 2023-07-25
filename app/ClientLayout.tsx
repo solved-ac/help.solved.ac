@@ -17,8 +17,12 @@ interface ClientLayoutProps {
 
 const RootLayoutContainer = styled.div`
   display: grid;
+  max-width: 100%;
   grid-template-columns: 1fr 210px;
   gap: 32px;
+  & > * {
+    min-width: 0;
+  }
   @media (max-width: 720px) {
     grid-template-columns: 1fr;
   }

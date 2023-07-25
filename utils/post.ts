@@ -2,6 +2,9 @@ import { Guide, GuideCategory } from "@/types/Guide";
 import fs from "fs";
 import { serialize } from "next-mdx-remote/serialize";
 import path from "path";
+import rehypeKatex from "rehype-katex";
+import remarkGfm from "remark-gfm";
+import remarkMath from "remark-math";
 
 // https://github.com/vercel/next.js/discussions/50897
 
@@ -31,11 +34,15 @@ export const getPostBySlug = async (slug: string) => {
   const fileContent = await readPostFileContent(fileSlug);
   const serialized = await serialize(fileContent, {
     parseFrontmatter: true,
+    mdxOptions: {
+      remarkPlugins: [remarkMath, remarkGfm],
+      rehypePlugins: [rehypeKatex],
+    },
   });
   const { frontmatter } = serialized;
 
   return {
-    meta: { title: "solved.ac Help", ...frontmatter, slug: fileSlug },
+    meta: { title: "solved.ac Help", index: 0, ...frontmatter, slug: fileSlug },
     serialized,
   };
 };
@@ -48,6 +55,7 @@ export const getFrontmatterBySlug = async (slug: string) => {
     return {
       slug,
       title: null,
+      index: 0,
     };
   }
 };
@@ -117,6 +125,7 @@ export const getGuidemapInDirectory = async (
   const guides = frontmatters.map((fm) => ({
     key: fm.slug,
     title: fm.title,
+    index: fm.index ?? 0,
     type: "guide" as const,
   }));
 
@@ -145,10 +154,18 @@ export const getGuidemapInDirectory = async (
     return indexGuide;
   }
 
+  const sortedGuides = [...nonIndexGuides, ...subdirectoryGuides].sort(
+    (a, b) => {
+      if (a.index !== b.index) return a.index - b.index;
+      return (a.title || a.key).localeCompare(b.title || b.key);
+    }
+  );
+
   return {
     key: prefix,
     title: indexGuide?.title ?? null,
-    guides: [...nonIndexGuides, ...subdirectoryGuides],
+    index: indexGuide?.index ?? 0,
+    guides: sortedGuides,
     type: "category" as const,
   };
 };

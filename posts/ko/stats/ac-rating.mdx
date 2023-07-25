@@ -1,0 +1,99 @@
+---
+title: 티어와 AC 레이팅
+index: 10
+---
+
+**AC 레이팅**이란 백준 온라인 저지에서 여러운 문제를 많이 해결할수록 오르는 지표입니다. 프로그래머의 **티어**는 AC 레이팅을 바탕으로 계산됩니다.
+
+## 단계
+
+티어는 총 32단계로 구분됩니다. 아래 표에서 위에 있을수록, 그리고 숫자가 작을수록 높은 티어입니다.
+
+표의 오른쪽 부분은 티어를 달성하기 위해 필요한 AC 레이팅입니다.
+
+| 티어 | 아이콘 | V | IV | III | II | I |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <Master>Master</Master>| <Tier t={31}/> | 3000 |
+| <Ruby>Ruby</Ruby> V &ndash; I | {new Array(5).fill(0).map((_, i) => <Tier key={i} t={i + 26}/>)} | 2700 | 2800 | 2850 | 2900 | 2950 |
+| <Diamond>Diamond</Diamond> V &ndash; I | {new Array(5).fill(0).map((_, i) => <Tier key={i} t={i + 21}/>)} | 2200 | 2300 | 2400 | 2500 | 2600 |
+| <Platinum>Platinum</Platinum> V &ndash; I | {new Array(5).fill(0).map((_, i) => <Tier key={i} t={i + 16}/>)} | 1600 | 1750 | 1900 | 2000 | 2100 |
+| <Gold>Gold</Gold> V &ndash; I | {new Array(5).fill(0).map((_, i) => <Tier key={i} t={i + 11}/>)} | 800 | 950 | 1100 | 1250 | 1400 |
+| <Silver>Silver</Silver> V &ndash; I | {new Array(5).fill(0).map((_, i) => <Tier key={i} t={i + 6}/>)} | 200 | 300 | 400 | 500 | 650 |
+| <Bronze>Bronze</Bronze> V &ndash; I | {new Array(5).fill(0).map((_, i) => <Tier key={i} t={i + 1}/>)} | 30 | 60 | 90 | 120 | 150 |
+| <Unrated>Unrated</Unrated>| <Tier t={0}/> | 0 | | | | |
+
+## 공식
+
+AC 레이팅은 다음과 같은 공식으로 결정됩니다.
+
+$$
+\begin{aligned}
+\left(\text{AC 레이팅}\right) &= \left(\text{해결한 난이도 상위 }100\text{문제의 난이도 값의 합}\right) \\
+&+  \left(\text{CLASS에 따른 보너스 레이팅}\right) \\
+&+  \left\lfloor 175\times \left(1-0.995^{\left(\text{해결한 문제 수}\right)}\right) \right\rceil \\ 
+&+  \left\lfloor 25\times \left(1-0.9^{\left(\text{기여 수}\right)}\right) \right\rceil
+\end{aligned}
+$$
+
+$\left\lfloor x \right\rceil$는 $x$를 정수로 반올림함을 의미합니다.
+
+- solved.ac는 문제의 난이도도 프로그래머의 티어와 같은 아이콘을 이용해 표현합니다.
+    - **난이도 값**이란, 문제의 난이도를 <Tier t={1} />를 1점, <Tier t={2} />를 2점, &hellip; <Tier t={30} />을 30점으로 바꾼 수를 말합니다. 어려운 문제를 해결할수록 높은 레이팅을 달성할 수 있습니다.
+    - 참고: 가이드 [「문제 난이도」](/ko/problem/level)
+- CLASS 등급에 따라 보너스 레이팅을 받을 수 있습니다.
+    - 참고: 가이드 [「CLASS」](/ko/stats/class)
+- 해결한 문제 수에 따라 보너스 레이팅을 최대 175까지 받을 수 있습니다.
+    - 해결한 문제 수는 백준 온라인 저지에서 '번외'로 표시된 문제들과 <Tier t={0} locked /> 문제들을 제외합니다.
+- 기여 수에 따라 보너스 레이팅을 최대 25까지 받을 수 있습니다.
+    - 난이도 계산에 반영된 기여들만 기여 수에 적용됩니다.
+    - 참고: 가이드 [「기여」](/ko/contribution/general)
+
+## 레이팅을 올리는 방법
+
+한 개 이상의 문제를 해결했다면, 자신의 프로필의 **개요** 섹션에서 자신의 AC 레이팅을 구성하는 요소를 확인할 수 있습니다.
+
+![프로필 페이지의 AC 레이팅 카드](/stats/ac-rating-card-ko.png)
+
+### 1. 문제해결
+
+<ExternalLink href="https://solved.ac/problems/level">
+  난이도별 문제 목록
+</ExternalLink>
+
+문제를 해결하면 AC 레이팅을 올릴 수 있습니다.
+
+해결한 문제 중 어려운 문제 100문제가 레이팅에 반영됩니다.
+
+- 아직 100문제를 해결하지 않았다면, 100문제를 해결할 때까지는 새로 해결하는 문제의 난이도 값이 레이팅에 더해집니다.
+- 100문제를 해결한 시점부터는, 새로 해결하는 문제가 예전에 풀었던 100문제보다 쉬운 난이도의 문제일 경우 레이팅에 반영되지 않습니다. 어려운 문제를 풀어야 합니다.
+
+또한, 해결한 문제 수에 따라 보너스 레이팅을 받을 수 있습니다.
+
+- 해결한 문제 수에 따라 $\left\lfloor 175\times \left(1-0.995^{\left(\text{푼 문제 수}\right)}\right) \right\rceil$의 보너스 레이팅이 합산됩니다.
+- 해결한 문제 수가 1,169문제 이상이라면 보너스 레이팅은 만점이 됩니다.
+
+| 해결한 문제 수 | 보너스 레이팅 |
+|:---:|:---:|
+| 10 | 9 |
+| 50 | 39 |
+| 100 | 69 | 
+| 250 | 125 | 
+| 500 | 161 |
+| 1,169 | 175 |
+
+### 2. CLASS 취득
+
+<ExternalLink href="https://solved.ac/class">
+  CLASS
+</ExternalLink>
+
+solved.ac가 단계별로 큐레이션해 둔 CLASS 문제들을 해결해 CLASS를 취득하면 그에 따라 많은 양의 보너스 레이팅을 획득할 수 있습니다.
+
+아래는 CLASS에 따라 획득할 수 있는 보너스 레이팅입니다.
+
+| CLASS | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 레이팅 | 25 | 50 | 100 | 150 | 200 | 210 | 220 | 230 | 240 | 250 |
+
+- 참고: 가이드 [「CLASS」](/ko/stats/class)
+

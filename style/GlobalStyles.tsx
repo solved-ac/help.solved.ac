@@ -19,6 +19,11 @@ const GlobalStyles = () => (
           width: 1.2em;
           height: 1.2em;
         }
+        .math-display {
+          display: block;
+          max-width: 100%;
+          overflow-x: auto;
+        }
       `}
     />
   </>
