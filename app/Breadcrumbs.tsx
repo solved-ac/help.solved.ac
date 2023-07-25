@@ -20,7 +20,7 @@ const BreadcrumbEntry = styled.li`
 `;
 
 interface Props {
-  guidemap: GuideCategory;
+  guidemap: Guide | GuideCategory;
 }
 
 const Breadcrumbs = (props: Props) => {

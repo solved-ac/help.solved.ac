@@ -1,16 +1,19 @@
 "use client";
 
 import useLanguage from "@/hooks/useLanguage";
-import { GuideCategory } from "@/types/Guide";
+import { Guide, GuideCategory } from "@/types/Guide";
 import Subnavigation from "./Subnavigation";
 
 interface Props {
-  guidemap: GuideCategory;
+  guidemap: Guide | GuideCategory;
 }
 
 const Navigation = (props: Props) => {
   const lang = useLanguage();
   const { guidemap } = props;
+
+  if (guidemap.type !== "category") return null;
+
   const languageGuidemap = guidemap.guides.find((g) => g.key === `/${lang}`);
 
   if (!languageGuidemap) return null;

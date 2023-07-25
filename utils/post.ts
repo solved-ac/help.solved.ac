@@ -1,4 +1,4 @@
-import { GuideCategory } from "@/types/Guide";
+import { Guide, GuideCategory } from "@/types/Guide";
 import fs from "fs";
 import { serialize } from "next-mdx-remote/serialize";
 import path from "path";
@@ -99,7 +99,7 @@ export const getAllPosts = async () => {
 export const getGuidemapInDirectory = async (
   path: string,
   prefix: string
-): Promise<GuideCategory> => {
+): Promise<Guide | GuideCategory> => {
   const replacedPrefix = prefix.replace(/\/$/, "");
 
   // first extract .mdx files in the directory
@@ -136,6 +136,15 @@ export const getGuidemapInDirectory = async (
     )
   );
 
+  // if only index.mdx exists, return it
+  if (
+    indexGuide &&
+    nonIndexGuides.length === 0 &&
+    subdirectoryGuides.length === 0
+  ) {
+    return indexGuide;
+  }
+
   return {
     key: prefix,
     title: indexGuide?.title ?? null,
@@ -144,6 +153,6 @@ export const getGuidemapInDirectory = async (
   };
 };
 
-export const getGuidemap = async (): Promise<GuideCategory> => {
+export const getGuidemap = async (): Promise<Guide | GuideCategory> => {
   return getGuidemapInDirectory(POSTS_FOLDER_PATH, "");
 };
