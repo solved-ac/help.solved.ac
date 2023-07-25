@@ -10,11 +10,6 @@ import { PropsWithChildren } from "react";
 import Footer from "./Footer";
 import Header from "./Header";
 
-interface ClientLayoutProps {
-  navigationComponent: React.ReactNode;
-  breadcrumbsComponent: React.ReactNode;
-}
-
 const RootLayoutContainer = styled.div`
   display: grid;
   max-width: 100%;
@@ -28,24 +23,38 @@ const RootLayoutContainer = styled.div`
   }
 `;
 
+const NavigationContainer = styled(HideOnMobile)`
+  position: sticky;
+  top: -96px;
+  align-self: flex-start;
+  max-height: 100vh;
+  overflow-y: auto;
+`;
+
+interface ClientLayoutProps {
+  navigationComponent: React.ReactNode;
+  breadcrumbsComponent: React.ReactNode;
+}
+
 const ClientLayout = (props: PropsWithChildren<ClientLayoutProps>) => {
   const { children, navigationComponent, breadcrumbsComponent } = props;
   return (
     <ThemeProvider theme={helpTheme}>
       <GlobalStyles />
       <Header navigationComponent={navigationComponent} />
-      <Container topBarPadding>
-        <Space h={32} />
+      <Container>
         <RootLayoutContainer>
           <div>
+            <Space h={32} />
+            <Container topBarPadding />
             {breadcrumbsComponent}
             {children}
           </div>
-          <HideOnMobile>
-            <Space h={108} />
+          <NavigationContainer>
+            <Space h={192} />
             {navigationComponent}
             <Space h={32} />
-          </HideOnMobile>
+          </NavigationContainer>
         </RootLayoutContainer>
       </Container>
       <Footer />
