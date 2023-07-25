@@ -2,20 +2,13 @@
 
 import { helpTheme } from "@/style/theme";
 import { Global, ThemeProvider, css } from "@emotion/react";
-import {
-  Container,
-  Footer,
-  SolvedGlobalStyles,
-  Space,
-} from "@solved-ac/ui-react";
+import { Container, SolvedGlobalStyles, Space } from "@solved-ac/ui-react";
 import SolvedMDXProvider from "../components/mdx/SolvedMDXProvider";
+import Breadcrumbs from "./Breadcrumbs";
+import Footer from "./Footer";
 import Header from "./Header";
 
-export default function RootLayout({
-  children,
-}: {
-  children: React.ReactNode;
-}) {
+const RootLayout = ({ children }: { children: React.ReactNode }) => {
   return (
     <>
       <ThemeProvider theme={helpTheme}>
@@ -66,17 +59,18 @@ export default function RootLayout({
             </head>
             <body>
               <Header />
-              <Container topBarPadding>{children}</Container>
-              <Footer>
-                <Container>
-                  solved.ac Help
-                  <Space h={64} />
-                </Container>
-              </Footer>
+              <Container topBarPadding>
+                <Space h={32} />
+                <Breadcrumbs />
+                {children}
+              </Container>
+              <Footer />
             </body>
           </html>
         </SolvedMDXProvider>
       </ThemeProvider>
     </>
   );
-}
+};
+
+export default RootLayout;
