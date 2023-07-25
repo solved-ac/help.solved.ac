@@ -1,17 +1,16 @@
 "use client";
 
 import {
-    Button,
     Enumerate,
     Item,
     Itemize,
     Paragraph,
-    Typo,
+    Typo
 } from "@solved-ac/ui-react";
-import { IconExternalLink } from "@tabler/icons-react";
 import ContentHeading1 from "./ContentHeading1";
 import ContentHeading2 from "./ContentHeading2";
 import ContentImage from "./ContentImage";
+import ExternalLinkButton from "./ExternalLinkButton";
 
 const MDXComponents = {
   h1: (props: any) => <ContentHeading1 {...props} />,
@@ -25,8 +24,7 @@ const MDXComponents = {
   li: (props: any) => <Item {...props} />,
   p: (props: any) => <Paragraph {...props} />,
   img: (props: any) => <ContentImage {...props} />,
-  Button,
-  IconExternalLink,
+  ExternalLink: ExternalLinkButton,
 } as const;
 
 export default MDXComponents;
