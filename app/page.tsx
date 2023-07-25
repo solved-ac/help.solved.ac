@@ -1,6 +1,7 @@
 "use client";
 
-
-export default function Home() {
+const Home = () => {
   return <>In construction</>;
-}
+};
+
+export default Home;

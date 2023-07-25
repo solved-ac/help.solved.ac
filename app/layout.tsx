@@ -1,12 +1,24 @@
 "use client";
 
+import { HideOnMobile } from "@/components/device/Mobile";
 import { helpTheme } from "@/style/theme";
 import { Global, ThemeProvider, css } from "@emotion/react";
+import styled from "@emotion/styled";
 import { Container, SolvedGlobalStyles, Space } from "@solved-ac/ui-react";
 import SolvedMDXProvider from "../components/mdx/SolvedMDXProvider";
 import Breadcrumbs from "./Breadcrumbs";
 import Footer from "./Footer";
 import Header from "./Header";
+import Navigation from "./Navigation";
+
+const RootLayoutContainer = styled.div`
+  display: grid;
+  grid-template-columns: 1fr 210px;
+  gap: 32px;
+  @media (max-width: 720px) {
+    grid-template-columns: 1fr;
+  }
+`;
 
 const RootLayout = ({ children }: { children: React.ReactNode }) => {
   return (
@@ -61,8 +73,17 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
               <Header />
               <Container topBarPadding>
                 <Space h={32} />
-                <Breadcrumbs />
-                {children}
+                <RootLayoutContainer>
+                  <div>
+                    <Breadcrumbs />
+                    {children}
+                  </div>
+                  <HideOnMobile>
+                    <Space h={108} />
+                    <Navigation />
+                    <Space h={32} />
+                  </HideOnMobile>
+                </RootLayoutContainer>
               </Container>
               <Footer />
             </body>
