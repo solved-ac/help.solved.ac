@@ -1,6 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: "export",
+  pageExtensions: ["ts", "tsx", "mdx"],
   experimental: {
     mdxRs: true,
   },

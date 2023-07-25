@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-page-custom-font */
 "use client";
 
 import { HideOnMobile } from "@/components/device/Mobile";
