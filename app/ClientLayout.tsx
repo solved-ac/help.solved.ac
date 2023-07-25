@@ -53,7 +53,7 @@ const ClientLayout = (props: PropsWithChildren<ClientLayoutProps>) => {
           <NavigationContainer>
             <Space h={192} />
             {navigationComponent}
-            <Space h={32} />
+            <Space h={64} />
           </NavigationContainer>
         </RootLayoutContainer>
       </Container>
