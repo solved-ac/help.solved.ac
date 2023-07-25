@@ -25,7 +25,7 @@ const RootLayoutContainer = styled.div`
 
 const NavigationContainer = styled(HideOnMobile)`
   position: sticky;
-  top: -96px;
+  top: -84px;
   align-self: flex-start;
   max-height: 100vh;
   overflow-y: auto;
