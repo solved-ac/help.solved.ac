@@ -5,8 +5,9 @@ import GlobalStyles from "@/style/GlobalStyles";
 import { helpTheme } from "@/style/theme";
 import { ThemeProvider } from "@emotion/react";
 import styled from "@emotion/styled";
-import { Container, Footer, Space } from "@solved-ac/ui-react";
+import { Container, Space } from "@solved-ac/ui-react";
 import { PropsWithChildren } from "react";
+import Footer from "./Footer";
 import Header from "./Header";
 
 interface ClientLayoutProps {
