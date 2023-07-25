@@ -1,8 +1,97 @@
-0:["a6K98KGPCYUwgO0_h8L2c",[[["",{"children":["ko",{"children":["getting-started",{"children":["link-account",{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
-3:I{"id":6456,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-47e9eb5a709467bc.js","220:static/chunks/220-1ef5389006469e75.js","241:static/chunks/241-abac51f340db80b1.js","185:static/chunks/app/layout-8c9ac700c5a8d16e.js"],"name":"","async":false}
-4:I{"id":7767,"chunks":["272:static/chunks/webpack-a8ba63f2417b26c7.js","971:static/chunks/fd9d1056-fe8c62b67ebb5281.js","596:static/chunks/596-9910d2cba943a1ec.js"],"name":"default","async":false}
-5:I{"id":7920,"chunks":["272:static/chunks/webpack-a8ba63f2417b26c7.js","971:static/chunks/fd9d1056-fe8c62b67ebb5281.js","596:static/chunks/596-9910d2cba943a1ec.js"],"name":"default","async":false}
-6:I{"id":4839,"chunks":["272:static/chunks/webpack-a8ba63f2417b26c7.js","971:static/chunks/fd9d1056-fe8c62b67ebb5281.js","596:static/chunks/596-9910d2cba943a1ec.js"],"name":"default","async":false}
-7:I{"id":2574,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-47e9eb5a709467bc.js","220:static/chunks/220-1ef5389006469e75.js","50:static/chunks/app/ko/getting-started/link-account/page-eda1e1c4e9c1b74e.js"],"name":"","async":false}
-1:[["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"template":["$","$L5",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","ko","children"],"error":"$undefined","errorStyles":"$undefined","loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"template":["$","$L5",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","ko","children","getting-started","children"],"error":"$undefined","errorStyles":"$undefined","loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"template":["$","$L5",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","ko","children","getting-started","children","link-account","children"],"error":"$undefined","errorStyles":"$undefined","loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"template":["$","$L5",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":[["$","$L6",null,{"propsForComponent":{"params":{}},"Component":"$7"}],null],"segment":"__PAGE__"},"styles":[]}],"segment":"link-account"},"styles":[]}],"segment":"getting-started"},"styles":[]}],"segment":"ko"},"styles":[]}],"params":{}}],null]
+0:["kjsHshUuf6K65vu6NMcYi",[[["",{"children":[["slug","ko/getting-started/link-account","c"],{"children":["__PAGE__?{\"slug\":[\"ko\",\"getting-started\",\"link-account\"]}",{}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
+1:["$L3",null]
 2:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+4:I{"id":5492,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-47e9eb5a709467bc.js","903:static/chunks/903-88b48dd18eacfb6a.js","560:static/chunks/560-2179b7db8c8e0938.js","185:static/chunks/app/layout-56e2368d3d2ca8f9.js"],"name":"","async":false}
+5:I{"id":8175,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-47e9eb5a709467bc.js","903:static/chunks/903-88b48dd18eacfb6a.js","560:static/chunks/560-2179b7db8c8e0938.js","185:static/chunks/app/layout-56e2368d3d2ca8f9.js"],"name":"","async":false}
+6:I{"id":483,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-47e9eb5a709467bc.js","903:static/chunks/903-88b48dd18eacfb6a.js","560:static/chunks/560-2179b7db8c8e0938.js","185:static/chunks/app/layout-56e2368d3d2ca8f9.js"],"name":"","async":false}
+7:I{"id":7767,"chunks":["272:static/chunks/webpack-a8ba63f2417b26c7.js","971:static/chunks/fd9d1056-fe8c62b67ebb5281.js","596:static/chunks/596-9910d2cba943a1ec.js"],"name":"default","async":false}
+8:I{"id":7920,"chunks":["272:static/chunks/webpack-a8ba63f2417b26c7.js","971:static/chunks/fd9d1056-fe8c62b67ebb5281.js","596:static/chunks/596-9910d2cba943a1ec.js"],"name":"default","async":false}
+3:["$","html",null,{"lang":"ko","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=JetBrains+Mono:ital,wght@0,400;0,700;1,400;1,700&family=Oxanium:wght@400;700&display=swap","rel":"stylesheet"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,700&display=swap"}],["$","link",null,{"rel":"stylesheet","href":"https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-dynamic-subset.css"}],["$","link",null,{"rel":"stylesheet","href":"https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.css","crossOrigin":"anonymous"}]]}],["$","body",null,{"children":["$","$L4",null,{"breadcrumbsComponent":["$","$L5",null,{"guidemap":{"key":"","title":null,"guides":[{"key":"/ko","title":null,"guides":[{"key":"/ko/getting-started","title":"시작하기","guides":[{"key":"/ko/getting-started/link-account","title":"계정 만들기","type":"guide"}],"type":"category"}],"type":"category"}],"type":"category"}}],"navigationComponent":["$","$L6",null,{"guidemap":{"key":"","title":null,"guides":[{"key":"/ko","title":null,"guides":[{"key":"/ko/getting-started","title":"시작하기","guides":[{"key":"/ko/getting-started/link-account","title":"계정 만들기","type":"guide"}],"type":"category"}],"type":"category"}],"type":"category"}}],"children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children",["slug","ko/getting-started/link-account","c"],"children"],"error":"$undefined","errorStyles":"$undefined","loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L9",null],"segment":"__PAGE__?{\"slug\":[\"ko\",\"getting-started\",\"link-account\"]}"},"styles":[]}],"segment":["slug","ko/getting-started/link-account","c"]},"styles":[]}]}]}]]}]
+a:I{"id":4797,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-47e9eb5a709467bc.js","903:static/chunks/903-88b48dd18eacfb6a.js","877:static/chunks/app/[...slug]/page-d57643dd0045b5ba.js"],"name":"","async":false}
+b:I{"id":7809,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-47e9eb5a709467bc.js","903:static/chunks/903-88b48dd18eacfb6a.js","877:static/chunks/app/[...slug]/page-d57643dd0045b5ba.js"],"name":"","async":false}
+c:Tec6,/*@jsxRuntime automatic @jsxImportSource react*/
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = Object.assign({
+    p: "p",
+    a: "a",
+    h2: "h2",
+    strong: "strong",
+    img: "img"
+  }, _provideComponents(), props.components), {Button, IconExternalLink} = _components;
+  if (!Button) _missingMdxReference("Button", true);
+  if (!IconExternalLink) _missingMdxReference("IconExternalLink", true);
+  return _jsxs(_Fragment, {
+    children: [_jsxs(_components.p, {
+      children: ["solved.ac는 ", _jsx(_components.a, {
+        href: "https://www.acmicpc.net/",
+        children: "백준 온라인 저지"
+      }), " 계정의 정보를 사용합니다. solved.ac를 사용하려면 먼저 백준 온라인 저지 계정을 연동해야 합니다."]
+    }), "\n", _jsx(_components.h2, {
+      children: "1. 회원가입"
+    }), "\n", _jsx(_components.p, {
+      children: "아직 백준 온라인 저지 회원이 아니시라면, 백준 온라인 저지에 가입해 주세요."
+    }), "\n", _jsx(Button, {
+      as: "a",
+      href: "https://www.acmicpc.net/register",
+      children: _jsxs(_components.p, {
+        children: ["백준 온라인 저지 가입하기 ", _jsx(IconExternalLink, {})]
+      })
+    }), "\n", _jsx(_components.h2, {
+      children: "2. solved.ac 사용하기"
+    }), "\n", _jsxs(_components.p, {
+      children: ["백준 온라인 저지 설정의 ", _jsx(_components.strong, {
+        children: "solved.ac"
+      }), " 섹션에서, ", _jsx(_components.strong, {
+        children: "사용하기"
+      }), " 버튼을 눌러 연동해 주세요."]
+    }), "\n", _jsx(Button, {
+      as: "a",
+      href: "https://www.acmicpc.net/setting/solved.ac",
+      children: _jsxs(_components.p, {
+        children: ["백준 온라인 저지 설정 ", _jsx(IconExternalLink, {})]
+      })
+    }), "\n", _jsx(_components.p, {
+      children: _jsx(_components.img, {
+        src: "/getting-started/boj-solved-ac-ko.png",
+        alt: "백준 온라인 저지 설정 화면의 스크린샷"
+      })
+    }), "\n", _jsx(_components.h2, {
+      children: "3. 로그인"
+    }), "\n", _jsxs(_components.p, {
+      children: ["계정이 연동되었습니다! 이제 solved.ac의 상단 바에서 ", _jsx(_components.strong, {
+        children: "로그인"
+      }), " 버튼을 누르시고, 안내에 따라 로그인해 주세요."]
+    }), "\n", _jsx(_components.p, {
+      children: _jsx(_components.img, {
+        src: "/getting-started/top-bar-ko.png",
+        alt: "백준 온라인 저지 연동"
+      })
+    }), "\n", _jsx(_components.h2, {
+      children: "4. 로그인 완료"
+    }), "\n", _jsx(_components.p, {
+      children: "로그인이 완료되면 solved.ac의 상단 바에 프로필 사진이 표시됩니다."
+    }), "\n", _jsx(_components.p, {
+      children: "프로필 사진이 표시된 곳에 마우스를 올리면 solved.ac 프로필 확인 등 여러 가지 메뉴를 사용할 수 있습니다."
+    }), "\n", _jsx(_components.p, {
+      children: _jsx(_components.img, {
+        src: "/getting-started/profile-menu-ko.png",
+        alt: "프로필 메뉴"
+      })
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = Object.assign({}, _provideComponents(), props.components);
+  return MDXLayout ? _jsx(MDXLayout, Object.assign({}, props, {
+    children: _jsx(_createMdxContent, props)
+  })) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+9:[["$","$La",null,{"children":"계정 만들기"}],["$","$Lb",null,{"compiledSource":"$c","frontmatter":{"title":"계정 만들기"},"scope":{}}]]
