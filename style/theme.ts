@@ -1,3 +1,5 @@
+"use client";
+
 import { solvedThemes } from "@solved-ac/ui-react";
 
 export const helpTheme = {

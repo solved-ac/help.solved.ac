@@ -9,7 +9,6 @@ import { AnimatePresence, motion } from "framer-motion";
 import Link from "next/link";
 import { transparentize } from "polished";
 import { useState } from "react";
-import Navigation from "./Navigation";
 
 const NavBarContainer = styled.nav`
   position: fixed;
@@ -82,7 +81,12 @@ const TopDrawerNavigationContainer = styled.div`
   font-size: 1.2em;
 `;
 
-const Header = () => {
+interface Props {
+  navigationComponent: React.ReactNode;
+}
+
+const Header = (props: Props) => {
+  const { navigationComponent } = props;
   const theme = useTheme();
   const [open, setOpen] = useState(false);
 
@@ -145,7 +149,7 @@ const Header = () => {
                     </Button>
                   </TopDrawerHeader>
                   <TopDrawerNavigationContainer>
-                    <Navigation />
+                    {navigationComponent}
                   </TopDrawerNavigationContainer>
                   <Space h={32} />
                 </Container>

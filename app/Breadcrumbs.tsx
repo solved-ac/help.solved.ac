@@ -1,8 +1,11 @@
 "use client";
 
-import useResolvePath from "@/hooks/useResolvePath";
+import useLanguage from "@/hooks/useLanguage";
+import { Guide, GuideCategory } from "@/types/Guide";
+import { isPrefixPath } from "@/utils/path";
 import styled from "@emotion/styled";
-import { Fragment } from "react";
+import { usePathname } from "next/navigation";
+import { Fragment, useMemo } from "react";
 
 const BreadcrumbContainer = styled.ul`
   margin: 0;
@@ -16,15 +19,36 @@ const BreadcrumbEntry = styled.li`
   margin-right: 8px;
 `;
 
-const Breadcrumbs = () => {
-  const { lang, path } = useResolvePath();
+interface Props {
+  guidemap: GuideCategory;
+}
+
+const Breadcrumbs = (props: Props) => {
+  const { guidemap } = props;
+  const lang = useLanguage();
+  const path = usePathname();
+
+  const breadcrumbs = useMemo(() => {
+    const ret: (Guide | GuideCategory)[] = [];
+    const dfs = (item: Guide | GuideCategory) => {
+      const isCurrent = isPrefixPath(item.key, path);
+      if (!isCurrent) return;
+      ret.push(item);
+      if (item.type === "guide") return;
+      for (const guide of item.guides) {
+        dfs(guide);
+      }
+    };
+    dfs(guidemap);
+    return ret.filter((x) => x.title);
+  }, [guidemap, path]);
 
   return (
     <BreadcrumbContainer>
-      {path.map((p, i) => (
+      {breadcrumbs.map((p, i) => (
         <Fragment key={i}>
-          <BreadcrumbEntry>{p.title[lang]}</BreadcrumbEntry>
-          {i !== path.length - 1 && <BreadcrumbEntry>/</BreadcrumbEntry>}
+          <BreadcrumbEntry>{p.title}</BreadcrumbEntry>
+          {i !== breadcrumbs.length - 1 && <BreadcrumbEntry>/</BreadcrumbEntry>}
         </Fragment>
       ))}
     </BreadcrumbContainer>

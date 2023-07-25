@@ -1,3 +1,4 @@
+import { GuideCategory } from "@/types/Guide";
 import fs from "fs";
 import { serialize } from "next-mdx-remote/serialize";
 import path from "path";
@@ -7,7 +8,19 @@ import path from "path";
 export const POSTS_FOLDER_PATH = path.join(process.cwd(), "posts");
 
 export const readPostFileContent = async (slug: string) => {
-  const fileContent = fs.readFileSync(`${POSTS_FOLDER_PATH}/${slug}.mdx`, {
+  const filenameCandidates = [
+    `${POSTS_FOLDER_PATH}/${slug}.mdx`,
+    `${POSTS_FOLDER_PATH}/${slug}/index.mdx`,
+  ];
+
+  const filename = filenameCandidates.find((filename) =>
+    fs.existsSync(filename)
+  );
+
+  if (!filename)
+    throw new Error(`No such file: ${JSON.stringify(filenameCandidates)}`);
+
+  const fileContent = fs.readFileSync(filename, {
     encoding: "utf-8",
   });
   return fileContent;
@@ -22,9 +35,21 @@ export const getPostBySlug = async (slug: string) => {
   const { frontmatter } = serialized;
 
   return {
-    meta: { ...frontmatter, slug: fileSlug },
+    meta: { title: "solved.ac Help", ...frontmatter, slug: fileSlug },
     serialized,
   };
+};
+
+export const getFrontmatterBySlug = async (slug: string) => {
+  try {
+    const post = await getPostBySlug(slug);
+    return post.meta;
+  } catch (e) {
+    return {
+      slug,
+      title: null,
+    };
+  }
 };
 
 export const getAllPostSlugsInDirectory = async (
@@ -38,7 +63,9 @@ export const getAllPostSlugsInDirectory = async (
   const slugs = files
     .filter((file) => file.endsWith(".mdx"))
     .map((file) => file.replace(/\.mdx$/, ""))
-    .map((file) => `${replacedPrefix}/${file}`);
+    .map((file) => file.replace(/^index$/, ""))
+    .map((file) => `${replacedPrefix}/${file}`)
+    .map((file) => file.replace(/\/$/, ""));
 
   // then extract subdirectories
   const subdirectories = files.filter((file) =>
@@ -60,5 +87,63 @@ export const getAllPostSlugsInDirectory = async (
 };
 
 export const getAllPostSlugs = async (): Promise<string[]> => {
-  return getAllPostSlugsInDirectory(POSTS_FOLDER_PATH, "/posts");
+  return getAllPostSlugsInDirectory(POSTS_FOLDER_PATH, "");
+};
+
+export const getAllPosts = async () => {
+  const slugs = await getAllPostSlugs();
+  const posts = await Promise.all(slugs.map((slug) => getPostBySlug(slug)));
+  return posts;
+};
+
+export const getGuidemapInDirectory = async (
+  path: string,
+  prefix: string
+): Promise<GuideCategory> => {
+  const replacedPrefix = prefix.replace(/\/$/, "");
+
+  // first extract .mdx files in the directory
+  const files = await fs.promises.readdir(path);
+  const slugs = files
+    .filter((file) => file.endsWith(".mdx"))
+    .map((file) => file.replace(/\.mdx$/, ""))
+    .map((file) => file.replace(/^index$/, ""))
+    .map((file) => `${replacedPrefix}/${file}`)
+    .map((file) => file.replace(/\/$/, ""));
+
+  const frontmatters = await Promise.all(
+    slugs.map(async (slug) => getFrontmatterBySlug(slug))
+  );
+  const guides = frontmatters.map((fm) => ({
+    key: fm.slug,
+    title: fm.title,
+    type: "guide" as const,
+  }));
+
+  const indexGuide = guides.find((guide) => guide.key === prefix);
+  const nonIndexGuides = guides.filter((guide) => guide.key !== prefix);
+
+  // then extract subdirectories
+  const subdirectories = files.filter((file) =>
+    fs.lstatSync(`${path}/${file}`).isDirectory()
+  );
+  const subdirectoryGuides = await Promise.all(
+    subdirectories.map((subdirectory) =>
+      getGuidemapInDirectory(
+        `${path}/${subdirectory}`,
+        `${replacedPrefix}/${subdirectory}`
+      )
+    )
+  );
+
+  return {
+    key: prefix,
+    title: indexGuide?.title ?? null,
+    guides: [...nonIndexGuides, ...subdirectoryGuides],
+    type: "category" as const,
+  };
+};
+
+export const getGuidemap = async (): Promise<GuideCategory> => {
+  return getGuidemapInDirectory(POSTS_FOLDER_PATH, "");
 };

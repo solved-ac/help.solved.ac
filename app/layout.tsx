@@ -1,96 +1,50 @@
 /* eslint-disable @next/next/no-page-custom-font */
-"use client";
-
-import { HideOnMobile } from "@/components/device/Mobile";
-import { helpTheme } from "@/style/theme";
-import { Global, ThemeProvider, css } from "@emotion/react";
-import styled from "@emotion/styled";
-import { Container, SolvedGlobalStyles, Space } from "@solved-ac/ui-react";
-import SolvedMDXProvider from "../components/mdx/SolvedMDXProvider";
+import Navigation from "@/components/navigation/Navigation";
+import { getGuidemap } from "@/utils/post";
 import Breadcrumbs from "./Breadcrumbs";
-import Footer from "./Footer";
-import Header from "./Header";
-import Navigation from "./Navigation";
+import ClientLayout from "./ClientLayout";
 
-const RootLayoutContainer = styled.div`
-  display: grid;
-  grid-template-columns: 1fr 210px;
-  gap: 32px;
-  @media (max-width: 720px) {
-    grid-template-columns: 1fr;
-  }
-`;
+const RootLayout = async ({ children }: { children: React.ReactNode }) => {
+  const guidemap = await getGuidemap();
 
-const RootLayout = ({ children }: { children: React.ReactNode }) => {
   return (
     <>
-      <ThemeProvider theme={helpTheme}>
-        <SolvedGlobalStyles />
-        <Global
-          styles={css`
-            .katex .hangul_fallback {
-              font-family: "Pretendard", "Inter", "Noto Sans JP", -apple-system,
-                BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial,
-                sans-serif, "Apple string Emoji", "Segoe UI Emoji",
-                "Segoe UI Symbol";
-              font-size: 0.8264em;
-            }
-            .tabler-icon {
-              vertical-align: middle;
-              width: 1.2em;
-              height: 1.2em;
-            }
-          `}
-        />
-        {/* TODO: fix language */}
-        <SolvedMDXProvider>
-          <html lang="ko">
-            <head>
-              <link rel="preconnect" href="https://fonts.googleapis.com" />
-              <link
-                rel="preconnect"
-                href="https://fonts.gstatic.com"
-                crossOrigin="anonymous"
-              />
-              <link
-                href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=JetBrains+Mono:ital,wght@0,400;0,700;1,400;1,700&family=Oxanium:wght@400;700&display=swap"
-                rel="stylesheet"
-              />
-              <link
-                rel="stylesheet"
-                href="https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,700&amp;display=swap"
-              />
-              <link
-                rel="stylesheet"
-                href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-dynamic-subset.css"
-              />
-              <link
-                rel="stylesheet"
-                href="https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.css"
-                crossOrigin="anonymous"
-              />
-            </head>
-            <body>
-              <Header />
-              <Container topBarPadding>
-                <Space h={32} />
-                <RootLayoutContainer>
-                  <div>
-                    <Breadcrumbs />
-                    {children}
-                  </div>
-                  <HideOnMobile>
-                    <Space h={108} />
-                    <Navigation />
-                    <Space h={32} />
-                  </HideOnMobile>
-                </RootLayoutContainer>
-              </Container>
-              <Footer />
-            </body>
-          </html>
-        </SolvedMDXProvider>
-      </ThemeProvider>
+      {/* TODO: fix language */}
+      <html lang="ko">
+        <head>
+          <link rel="preconnect" href="https://fonts.googleapis.com" />
+          <link
+            rel="preconnect"
+            href="https://fonts.gstatic.com"
+            crossOrigin="anonymous"
+          />
+          <link
+            href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=JetBrains+Mono:ital,wght@0,400;0,700;1,400;1,700&family=Oxanium:wght@400;700&display=swap"
+            rel="stylesheet"
+          />
+          <link
+            rel="stylesheet"
+            href="https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,700&amp;display=swap"
+          />
+          <link
+            rel="stylesheet"
+            href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-dynamic-subset.css"
+          />
+          <link
+            rel="stylesheet"
+            href="https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.css"
+            crossOrigin="anonymous"
+          />
+        </head>
+        <body>
+          <ClientLayout
+            breadcrumbsComponent={<Breadcrumbs guidemap={guidemap} />}
+            navigationComponent={<Navigation guidemap={guidemap} />}
+          >
+            {children}
+          </ClientLayout>
+        </body>
+      </html>
     </>
   );
 };
