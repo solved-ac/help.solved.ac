@@ -1,0 +1,637 @@
+0:["CeypqwEoYmUPk75rYfxmb",[[["",{"children":[["slug","ko/stats/class","c"],{"children":["__PAGE__?{\"slug\":[\"ko\",\"stats\",\"class\"]}",{}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
+1:["$L3",null]
+2:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+4:I{"id":5492,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-e33ad5165030ba32.js","903:static/chunks/903-88b48dd18eacfb6a.js","560:static/chunks/560-2179b7db8c8e0938.js","185:static/chunks/app/layout-ef237fbc834f0813.js"],"name":"","async":false}
+5:I{"id":8175,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-e33ad5165030ba32.js","903:static/chunks/903-88b48dd18eacfb6a.js","560:static/chunks/560-2179b7db8c8e0938.js","185:static/chunks/app/layout-ef237fbc834f0813.js"],"name":"","async":false}
+6:I{"id":483,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-e33ad5165030ba32.js","903:static/chunks/903-88b48dd18eacfb6a.js","560:static/chunks/560-2179b7db8c8e0938.js","185:static/chunks/app/layout-ef237fbc834f0813.js"],"name":"","async":false}
+7:I{"id":7767,"chunks":["272:static/chunks/webpack-a8ba63f2417b26c7.js","971:static/chunks/fd9d1056-fe8c62b67ebb5281.js","596:static/chunks/596-9910d2cba943a1ec.js"],"name":"default","async":false}
+8:I{"id":7920,"chunks":["272:static/chunks/webpack-a8ba63f2417b26c7.js","971:static/chunks/fd9d1056-fe8c62b67ebb5281.js","596:static/chunks/596-9910d2cba943a1ec.js"],"name":"default","async":false}
+3:["$","html",null,{"lang":"ko","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=JetBrains+Mono:ital,wght@0,400;0,700;1,400;1,700&family=Oxanium:wght@400;700&display=swap","rel":"stylesheet"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,700&display=swap"}],["$","link",null,{"rel":"stylesheet","href":"https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-dynamic-subset.css"}],["$","link",null,{"rel":"stylesheet","href":"https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.css","crossOrigin":"anonymous"}]]}],["$","body",null,{"children":["$","$L4",null,{"breadcrumbsComponent":["$","$L5",null,{"guidemap":{"key":"","title":null,"index":0,"guides":[{"key":"/en","title":null,"index":0,"guides":[{"key":"/en/arena","title":"Arena","index":0,"guides":[{"key":"/en/arena/getting-started","title":"For Participants","index":0,"guides":[{"key":"/en/arena/getting-started/link-account","title":"Register","index":0,"type":"guide"}],"type":"category"}],"type":"category"}],"type":"category"},{"key":"/ko","title":null,"index":0,"guides":[{"key":"/ko/getting-started","title":"시작하기","index":0,"guides":[{"key":"/ko/getting-started/link-account","title":"계정 만들기","index":1,"type":"guide"}],"type":"category"},{"key":"/ko/stats","title":"스탯","index":1,"guides":[{"key":"/ko/stats/profile","title":"프로필 조회하기","index":0,"type":"guide"},{"key":"/ko/stats/ac-rating","title":"티어와 AC 레이팅","index":10,"type":"guide"},{"key":"/ko/stats/class","title":"CLASS","index":20,"type":"guide"}],"type":"category"}],"type":"category"}],"type":"category"}}],"navigationComponent":["$","$L6",null,{"guidemap":{"key":"","title":null,"index":0,"guides":[{"key":"/en","title":null,"index":0,"guides":[{"key":"/en/arena","title":"Arena","index":0,"guides":[{"key":"/en/arena/getting-started","title":"For Participants","index":0,"guides":[{"key":"/en/arena/getting-started/link-account","title":"Register","index":0,"type":"guide"}],"type":"category"}],"type":"category"}],"type":"category"},{"key":"/ko","title":null,"index":0,"guides":[{"key":"/ko/getting-started","title":"시작하기","index":0,"guides":[{"key":"/ko/getting-started/link-account","title":"계정 만들기","index":1,"type":"guide"}],"type":"category"},{"key":"/ko/stats","title":"스탯","index":1,"guides":[{"key":"/ko/stats/profile","title":"프로필 조회하기","index":0,"type":"guide"},{"key":"/ko/stats/ac-rating","title":"티어와 AC 레이팅","index":10,"type":"guide"},{"key":"/ko/stats/class","title":"CLASS","index":20,"type":"guide"}],"type":"category"}],"type":"category"}],"type":"category"}}],"children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children",["slug","ko/stats/class","c"],"children"],"error":"$undefined","errorStyles":"$undefined","loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L9",null],"segment":"__PAGE__?{\"slug\":[\"ko\",\"stats\",\"class\"]}"},"styles":[]}],"segment":["slug","ko/stats/class","c"]},"styles":[]}]}]}]]}]
+a:I{"id":4797,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-e33ad5165030ba32.js","903:static/chunks/903-88b48dd18eacfb6a.js","877:static/chunks/app/[...slug]/page-2824d0080a75a69e.js"],"name":"","async":false}
+b:I{"id":554,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-e33ad5165030ba32.js","903:static/chunks/903-88b48dd18eacfb6a.js","877:static/chunks/app/[...slug]/page-2824d0080a75a69e.js"],"name":"","async":false}
+c:T549a,/*@jsxRuntime automatic @jsxImportSource react*/
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = Object.assign({
+    p: "p",
+    strong: "strong",
+    ul: "ul",
+    li: "li",
+    a: "a",
+    h2: "h2",
+    table: "table",
+    thead: "thead",
+    tr: "tr",
+    th: "th",
+    tbody: "tbody",
+    td: "td",
+    span: "span",
+    math: "math",
+    semantics: "semantics",
+    mrow: "mrow",
+    mi: "mi",
+    annotation: "annotation"
+  }, _provideComponents(), props.components), {ExternalLink, ClassIcon} = _components;
+  if (!ClassIcon) _missingMdxReference("ClassIcon", true);
+  if (!ExternalLink) _missingMdxReference("ExternalLink", true);
+  return _jsxs(_Fragment, {
+    children: [_jsx(ExternalLink, {
+      href: "https://solved.ac/class",
+      children: "CLASS"
+    }), "\n", _jsxs(_components.p, {
+      children: [_jsx(_components.strong, {
+        children: "CLASS"
+      }), "는 solved.ac가 큐레이션한 문제들을 풀어서 취득할 수 있는 등급입니다. CLASS를 취득하면 최대 250까지의 보너스 레이팅을 받을 수 있습니다."]
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsxs(_components.li, {
+        children: ["참고: 가이드 ", _jsx(_components.a, {
+          href: "/ko/stats/ac-rating",
+          children: "「티어와 AC 레이팅」"
+        })]
+      }), "\n"]
+    }), "\n", _jsx(_components.h2, {
+      children: "단계"
+    }), "\n", _jsxs(_components.p, {
+      children: ["CLASS에는 총 10단계가 있습니다. 각 단계마다는 solved.ac가 미리 정해 둔 36–48개의 문제들이 있습니다. 이 문제들 중 아무 문제나 골라, 각 CLASS의 ", _jsx(_components.strong, {
+        children: "취득 조건"
+      }), "에 해당하는 문제 수만큼을 해결하면 그 CLASS를 취득할 수 있습니다."]
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsx(_components.li, {
+        children: "CLASS 9와 10은 이전 단계의 CLASS를 취득해야 취득할 수 있습니다."
+      }), "\n"]
+    }), "\n", _jsxs(_components.table, {
+      children: [_jsx(_components.thead, {
+        children: _jsxs(_components.tr, {
+          children: [_jsx(_components.th, {
+            align: "center"
+          }), _jsx(_components.th, {
+            align: "center",
+            children: _jsx(ClassIcon, {
+              c: 1
+            })
+          }), _jsx(_components.th, {
+            align: "center",
+            children: _jsx(ClassIcon, {
+              c: 2
+            })
+          }), _jsx(_components.th, {
+            align: "center",
+            children: _jsx(ClassIcon, {
+              c: 3
+            })
+          }), _jsx(_components.th, {
+            align: "center",
+            children: _jsx(ClassIcon, {
+              c: 4
+            })
+          }), _jsx(_components.th, {
+            align: "center",
+            children: _jsx(ClassIcon, {
+              c: 5
+            })
+          })]
+        })
+      }), _jsxs(_components.tbody, {
+        children: [_jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            align: "center",
+            children: "문제 수"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(_components.a, {
+              href: "https://solved.ac/class/1",
+              children: "36"
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(_components.a, {
+              href: "https://solved.ac/class/2",
+              children: "40"
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(_components.a, {
+              href: "https://solved.ac/class/3",
+              children: "48"
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(_components.a, {
+              href: "https://solved.ac/class/4",
+              children: "48"
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(_components.a, {
+              href: "https://solved.ac/class/5",
+              children: "48"
+            })
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            align: "center",
+            children: "취득 조건"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "16"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "20"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "24"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "24"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "24"
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            align: "center",
+            children: "보너스 레이팅"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "+25"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "+50"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "+100"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "+150"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "+200"
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            align: "center"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(ClassIcon, {
+              c: 6
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(ClassIcon, {
+              c: 7
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(ClassIcon, {
+              c: 8
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(ClassIcon, {
+              c: 9
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(ClassIcon, {
+              c: 10
+            })
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            align: "center",
+            children: "문제 수"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(_components.a, {
+              href: "https://solved.ac/class/6",
+              children: "48"
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(_components.a, {
+              href: "https://solved.ac/class/7",
+              children: "48"
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(_components.a, {
+              href: "https://solved.ac/class/8",
+              children: "48"
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(_components.a, {
+              href: "https://solved.ac/class/9",
+              children: "48"
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(_components.a, {
+              href: "https://solved.ac/class/10",
+              children: "48"
+            })
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            align: "center",
+            children: "취득 조건"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "24"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "24"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "24"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "24"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "24"
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            align: "center",
+            children: "보너스 레이팅"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "+210"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "+220"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "+230"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "+240"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "+250"
+          })]
+        })]
+      })]
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsxs(_components.li, {
+        children: [_jsx(_components.strong, {
+          children: "CLASS 1"
+        }), ": 프로그래밍 문제해결 초심자가 문제해결에 익숙해질 수 있도록 하는 단계"]
+      }), "\n", _jsxs(_components.li, {
+        children: [_jsx(_components.strong, {
+          children: "CLASS 2"
+        }), ": 기초적인 자료 구조, 알고리즘 및 컴퓨팅 사고력을 이용해 문제를 해결해야 하는 단계"]
+      }), "\n", _jsxs(_components.li, {
+        children: [_jsx(_components.strong, {
+          children: "CLASS 3–4"
+        }), ": 코딩 테스트 및 현업에서 사용되는 컴퓨터과학 학부 수준의 자료 구조, 알고리즘 및 컴퓨팅 사고력을 이용해 문제를 해결해야 하는 단계"]
+      }), "\n", _jsxs(_components.li, {
+        children: [_jsx(_components.strong, {
+          children: "CLASS 5–6"
+        }), ": 프로그래밍 대회에서 등장하는 여러 기반 지식을 이용해 문제를 해결해야 하는 단계"]
+      }), "\n", _jsxs(_components.li, {
+        children: [_jsx(_components.strong, {
+          children: "CLASS 7–10"
+        }), ": 프로그래밍 대회에서 등장하는 심화 지식을 이용해 문제를 해결해야 하는 단계"]
+      }), "\n"]
+    }), "\n", _jsx(_components.h2, {
+      children: "장식"
+    }), "\n", _jsxs(_components.p, {
+      children: ["특정 조건을 만족하면 취득한 CLASS에 ", _jsx(_components.strong, {
+        children: "장식"
+      }), "이 추가됩니다."]
+    }), "\n", _jsxs(_components.table, {
+      children: [_jsx(_components.thead, {
+        children: _jsxs(_components.tr, {
+          children: [_jsx(_components.th, {
+            align: "center"
+          }), _jsx(_components.th, {
+            align: "center",
+            children: "장식"
+          }), _jsx(_components.th, {
+            align: "center",
+            children: "조건"
+          })]
+        })
+      }), _jsxs(_components.tbody, {
+        children: [_jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            align: "center",
+            children: _jsx(ClassIcon, {
+              c: 1
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "없음"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "CLASS를 취득"
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            align: "center",
+            children: _jsx(ClassIcon, {
+              c: 1,
+              d: "silver"
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "은장"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "CLASS 내의 에센셜 문제들을 전부 해결"
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            align: "center",
+            children: _jsx(ClassIcon, {
+              c: 1,
+              d: "gold"
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "금장"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "CLASS 내의 문제들을 전부 해결"
+          })]
+        })]
+      })]
+    }), "\n", _jsxs(_components.p, {
+      children: ["잘식을 취득하면 랭킹 페이지 등 일부 페이지에서 CLASS가 ", _jsx(_components.span, {
+        className: "math math-inline",
+        children: _jsxs(_components.span, {
+          className: "katex",
+          children: [_jsx(_components.span, {
+            className: "katex-mathml",
+            children: _jsx(_components.math, {
+              xmlns: "http://www.w3.org/1998/Math/MathML",
+              children: _jsxs(_components.semantics, {
+                children: [_jsx(_components.mrow, {
+                  children: _jsx(_components.mi, {
+                    children: "x"
+                  })
+                }), _jsx(_components.annotation, {
+                  encoding: "application/x-tex",
+                  children: "x"
+                })]
+              })
+            })
+          }), _jsx(_components.span, {
+            className: "katex-html",
+            "aria-hidden": "true",
+            children: _jsxs(_components.span, {
+              className: "base",
+              children: [_jsx(_components.span, {
+                className: "strut",
+                style: {
+                  height: "0.4306em"
+                }
+              }), _jsx(_components.span, {
+                className: "mord mathnormal",
+                children: "x"
+              })]
+            })
+          })]
+        })
+      }), " 대신 ", _jsx(_components.span, {
+        className: "math math-inline",
+        children: _jsxs(_components.span, {
+          className: "katex",
+          children: [_jsx(_components.span, {
+            className: "katex-mathml",
+            children: _jsx(_components.math, {
+              xmlns: "http://www.w3.org/1998/Math/MathML",
+              children: _jsxs(_components.semantics, {
+                children: [_jsx(_components.mrow, {
+                  children: _jsx(_components.mi, {
+                    children: "x"
+                  })
+                }), _jsx(_components.annotation, {
+                  encoding: "application/x-tex",
+                  children: "x"
+                })]
+              })
+            })
+          }), _jsx(_components.span, {
+            className: "katex-html",
+            "aria-hidden": "true",
+            children: _jsxs(_components.span, {
+              className: "base",
+              children: [_jsx(_components.span, {
+                className: "strut",
+                style: {
+                  height: "0.4306em"
+                }
+              }), _jsx(_components.span, {
+                className: "mord mathnormal",
+                children: "x"
+              })]
+            })
+          })]
+        })
+      }), "⁺(은장), ", _jsx(_components.span, {
+        className: "math math-inline",
+        children: _jsxs(_components.span, {
+          className: "katex",
+          children: [_jsx(_components.span, {
+            className: "katex-mathml",
+            children: _jsx(_components.math, {
+              xmlns: "http://www.w3.org/1998/Math/MathML",
+              children: _jsxs(_components.semantics, {
+                children: [_jsx(_components.mrow, {
+                  children: _jsx(_components.mi, {
+                    children: "x"
+                  })
+                }), _jsx(_components.annotation, {
+                  encoding: "application/x-tex",
+                  children: "x"
+                })]
+              })
+            })
+          }), _jsx(_components.span, {
+            className: "katex-html",
+            "aria-hidden": "true",
+            children: _jsxs(_components.span, {
+              className: "base",
+              children: [_jsx(_components.span, {
+                className: "strut",
+                style: {
+                  height: "0.4306em"
+                }
+              }), _jsx(_components.span, {
+                className: "mord mathnormal",
+                children: "x"
+              })]
+            })
+          })]
+        })
+      }), "⁺⁺(금장)으로 표시됩니다. 레이팅 보너스는 없습니다."]
+    }), "\n", _jsx(_components.h2, {
+      children: "에센셜 문제"
+    }), "\n", _jsxs(_components.p, {
+      children: ["CLASS 내의 문제들 중, solved.ac가 중요하다고 생각하여 정한 특정 문제들을 ", _jsx(_components.strong, {
+        children: "에센셜 문제"
+      }), "라고 합니다. 에센셜 문제들을 전부 해결하면 장식이 추가됩니다."]
+    }), "\n", _jsxs(_components.table, {
+      children: [_jsx(_components.thead, {
+        children: _jsxs(_components.tr, {
+          children: [_jsx(_components.th, {
+            align: "center"
+          }), _jsx(_components.th, {
+            align: "center",
+            children: _jsx(ClassIcon, {
+              c: 1,
+              d: "silver"
+            })
+          }), _jsx(_components.th, {
+            align: "center",
+            children: _jsx(ClassIcon, {
+              c: 2,
+              d: "silver"
+            })
+          }), _jsx(_components.th, {
+            align: "center",
+            children: _jsx(ClassIcon, {
+              c: 3,
+              d: "silver"
+            })
+          }), _jsx(_components.th, {
+            align: "center",
+            children: _jsx(ClassIcon, {
+              c: 4,
+              d: "silver"
+            })
+          }), _jsx(_components.th, {
+            align: "center",
+            children: _jsx(ClassIcon, {
+              c: 5,
+              d: "silver"
+            })
+          })]
+        })
+      }), _jsxs(_components.tbody, {
+        children: [_jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            align: "center",
+            children: "문제 수"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(_components.a, {
+              href: "https://solved.ac/class/1e",
+              children: "16"
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(_components.a, {
+              href: "https://solved.ac/class/2e",
+              children: "20"
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(_components.a, {
+              href: "https://solved.ac/class/3e",
+              children: "20"
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(_components.a, {
+              href: "https://solved.ac/class/4e",
+              children: "24"
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(_components.a, {
+              href: "https://solved.ac/class/5e",
+              children: "24"
+            })
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            align: "center"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(ClassIcon, {
+              c: 6,
+              d: "silver"
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(ClassIcon, {
+              c: 7,
+              d: "silver"
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(ClassIcon, {
+              c: 8,
+              d: "silver"
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(ClassIcon, {
+              c: 9,
+              d: "silver"
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(ClassIcon, {
+              c: 10,
+              d: "silver"
+            })
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            align: "center",
+            children: "문제 수"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(_components.a, {
+              href: "https://solved.ac/class/6e",
+              children: "24"
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(_components.a, {
+              href: "https://solved.ac/class/7e",
+              children: "24"
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(_components.a, {
+              href: "https://solved.ac/class/8e",
+              children: "24"
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(_components.a, {
+              href: "https://solved.ac/class/9e",
+              children: "24"
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(_components.a, {
+              href: "https://solved.ac/class/10e",
+              children: "24"
+            })
+          })]
+        })]
+      })]
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = Object.assign({}, _provideComponents(), props.components);
+  return MDXLayout ? _jsx(MDXLayout, Object.assign({}, props, {
+    children: _jsx(_createMdxContent, props)
+  })) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+9:[["$","$La",null,{"children":"CLASS"}],["$","$Lb",null,{"compiledSource":"$c","frontmatter":{"title":"CLASS","index":20},"scope":{}}]]
