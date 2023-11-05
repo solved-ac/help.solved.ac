@@ -13,6 +13,7 @@ import {
   TableHead,
   Typo,
 } from "@solved-ac/ui-react";
+import ClassIcon from "./ClassIcon";
 import ContentHeading1 from "./ContentHeading1";
 import ContentHeading2 from "./ContentHeading2";
 import ContentImage from "./ContentImage";
@@ -33,17 +34,37 @@ const MDXComponents = {
   p: (props: any) => <Paragraph {...props} />,
   img: (props: any) => <ContentImage {...props} />,
   table: (props: any) => (
-    <TableContainer>
+    <TableContainer
+      style={{
+        wordBreak: "keep-all",
+      }}
+    >
       <Table {...props} />
     </TableContainer>
   ),
   tr: (props: any) => <Row {...props} />,
-  td: (props: any) => <Cell {...props} />,
-  th: (props: any) => <Cell header {...props} />,
+  td: (props: any) => (
+    <Cell
+      style={{
+        verticalAlign: "middle",
+      }}
+      {...props}
+    />
+  ),
+  th: (props: any) => (
+    <Cell
+      header
+      style={{
+        verticalAlign: "middle",
+      }}
+      {...props}
+    />
+  ),
   thead: (props: any) => <TableHead {...props} />,
   tbody: (props: any) => <TableBody {...props} />,
   ExternalLink: ExternalLinkButton,
   Tier,
+  ClassIcon,
   LevelColorText,
   Sprout: (props: any) => <LevelColorText t="sprout" {...props} />,
   Unrated: (props: any) => <LevelColorText t={0} {...props} />,
