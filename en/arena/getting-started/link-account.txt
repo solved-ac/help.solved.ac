@@ -1,4 +1,4 @@
-0:["g-ZNhgqgOaNbqtrfR1Awx",[[["",{"children":[["slug","en/arena/getting-started/link-account","c"],{"children":["__PAGE__?{\"slug\":[\"en\",\"arena\",\"getting-started\",\"link-account\"]}",{}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
+0:["RfhfJXvMqh-tx74r73abi",[[["",{"children":[["slug","en/arena/getting-started/link-account","c"],{"children":["__PAGE__?{\"slug\":[\"en\",\"arena\",\"getting-started\",\"link-account\"]}",{}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
 1:["$L3",null]
 2:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Register"}],["$","meta","2",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 4:I{"id":5492,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-e33ad5165030ba32.js","722:static/chunks/722-7cf64aec2670f789.js","396:static/chunks/396-491a2a07b215d93b.js","333:static/chunks/333-dc0c655bfc078da1.js","185:static/chunks/app/layout-4547e7694662d4c5.js"],"name":"","async":false}
