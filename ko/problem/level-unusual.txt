@@ -1,0 +1,273 @@
+0:["2TleJdqFRf-xC86KfCjv7",[[["",{"children":[["slug","ko/problem/level-unusual","c"],{"children":["__PAGE__?{\"slug\":[\"ko\",\"problem\",\"level-unusual\"]}",{}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
+1:["$L3",null]
+2:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"특수한 경우의 문제 난이도"}],["$","meta","2",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+4:I{"id":5492,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-3c03fcdecd7443cc.js","722:static/chunks/722-7cf64aec2670f789.js","396:static/chunks/396-491a2a07b215d93b.js","333:static/chunks/333-dc0c655bfc078da1.js","185:static/chunks/app/layout-4094bb0ea40fb078.js"],"name":"","async":false}
+5:I{"id":8175,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-3c03fcdecd7443cc.js","722:static/chunks/722-7cf64aec2670f789.js","396:static/chunks/396-491a2a07b215d93b.js","333:static/chunks/333-dc0c655bfc078da1.js","185:static/chunks/app/layout-4094bb0ea40fb078.js"],"name":"","async":false}
+6:I{"id":483,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-3c03fcdecd7443cc.js","722:static/chunks/722-7cf64aec2670f789.js","396:static/chunks/396-491a2a07b215d93b.js","333:static/chunks/333-dc0c655bfc078da1.js","185:static/chunks/app/layout-4094bb0ea40fb078.js"],"name":"","async":false}
+7:I{"id":7767,"chunks":["272:static/chunks/webpack-a8ba63f2417b26c7.js","971:static/chunks/fd9d1056-fe8c62b67ebb5281.js","596:static/chunks/596-9910d2cba943a1ec.js"],"name":"default","async":false}
+8:I{"id":7920,"chunks":["272:static/chunks/webpack-a8ba63f2417b26c7.js","971:static/chunks/fd9d1056-fe8c62b67ebb5281.js","596:static/chunks/596-9910d2cba943a1ec.js"],"name":"default","async":false}
+3:["$","html",null,{"lang":"ko","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=JetBrains+Mono:ital,wght@0,400;0,700;1,400;1,700&family=Oxanium:wght@400;700&display=swap","rel":"stylesheet"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,700&display=swap"}],["$","link",null,{"rel":"stylesheet","href":"https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-dynamic-subset.css"}],["$","link",null,{"rel":"stylesheet","href":"https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.css","crossOrigin":"anonymous"}]]}],["$","body",null,{"children":["$","$L4",null,{"breadcrumbsComponent":["$","$L5",null,{"guidemap":{"key":"","title":null,"index":0,"guides":[{"key":"/en","title":null,"index":0,"guides":[{"key":"/en/arena","title":"Arena","index":0,"guides":[{"key":"/en/arena/getting-started","title":"For Participants","index":0,"guides":[{"key":"/en/arena/getting-started/link-account","title":"Register","index":0,"type":"guide"}],"type":"category"}],"type":"category"}],"type":"category"},{"key":"/ko","title":null,"index":0,"guides":[{"key":"/ko/getting-started","title":"시작하기","index":0,"guides":[{"key":"/ko/getting-started/link-account","title":"계정 만들기","index":1,"type":"guide"}],"type":"category"},{"key":"/ko/stats","title":"스탯","index":1,"guides":[{"key":"/ko/stats/profile","title":"프로필 조회하기","index":0,"type":"guide"},{"key":"/ko/stats/ac-rating","title":"티어와 AC 레이팅","index":10,"type":"guide"},{"key":"/ko/stats/class","title":"CLASS","index":20,"type":"guide"}],"type":"category"},{"key":"/ko/problem","title":"문제","index":2,"guides":[{"key":"/ko/problem/level","title":"문제 난이도","index":10,"type":"guide"},{"key":"/ko/problem/level-unusual","title":"특수한 경우의 문제 난이도","index":20,"type":"guide"}],"type":"category"},{"key":"/ko/updates","title":"업데이트","index":999,"guides":[{"key":"/ko/updates/240530","title":"시즌 4 업데이트 (2024년 6월 5일)","index":-20240530,"type":"guide"}],"type":"category"}],"type":"category"}],"type":"category"}}],"navigationComponent":["$","$L6",null,{"guidemap":{"key":"","title":null,"index":0,"guides":[{"key":"/en","title":null,"index":0,"guides":[{"key":"/en/arena","title":"Arena","index":0,"guides":[{"key":"/en/arena/getting-started","title":"For Participants","index":0,"guides":[{"key":"/en/arena/getting-started/link-account","title":"Register","index":0,"type":"guide"}],"type":"category"}],"type":"category"}],"type":"category"},{"key":"/ko","title":null,"index":0,"guides":[{"key":"/ko/getting-started","title":"시작하기","index":0,"guides":[{"key":"/ko/getting-started/link-account","title":"계정 만들기","index":1,"type":"guide"}],"type":"category"},{"key":"/ko/stats","title":"스탯","index":1,"guides":[{"key":"/ko/stats/profile","title":"프로필 조회하기","index":0,"type":"guide"},{"key":"/ko/stats/ac-rating","title":"티어와 AC 레이팅","index":10,"type":"guide"},{"key":"/ko/stats/class","title":"CLASS","index":20,"type":"guide"}],"type":"category"},{"key":"/ko/problem","title":"문제","index":2,"guides":[{"key":"/ko/problem/level","title":"문제 난이도","index":10,"type":"guide"},{"key":"/ko/problem/level-unusual","title":"특수한 경우의 문제 난이도","index":20,"type":"guide"}],"type":"category"},{"key":"/ko/updates","title":"업데이트","index":999,"guides":[{"key":"/ko/updates/240530","title":"시즌 4 업데이트 (2024년 6월 5일)","index":-20240530,"type":"guide"}],"type":"category"}],"type":"category"}],"type":"category"}}],"children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children",["slug","ko/problem/level-unusual","c"],"children"],"error":"$undefined","errorStyles":"$undefined","loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L9",null],"segment":"__PAGE__?{\"slug\":[\"ko\",\"problem\",\"level-unusual\"]}"},"styles":[]}],"segment":["slug","ko/problem/level-unusual","c"]},"styles":[]}]}]}]]}]
+a:I{"id":4797,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-3c03fcdecd7443cc.js","722:static/chunks/722-7cf64aec2670f789.js","877:static/chunks/app/[...slug]/page-e234eb0059ea13a9.js"],"name":"","async":false}
+b:I{"id":9308,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-3c03fcdecd7443cc.js","722:static/chunks/722-7cf64aec2670f789.js","877:static/chunks/app/[...slug]/page-e234eb0059ea13a9.js"],"name":"","async":false}
+c:T34a3,/*@jsxRuntime automatic @jsxImportSource react*/
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = Object.assign({
+    p: "p",
+    h2: "h2",
+    h3: "h3",
+    ol: "ol",
+    li: "li",
+    ul: "ul",
+    table: "table",
+    thead: "thead",
+    tr: "tr",
+    th: "th",
+    tbody: "tbody",
+    td: "td",
+    a: "a",
+    span: "span",
+    math: "math",
+    semantics: "semantics",
+    mrow: "mrow",
+    mtext: "mtext",
+    annotation: "annotation"
+  }, _provideComponents(), props.components), {Tier, Unrated, WarningIcon} = _components;
+  if (!Tier) _missingMdxReference("Tier", true);
+  if (!Unrated) _missingMdxReference("Unrated", true);
+  if (!WarningIcon) _missingMdxReference("WarningIcon", true);
+  return _jsxs(_Fragment, {
+    children: [_jsx(_components.p, {
+      children: "기여가 없는 문제 등, 여러 이유로 위의 분류에 해당되지 않는 문제가 일부 존재합니다. 아래 문제들의 난이도 값은 0입니다."
+    }), "\n", _jsxs(_components.h2, {
+      children: [_jsx(Tier, {
+        t: 0
+      }), " ", _jsx(Unrated, {
+        children: "Unrated"
+      })]
+    }), "\n", _jsx(_components.p, {
+      children: "아직 아무 기여자도 기여하지 않은 문제입니다. 이후 기여가 생길 경우 AC 레이팅 계산에 산입될 수 있습니다."
+    }), "\n", _jsxs(_components.h2, {
+      children: [_jsx(Tier, {
+        t: 0,
+        locked: true
+      }), " ", _jsx(Unrated, {
+        children: "Not ratable"
+      })]
+    }), "\n", _jsx(_components.p, {
+      children: "난이도를 매길 수 없는 문제입니다. 이 문제들은 Unrated와 다르게 푼 문제 수에도 가산되지 않습니다."
+    }), "\n", _jsx(_components.h3, {
+      children: "기준"
+    }), "\n", _jsx(_components.p, {
+      children: "solved.ac가 문제를 Not ratable으로 책정하는 기준은 다음과 같습니다."
+    }), "\n", _jsxs(_components.ol, {
+      children: ["\n", _jsx(_components.li, {
+        children: "(번외) BOJ에 [번외] 태그가 있는 문제."
+      }), "\n", _jsxs(_components.li, {
+        children: ["(해결가능성) 문제 상황만을 근거로 첫 번째 제출의 오답 확률을 0.01%* 미만으로 낮출 수 없는 문제.", "\n", _jsxs(_components.ul, {
+          children: ["\n", _jsx(_components.li, {
+            children: "문제 상황에는 지문과 입력 데이터, 인터랙터 등이 포함되며, 이에 한정되지 않습니다."
+          }), "\n", _jsx(_components.li, {
+            children: "오답 확률을 계산할 수는 없으나, 문제 상황이 명확하지 않으며 충분한 추론을 통해 정확한 문제 상황을 유추할 수 없는 경우도 포함합니다. 예를 들어 주어진 조건만으로 문제를 해결할 수 없는 경우, 또는 입력 형식에서 제시된 것과 다른 입력이 들어오는 경우 등이 이 기준에 해당됩니다."
+          }), "\n"]
+        }), "\n"]
+      }), "\n", _jsx(_components.li, {
+        children: "(초점 외) 가장 쉬운 방법으로 해결하기 위해 필요한 지식이 알고리즘 문제해결 분야에서 일반적으로 요구하는 지식과 현저히 멀고, 그것을 문제 상황과 사회적 상식만을 사용해 추론하기 힘든 문제.**"
+      }), "\n", _jsx(_components.li, {
+        children: "(이해가능성) 디스크립션이 난해하거나 문법이 심하게 왜곡되어 문제 상황을 이해하기 상당히 힘든 문제."
+      }), "\n", _jsx(_components.li, {
+        children: "(기타) 기타 Unrate를 하는 것이 바람직하다고 여겨지는 문제."
+      }), "\n"]
+    }), "\n", _jsx(_components.p, {
+      children: "* '정확히 0%'가 아니라 '0.01% 미만'으로 설정한 이유는 정해가 무작위화인 문제들이 존재하기 때문입니다. 이런 문제들은 보통 채점 시스템이 고장날 확률보다 작은 확률로 틀리는 정해를 갖고 있습니다."
+    }), "\n", _jsx(_components.p, {
+      children: "** 예외: 같은 출처의 문제들 중 하나 이상, 혹은 디스크립션이 명시적으로 언급하는 문제 또는 링크에서 관련 기반지식을 제공"
+    }), "\n", _jsx(_components.h3, {
+      children: "예시"
+    }), "\n", _jsxs(_components.table, {
+      children: [_jsx(_components.thead, {
+        children: _jsxs(_components.tr, {
+          children: [_jsx(_components.th, {
+            children: "기준"
+          }), _jsx(_components.th, {
+            children: "해당 예시"
+          }), _jsx(_components.th, {
+            children: "비해당 예시"
+          })]
+        })
+      }), _jsxs(_components.tbody, {
+        children: [_jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            children: "번외"
+          }), _jsx(_components.td, {
+            children: _jsx(_components.a, {
+              href: "https://www.acmicpc.net/problem/9999",
+              children: "구구"
+            })
+          }), _jsx(_components.td, {})]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            children: "해결가능성"
+          }), _jsxs(_components.td, {
+            children: ["(확률) ", _jsx(_components.a, {
+              href: "https://www.acmicpc.net/problem/10943",
+              children: "랜덤 게임~"
+            }), ", ", _jsx(_components.a, {
+              href: "https://www.acmicpc.net/problem/10212",
+              children: "Mystery"
+            }), _jsx("br", {}), "(2회 이상의 제출 필요) ", _jsx(_components.a, {
+              href: "https://www.acmicpc.net/problem/17113",
+              children: "3분 그래프"
+            })]
+          }), _jsx(_components.td, {
+            children: _jsx(_components.a, {
+              href: "https://www.acmicpc.net/problem/27865",
+              children: "랜덤 게임?"
+            })
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            children: "초점 외"
+          }), _jsxs(_components.td, {
+            children: ["(물리학) ", _jsx(_components.a, {
+              href: "https://www.acmicpc.net/problem/18017",
+              children: "총알의 속도"
+            }), _jsx("br", {}), "(비해석적 기하학) ", _jsx(_components.a, {
+              href: "https://www.acmicpc.net/problem/16480",
+              children: "외심과 내심은 사랑입니다"
+            }), _jsx("br", {}), "(기타) ", _jsx(_components.a, {
+              href: "https://www.acmicpc.net/problem/15891",
+              children: "스타트링크 사무실을 파헤쳐보자"
+            })]
+          }), _jsxs(_components.td, {
+            children: ["(기반지식 제공) ", _jsx(_components.a, {
+              href: "https://www.acmicpc.net/problem/16891",
+              children: "탄성 충돌"
+            }), _jsx("br", {}), "(추론 가능) ", _jsx(_components.a, {
+              href: "https://www.acmicpc.net/problem/2448",
+              children: "별 찍기 - 11"
+            }), ", ", _jsx(_components.a, {
+              href: "https://www.acmicpc.net/problem/25311",
+              children: "UCPC에서 가장 쉬운 문제 번호는?"
+            }), _jsx("br", {}), "(명시적 언급) ", _jsx(_components.a, {
+              href: "https://www.acmicpc.net/problem/7140",
+              children: "데이터 만들기 1"
+            }), ", ", _jsx(_components.a, {
+              href: "https://www.acmicpc.net/problem/18831",
+              children: "문제를 푸는 문제"
+            })]
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            children: "이해가능성"
+          }), _jsx(_components.td, {
+            children: _jsx(_components.a, {
+              href: "https://www.acmicpc.net/problem/1381",
+              children: "요구르트의 유통기한"
+            })
+          }), _jsxs(_components.td, {
+            children: [_jsx(_components.a, {
+              href: "https://www.acmicpc.net/problem/1196",
+              children: "잭 바우어"
+            }), ", ", _jsx(_components.a, {
+              href: "https://www.acmicpc.net/problem/15629",
+              children: "Africa"
+            })]
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            children: "기타"
+          }), _jsx(_components.td, {
+            children: _jsx(_components.a, {
+              href: "https://www.acmicpc.net/problem/24903",
+              children: _jsx(_components.span, {
+                className: "math math-inline",
+                children: _jsxs(_components.span, {
+                  className: "katex",
+                  children: [_jsx(_components.span, {
+                    className: "katex-mathml",
+                    children: _jsx(_components.math, {
+                      xmlns: "http://www.w3.org/1998/Math/MathML",
+                      children: _jsxs(_components.semantics, {
+                        children: [_jsxs(_components.mrow, {
+                          children: [_jsx(_components.mtext, {
+                            mathvariant: "bold",
+                            children: "multiple"
+                          }), _jsx(_components.mtext, {
+                            children: " edges"
+                          })]
+                        }), _jsx(_components.annotation, {
+                          encoding: "application/x-tex",
+                          children: "\\textbf{multiple}\\text{ edges}"
+                        })]
+                      })
+                    })
+                  }), _jsx(_components.span, {
+                    className: "katex-html",
+                    "aria-hidden": "true",
+                    children: _jsxs(_components.span, {
+                      className: "base",
+                      children: [_jsx(_components.span, {
+                        className: "strut",
+                        style: {
+                          height: "0.8889em",
+                          verticalAlign: "-0.1944em"
+                        }
+                      }), _jsx(_components.span, {
+                        className: "mord text",
+                        children: _jsx(_components.span, {
+                          className: "mord textbf",
+                          children: "multiple"
+                        })
+                      }), _jsx(_components.span, {
+                        className: "mord text",
+                        children: _jsx(_components.span, {
+                          className: "mord",
+                          children: " edges"
+                        })
+                      })]
+                    })
+                  })]
+                })
+              })
+            })
+          }), _jsx(_components.td, {})]
+        })]
+      })]
+    }), "\n", _jsxs(_components.h2, {
+      children: [_jsx(WarningIcon, {}), " 문제해결 경고"]
+    }), "\n", _jsxs(_components.p, {
+      children: ["다음 중 하나 이상의 조건에 해당되는 문제들은 난이도 값이 0이며, 해결해도 레이팅을 주지 않습니다.\n이런 문제들은 난이도 아이콘 옆에 ", _jsx(WarningIcon, {}), " 경고 아이콘이 표시됩니다."]
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsx(_components.li, {
+        children: "OEIS를 비롯한 인터넷 사이트에서 문제에 대한 지식 없이 해당 문제의 수열이나 점화식을 검색해서 문제를 쉽게 해결할 수 있다면, 점화식을 구현하는 난이도가 풀이를 보지 않고 문제를 처음부터 끝까지 해결하는 난이도와 현저히 차이난다고 생각되는 문제."
+      }), "\n", _jsxs(_components.li, {
+        children: ["완전히 같은 다른 문제가 이미 존재하는 문제.", "\n", _jsxs(_components.ul, {
+          children: ["\n", _jsx(_components.li, {
+            children: "지문에서 정답까지 다다르는 과정에서 사용해야 하는 아이디어들에 차이가 없는 문제들은 같은 문제라고 할 수 있습니다."
+          }), "\n", _jsx(_components.li, {
+            children: "같은 코드로 해결할 수 있더라도 지문이나 각색 등에서 프로그래머의 능력으로 얻어내야 하는 추가 정보 등에 다른 점이 있다면 두 문제는 다른 문제입니다."
+          }), "\n", _jsx(_components.li, {
+            children: "제한이 현저히 다른 등의 이유로, 한 문제의 모든 정해에 대해 간단한 수정을 거치는 것만으로 다른 문제에서 정답을 받을 수 없는 경우(반대의 경우를 포함) 두 문제는 다른 문제입니다."
+          }), "\n"]
+        }), "\n"]
+      }), "\n"]
+    }), "\n", _jsx(_components.p, {
+      children: "Not ratable과는 다르게 문제의 난이도가 존재하며 기여도 가능합니다."
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = Object.assign({}, _provideComponents(), props.components);
+  return MDXLayout ? _jsx(MDXLayout, Object.assign({}, props, {
+    children: _jsx(_createMdxContent, props)
+  })) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+9:[["$","$La",null,{"children":"특수한 경우의 문제 난이도"}],["$","$Lb",null,{"compiledSource":"$c","frontmatter":{"title":"특수한 경우의 문제 난이도","index":20},"scope":{}}]]
