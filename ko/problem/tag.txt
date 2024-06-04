@@ -1,0 +1,126 @@
+0:["MByA5FZr4FOai7-WDiZSV",[[["",{"children":[["slug","ko/problem/tag","c"],{"children":["__PAGE__?{\"slug\":[\"ko\",\"problem\",\"tag\"]}",{}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
+1:["$L3",null]
+2:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"태그"}],["$","meta","2",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+4:I{"id":5492,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-3c03fcdecd7443cc.js","722:static/chunks/722-7cf64aec2670f789.js","396:static/chunks/396-491a2a07b215d93b.js","333:static/chunks/333-dc0c655bfc078da1.js","185:static/chunks/app/layout-4094bb0ea40fb078.js"],"name":"","async":false}
+5:I{"id":8175,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-3c03fcdecd7443cc.js","722:static/chunks/722-7cf64aec2670f789.js","396:static/chunks/396-491a2a07b215d93b.js","333:static/chunks/333-dc0c655bfc078da1.js","185:static/chunks/app/layout-4094bb0ea40fb078.js"],"name":"","async":false}
+6:I{"id":483,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-3c03fcdecd7443cc.js","722:static/chunks/722-7cf64aec2670f789.js","396:static/chunks/396-491a2a07b215d93b.js","333:static/chunks/333-dc0c655bfc078da1.js","185:static/chunks/app/layout-4094bb0ea40fb078.js"],"name":"","async":false}
+7:I{"id":7767,"chunks":["272:static/chunks/webpack-a8ba63f2417b26c7.js","971:static/chunks/fd9d1056-fe8c62b67ebb5281.js","596:static/chunks/596-9910d2cba943a1ec.js"],"name":"default","async":false}
+8:I{"id":7920,"chunks":["272:static/chunks/webpack-a8ba63f2417b26c7.js","971:static/chunks/fd9d1056-fe8c62b67ebb5281.js","596:static/chunks/596-9910d2cba943a1ec.js"],"name":"default","async":false}
+3:["$","html",null,{"lang":"ko","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=JetBrains+Mono:ital,wght@0,400;0,700;1,400;1,700&family=Oxanium:wght@400;700&display=swap","rel":"stylesheet"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,700&display=swap"}],["$","link",null,{"rel":"stylesheet","href":"https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-dynamic-subset.css"}],["$","link",null,{"rel":"stylesheet","href":"https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.css","crossOrigin":"anonymous"}]]}],["$","body",null,{"children":["$","$L4",null,{"breadcrumbsComponent":["$","$L5",null,{"guidemap":{"key":"","title":null,"index":0,"guides":[{"key":"/en","title":null,"index":0,"guides":[{"key":"/en/arena","title":"Arena","index":0,"guides":[{"key":"/en/arena/getting-started","title":"For Participants","index":0,"guides":[{"key":"/en/arena/getting-started/link-account","title":"Register","index":0,"type":"guide"}],"type":"category"}],"type":"category"}],"type":"category"},{"key":"/ko","title":null,"index":0,"guides":[{"key":"/ko/getting-started","title":"시작하기","index":0,"guides":[{"key":"/ko/getting-started/link-account","title":"계정 만들기","index":1,"type":"guide"}],"type":"category"},{"key":"/ko/stats","title":"스탯","index":1,"guides":[{"key":"/ko/stats/profile","title":"프로필 조회하기","index":0,"type":"guide"},{"key":"/ko/stats/ac-rating","title":"티어와 AC 레이팅","index":10,"type":"guide"},{"key":"/ko/stats/class","title":"CLASS","index":20,"type":"guide"},{"key":"/ko/stats/tag-rating","title":"태그 레이팅","index":30,"type":"guide"}],"type":"category"},{"key":"/ko/problem","title":"문제","index":2,"guides":[{"key":"/ko/problem/level","title":"문제 난이도","index":10,"type":"guide"},{"key":"/ko/problem/level-unusual","title":"특수한 경우의 문제 난이도","index":20,"type":"guide"},{"key":"/ko/problem/tag","title":"태그","index":30,"type":"guide"}],"type":"category"},{"key":"/ko/updates","title":"업데이트","index":999,"guides":[{"key":"/ko/updates/240530","title":"시즌 4 업데이트 (2024년 6월 5일)","index":-20240530,"type":"guide"}],"type":"category"}],"type":"category"}],"type":"category"}}],"navigationComponent":["$","$L6",null,{"guidemap":{"key":"","title":null,"index":0,"guides":[{"key":"/en","title":null,"index":0,"guides":[{"key":"/en/arena","title":"Arena","index":0,"guides":[{"key":"/en/arena/getting-started","title":"For Participants","index":0,"guides":[{"key":"/en/arena/getting-started/link-account","title":"Register","index":0,"type":"guide"}],"type":"category"}],"type":"category"}],"type":"category"},{"key":"/ko","title":null,"index":0,"guides":[{"key":"/ko/getting-started","title":"시작하기","index":0,"guides":[{"key":"/ko/getting-started/link-account","title":"계정 만들기","index":1,"type":"guide"}],"type":"category"},{"key":"/ko/stats","title":"스탯","index":1,"guides":[{"key":"/ko/stats/profile","title":"프로필 조회하기","index":0,"type":"guide"},{"key":"/ko/stats/ac-rating","title":"티어와 AC 레이팅","index":10,"type":"guide"},{"key":"/ko/stats/class","title":"CLASS","index":20,"type":"guide"},{"key":"/ko/stats/tag-rating","title":"태그 레이팅","index":30,"type":"guide"}],"type":"category"},{"key":"/ko/problem","title":"문제","index":2,"guides":[{"key":"/ko/problem/level","title":"문제 난이도","index":10,"type":"guide"},{"key":"/ko/problem/level-unusual","title":"특수한 경우의 문제 난이도","index":20,"type":"guide"},{"key":"/ko/problem/tag","title":"태그","index":30,"type":"guide"}],"type":"category"},{"key":"/ko/updates","title":"업데이트","index":999,"guides":[{"key":"/ko/updates/240530","title":"시즌 4 업데이트 (2024년 6월 5일)","index":-20240530,"type":"guide"}],"type":"category"}],"type":"category"}],"type":"category"}}],"children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children",["slug","ko/problem/tag","c"],"children"],"error":"$undefined","errorStyles":"$undefined","loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L9",null],"segment":"__PAGE__?{\"slug\":[\"ko\",\"problem\",\"tag\"]}"},"styles":[]}],"segment":["slug","ko/problem/tag","c"]},"styles":[]}]}]}]]}]
+a:I{"id":4797,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-3c03fcdecd7443cc.js","722:static/chunks/722-7cf64aec2670f789.js","877:static/chunks/app/[...slug]/page-20eb7ace266e348a.js"],"name":"","async":false}
+b:I{"id":9308,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-3c03fcdecd7443cc.js","722:static/chunks/722-7cf64aec2670f789.js","877:static/chunks/app/[...slug]/page-20eb7ace266e348a.js"],"name":"","async":false}
+c:T15e4,/*@jsxRuntime automatic @jsxImportSource react*/
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = Object.assign({
+    p: "p",
+    strong: "strong",
+    ul: "ul",
+    li: "li",
+    h2: "h2",
+    img: "img",
+    a: "a",
+    code: "code"
+  }, _provideComponents(), props.components), {ExternalLink} = _components;
+  if (!ExternalLink) _missingMdxReference("ExternalLink", true);
+  return _jsxs(_Fragment, {
+    children: [_jsx(ExternalLink, {
+      href: "https://solved.ac/problems/tags",
+      children: "태그별 문제 목록"
+    }), "\n", _jsxs(_components.p, {
+      children: [_jsx(_components.strong, {
+        children: "태그"
+      }), "는 문제를 해결하는 도구와 방식을 유형화한 것으로, 솔브드의 개인 기여자들이 제출한 의견을 바탕으로 분류됩니다.\n태그 유형에는 다음과 같은 것들이 있습니다."]
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsxs(_components.li, {
+        children: [_jsx("b", {
+          children: "알고리즘"
+        }), ": 그리디 알고리즘, 브루트포스 알고리즘, 정렬 등"]
+      }), "\n", _jsxs(_components.li, {
+        children: [_jsx("b", {
+          children: "자료 구조"
+        }), ": 스택, 큐, 트리 등"]
+      }), "\n", _jsxs(_components.li, {
+        children: [_jsx("b", {
+          children: "유명한 문제 유형 기반"
+        }), ": 외판원 순회 문제 등"]
+      }), "\n", _jsxs(_components.li, {
+        children: [_jsx("b", {
+          children: "주제"
+        }), ": 수학, 기하학, 애드 혹 등"]
+      }), "\n", _jsxs(_components.li, {
+        children: [_jsx("b", {
+          children: "입출력 형식"
+        }), ": UTF-8 입력 처리 등"]
+      }), "\n"]
+    }), "\n", _jsx(_components.p, {
+      children: "태그도 문제 난이도와 마찬가지로 기여자들에 의해 결정되므로, 태그가 고정된 일부 문제를 제외하고는 시간에 따라 변할 수 있습니다."
+    }), "\n", _jsx(_components.p, {
+      children: "일부 태그는 포함 관계입니다. 예를 들어, \"정수론\" 태그는 \"수학\" 태그에 포함되어 있어서, \"정수론\" 태그가 달린 모든 문제에는 \"수학\" 태그도 달려 있습니다."
+    }), "\n", _jsx(_components.h2, {
+      children: "이름"
+    }), "\n", _jsx(_components.p, {
+      children: _jsx(_components.img, {
+        src: "/tag/tag-names.png",
+        alt: "태그 이름들"
+      })
+    }), "\n", _jsx(_components.p, {
+      children: "태그에서 굵은꼴로 표시된 텍스트는 태그의 이름을 나타냅니다.\n태그 이름은 문제를 해결하는 데 사용되는 주요 도구나 방식을 나타내며, 문제의 특성을 요약하는 데 사용됩니다."
+    }), "\n", _jsx(ExternalLink, {
+      href: "https://solved.ac/settings/problem_list",
+      children: "태그 이름 언어 변경"
+    }), "\n", _jsxs(_components.p, {
+      children: ["태그 이름의 언어는 사이트 언어와 관계없이 따로 설정할 수 있습니다.\n", _jsx(_components.a, {
+        href: "https://solved.ac/settings/problem_list",
+        children: "솔브드 설정의 [문제 목록] 탭"
+      }), "에서 [태그 표시 언어] 설정을 변경할 수 있습니다."]
+    }), "\n", _jsx(_components.h2, {
+      children: "ID 및 태그별 문제 검색"
+    }), "\n", _jsx(_components.p, {
+      children: _jsx(_components.img, {
+        src: "/tag/tag-ids.png",
+        alt: "태그 ID들"
+      })
+    }), "\n", _jsx(ExternalLink, {
+      href: "https://solved.ac/search",
+      children: "문제 검색"
+    }), "\n", _jsx(_components.p, {
+      children: "태그에서 작은 글꼴로 표시된 텍스트는 태그의 ID를 나타냅니다. 태그 ID는 솔브드 고급 검색에서 필터로 사용할 수 있습니다. 아래는 몇 가지 예시입니다."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsxs(_components.li, {
+        children: [_jsx(_components.code, {
+          children: "#dp"
+        }), ": 다이나믹 프로그래밍 태그가 포함된 문제"]
+      }), "\n", _jsxs(_components.li, {
+        children: [_jsx(_components.code, {
+          children: "#math"
+        }), ": 수학 태그가 포함된 문제"]
+      }), "\n"]
+    }), "\n", _jsx(_components.h2, {
+      children: "태그 레이팅"
+    }), "\n", _jsx(_components.p, {
+      children: "AC 레이팅에 더하여, 솔브드에 500문제 이상이 등록된 태그들에 한정하여 태그 레이팅이 계산됩니다.\n태그 레이팅의 계산식은 AC 레이팅의 계산식과 다소 차이가 있습니다. 자세한 내용은 아래의 가이드를 참고해 주세요."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsxs(_components.li, {
+        children: ["참고: 가이드 ", _jsx(_components.a, {
+          href: "/ko/stats/tag-rating",
+          children: "「태그 레이팅」"
+        })]
+      }), "\n"]
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = Object.assign({}, _provideComponents(), props.components);
+  return MDXLayout ? _jsx(MDXLayout, Object.assign({}, props, {
+    children: _jsx(_createMdxContent, props)
+  })) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+9:[["$","$La",null,{"children":"태그"}],["$","$Lb",null,{"compiledSource":"$c","frontmatter":{"title":"태그","index":30},"scope":{}}]]

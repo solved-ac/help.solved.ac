@@ -1,0 +1,1094 @@
+0:["MByA5FZr4FOai7-WDiZSV",[[["",{"children":[["slug","ko/stats/tag-rating","c"],{"children":["__PAGE__?{\"slug\":[\"ko\",\"stats\",\"tag-rating\"]}",{}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
+1:["$L3",null]
+2:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"태그 레이팅"}],["$","meta","2",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+4:I{"id":5492,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-3c03fcdecd7443cc.js","722:static/chunks/722-7cf64aec2670f789.js","396:static/chunks/396-491a2a07b215d93b.js","333:static/chunks/333-dc0c655bfc078da1.js","185:static/chunks/app/layout-4094bb0ea40fb078.js"],"name":"","async":false}
+5:I{"id":8175,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-3c03fcdecd7443cc.js","722:static/chunks/722-7cf64aec2670f789.js","396:static/chunks/396-491a2a07b215d93b.js","333:static/chunks/333-dc0c655bfc078da1.js","185:static/chunks/app/layout-4094bb0ea40fb078.js"],"name":"","async":false}
+6:I{"id":483,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-3c03fcdecd7443cc.js","722:static/chunks/722-7cf64aec2670f789.js","396:static/chunks/396-491a2a07b215d93b.js","333:static/chunks/333-dc0c655bfc078da1.js","185:static/chunks/app/layout-4094bb0ea40fb078.js"],"name":"","async":false}
+7:I{"id":7767,"chunks":["272:static/chunks/webpack-a8ba63f2417b26c7.js","971:static/chunks/fd9d1056-fe8c62b67ebb5281.js","596:static/chunks/596-9910d2cba943a1ec.js"],"name":"default","async":false}
+8:I{"id":7920,"chunks":["272:static/chunks/webpack-a8ba63f2417b26c7.js","971:static/chunks/fd9d1056-fe8c62b67ebb5281.js","596:static/chunks/596-9910d2cba943a1ec.js"],"name":"default","async":false}
+3:["$","html",null,{"lang":"ko","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=JetBrains+Mono:ital,wght@0,400;0,700;1,400;1,700&family=Oxanium:wght@400;700&display=swap","rel":"stylesheet"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,700&display=swap"}],["$","link",null,{"rel":"stylesheet","href":"https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-dynamic-subset.css"}],["$","link",null,{"rel":"stylesheet","href":"https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.css","crossOrigin":"anonymous"}]]}],["$","body",null,{"children":["$","$L4",null,{"breadcrumbsComponent":["$","$L5",null,{"guidemap":{"key":"","title":null,"index":0,"guides":[{"key":"/en","title":null,"index":0,"guides":[{"key":"/en/arena","title":"Arena","index":0,"guides":[{"key":"/en/arena/getting-started","title":"For Participants","index":0,"guides":[{"key":"/en/arena/getting-started/link-account","title":"Register","index":0,"type":"guide"}],"type":"category"}],"type":"category"}],"type":"category"},{"key":"/ko","title":null,"index":0,"guides":[{"key":"/ko/getting-started","title":"시작하기","index":0,"guides":[{"key":"/ko/getting-started/link-account","title":"계정 만들기","index":1,"type":"guide"}],"type":"category"},{"key":"/ko/stats","title":"스탯","index":1,"guides":[{"key":"/ko/stats/profile","title":"프로필 조회하기","index":0,"type":"guide"},{"key":"/ko/stats/ac-rating","title":"티어와 AC 레이팅","index":10,"type":"guide"},{"key":"/ko/stats/class","title":"CLASS","index":20,"type":"guide"},{"key":"/ko/stats/tag-rating","title":"태그 레이팅","index":30,"type":"guide"}],"type":"category"},{"key":"/ko/problem","title":"문제","index":2,"guides":[{"key":"/ko/problem/level","title":"문제 난이도","index":10,"type":"guide"},{"key":"/ko/problem/level-unusual","title":"특수한 경우의 문제 난이도","index":20,"type":"guide"},{"key":"/ko/problem/tag","title":"태그","index":30,"type":"guide"}],"type":"category"},{"key":"/ko/updates","title":"업데이트","index":999,"guides":[{"key":"/ko/updates/240530","title":"시즌 4 업데이트 (2024년 6월 5일)","index":-20240530,"type":"guide"}],"type":"category"}],"type":"category"}],"type":"category"}}],"navigationComponent":["$","$L6",null,{"guidemap":{"key":"","title":null,"index":0,"guides":[{"key":"/en","title":null,"index":0,"guides":[{"key":"/en/arena","title":"Arena","index":0,"guides":[{"key":"/en/arena/getting-started","title":"For Participants","index":0,"guides":[{"key":"/en/arena/getting-started/link-account","title":"Register","index":0,"type":"guide"}],"type":"category"}],"type":"category"}],"type":"category"},{"key":"/ko","title":null,"index":0,"guides":[{"key":"/ko/getting-started","title":"시작하기","index":0,"guides":[{"key":"/ko/getting-started/link-account","title":"계정 만들기","index":1,"type":"guide"}],"type":"category"},{"key":"/ko/stats","title":"스탯","index":1,"guides":[{"key":"/ko/stats/profile","title":"프로필 조회하기","index":0,"type":"guide"},{"key":"/ko/stats/ac-rating","title":"티어와 AC 레이팅","index":10,"type":"guide"},{"key":"/ko/stats/class","title":"CLASS","index":20,"type":"guide"},{"key":"/ko/stats/tag-rating","title":"태그 레이팅","index":30,"type":"guide"}],"type":"category"},{"key":"/ko/problem","title":"문제","index":2,"guides":[{"key":"/ko/problem/level","title":"문제 난이도","index":10,"type":"guide"},{"key":"/ko/problem/level-unusual","title":"특수한 경우의 문제 난이도","index":20,"type":"guide"},{"key":"/ko/problem/tag","title":"태그","index":30,"type":"guide"}],"type":"category"},{"key":"/ko/updates","title":"업데이트","index":999,"guides":[{"key":"/ko/updates/240530","title":"시즌 4 업데이트 (2024년 6월 5일)","index":-20240530,"type":"guide"}],"type":"category"}],"type":"category"}],"type":"category"}}],"children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children",["slug","ko/stats/tag-rating","c"],"children"],"error":"$undefined","errorStyles":"$undefined","loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L9",null],"segment":"__PAGE__?{\"slug\":[\"ko\",\"stats\",\"tag-rating\"]}"},"styles":[]}],"segment":["slug","ko/stats/tag-rating","c"]},"styles":[]}]}]}]]}]
+a:I{"id":4797,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-3c03fcdecd7443cc.js","722:static/chunks/722-7cf64aec2670f789.js","877:static/chunks/app/[...slug]/page-20eb7ace266e348a.js"],"name":"","async":false}
+b:I{"id":9308,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-3c03fcdecd7443cc.js","722:static/chunks/722-7cf64aec2670f789.js","877:static/chunks/app/[...slug]/page-20eb7ace266e348a.js"],"name":"","async":false}
+c:Tdb89,/*@jsxRuntime automatic @jsxImportSource react*/
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = Object.assign({
+    p: "p",
+    strong: "strong",
+    a: "a",
+    ul: "ul",
+    li: "li",
+    h2: "h2",
+    img: "img",
+    div: "div",
+    span: "span",
+    math: "math",
+    semantics: "semantics",
+    mtable: "mtable",
+    mtr: "mtr",
+    mtd: "mtd",
+    mstyle: "mstyle",
+    mrow: "mrow",
+    mo: "mo",
+    mtext: "mtext",
+    munder: "munder",
+    mn: "mn",
+    msup: "msup",
+    annotation: "annotation",
+    mi: "mi"
+  }, _provideComponents(), props.components), {Tier} = _components;
+  if (!Tier) _missingMdxReference("Tier", true);
+  return _jsxs(_Fragment, {
+    children: [_jsxs(_components.p, {
+      children: [_jsx(_components.strong, {
+        children: "태그 레이팅"
+      }), "이란 ", _jsx(_components.a, {
+        href: "/ko/stats/ac-rating",
+        children: "AC 레이팅"
+      }), "과 유사하게 특정 태그가 달란 문제들만을 대상으로 계산한 레이팅입니다.\n프로그래머의 ", _jsx(_components.strong, {
+        children: "태그 티어"
+      }), "는 태그 레이팅을 기반으로 결정됩니다."]
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsxs(_components.li, {
+        children: ["참고: 가이드 ", _jsx(_components.a, {
+          href: "/ko/problem/tag",
+          children: "「태그」"
+        }), ", 가이드 ", _jsx(_components.a, {
+          href: "/ko/stats/ac-rating",
+          children: "「티어와 AC 레이팅」"
+        })]
+      }), "\n"]
+    }), "\n", _jsx(_components.h2, {
+      children: "태그 레이팅의 확인"
+    }), "\n", _jsxs(_components.p, {
+      children: ["자신의 프로필 페이지의 최하단의 ", _jsx(_components.strong, {
+        children: "태그 분포"
+      }), " 섹션에서 태그 레이팅을 확인할 수 있습니다."]
+    }), "\n", _jsx(_components.p, {
+      children: _jsx(_components.img, {
+        src: "/stats/tag-rating-card-ko.png",
+        alt: "프로필 페이지의 태그 레이팅 카드"
+      })
+    }), "\n", _jsx(_components.h2, {
+      children: "대상과 단계"
+    }), "\n", _jsxs(_components.p, {
+      children: ["태그 레이팅은 솔브드에 ", _jsx(_components.strong, {
+        children: "500문제 이상이 등록된 태그들에 한정"
+      }), "하여 계산됩니다."]
+    }), "\n", _jsx(_components.p, {
+      children: "태그 티어는 AC 레이팅의 티어와 마찬가지로 32단계로 구분됩니다."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsxs(_components.li, {
+        children: ["참고: 가이드 ", _jsx(_components.a, {
+          href: "/ko/stats/ac-rating",
+          children: "「티어와 AC 레이팅」"
+        })]
+      }), "\n"]
+    }), "\n", _jsx(_components.h2, {
+      children: "공식"
+    }), "\n", _jsx(_components.p, {
+      children: "태그 레이팅은 AC 레이팅의 계산식과 비슷하나 조금은 다른 공식으로 결정됩니다. 자세한 계산 방법은 아래와 같습니다."
+    }), "\n", _jsx(_components.div, {
+      className: "math math-display",
+      children: _jsx(_components.span, {
+        className: "katex-display",
+        children: _jsxs(_components.span, {
+          className: "katex",
+          children: [_jsx(_components.span, {
+            className: "katex-mathml",
+            children: _jsx(_components.math, {
+              xmlns: "http://www.w3.org/1998/Math/MathML",
+              display: "block",
+              children: _jsxs(_components.semantics, {
+                children: [_jsxs(_components.mtable, {
+                  rowspacing: "0.25em",
+                  columnalign: "right left",
+                  columnspacing: "0em",
+                  children: [_jsxs(_components.mtr, {
+                    children: [_jsx(_components.mtd, {
+                      children: _jsx(_components.mstyle, {
+                        scriptlevel: "0",
+                        displaystyle: "true",
+                        children: _jsxs(_components.mrow, {
+                          children: [_jsx(_components.mo, {
+                            fence: "true",
+                            children: "("
+                          }), _jsx(_components.mtext, {
+                            children: "태그 레이팅"
+                          }), _jsx(_components.mo, {
+                            fence: "true",
+                            children: ")"
+                          })]
+                        })
+                      })
+                    }), _jsx(_components.mtd, {
+                      children: _jsx(_components.mstyle, {
+                        scriptlevel: "0",
+                        displaystyle: "true",
+                        children: _jsxs(_components.mrow, {
+                          children: [_jsx(_components.mrow, {}), _jsx(_components.mo, {
+                            children: "="
+                          }), _jsxs(_components.mrow, {
+                            children: [_jsx(_components.mo, {
+                              fence: "true",
+                              children: "("
+                            }), _jsx(_components.mtext, {
+                              children: "해당 태그의 해결한 난이도 상위 "
+                            }), _jsxs(_components.munder, {
+                              accentunder: "true",
+                              children: [_jsx(_components.mstyle, {
+                                mathcolor: "blue",
+                                children: _jsx(_components.mn, {
+                                  children: "50"
+                                })
+                              }), _jsx(_components.mo, {
+                                stretchy: "true",
+                                children: "‾"
+                              })]
+                            }), _jsx(_components.mtext, {
+                              children: "문제의 난이도 값의 합"
+                            }), _jsx(_components.mo, {
+                              fence: "true",
+                              children: ")"
+                            })]
+                          }), _jsxs(_components.munder, {
+                            accentunder: "true",
+                            children: [_jsxs(_components.mstyle, {
+                              mathcolor: "blue",
+                              children: [_jsx(_components.mo, {
+                                children: "×"
+                              }), _jsx(_components.mtext, {
+                                children: " "
+                              }), _jsx(_components.mn, {
+                                children: "2"
+                              })]
+                            }), _jsx(_components.mo, {
+                              stretchy: "true",
+                              children: "‾"
+                            })]
+                          })]
+                        })
+                      })
+                    })]
+                  }), _jsxs(_components.mtr, {
+                    children: [_jsx(_components.mtd, {
+                      children: _jsx(_components.mstyle, {
+                        scriptlevel: "0",
+                        displaystyle: "true",
+                        children: _jsx(_components.mrow, {})
+                      })
+                    }), _jsx(_components.mtd, {
+                      children: _jsx(_components.mstyle, {
+                        scriptlevel: "0",
+                        displaystyle: "true",
+                        children: _jsxs(_components.mrow, {
+                          children: [_jsx(_components.mrow, {}), _jsx(_components.mo, {
+                            children: "+"
+                          }), _jsxs(_components.mrow, {
+                            children: [_jsx(_components.mo, {
+                              fence: "true",
+                              children: "⌊"
+                            }), _jsxs(_components.munder, {
+                              accentunder: "true",
+                              children: [_jsx(_components.mstyle, {
+                                mathcolor: "blue",
+                                children: _jsx(_components.mn, {
+                                  children: "200"
+                                })
+                              }), _jsx(_components.mo, {
+                                stretchy: "true",
+                                children: "‾"
+                              })]
+                            }), _jsx(_components.mo, {
+                              children: "×"
+                            }), _jsxs(_components.mrow, {
+                              children: [_jsx(_components.mo, {
+                                fence: "true",
+                                children: "("
+                              }), _jsx(_components.mn, {
+                                children: "1"
+                              }), _jsx(_components.mo, {
+                                children: "−"
+                              }), _jsxs(_components.msup, {
+                                children: [_jsxs(_components.munder, {
+                                  accentunder: "true",
+                                  children: [_jsx(_components.mstyle, {
+                                    mathcolor: "blue",
+                                    children: _jsx(_components.mn, {
+                                      children: "0.99"
+                                    })
+                                  }), _jsx(_components.mo, {
+                                    stretchy: "true",
+                                    children: "‾"
+                                  })]
+                                }), _jsxs(_components.mrow, {
+                                  children: [_jsx(_components.mo, {
+                                    fence: "true",
+                                    children: "("
+                                  }), _jsx(_components.mtext, {
+                                    children: "해결한 해당 태그의 문제 수"
+                                  }), _jsx(_components.mo, {
+                                    fence: "true",
+                                    children: ")"
+                                  })]
+                                })]
+                              }), _jsx(_components.mo, {
+                                fence: "true",
+                                children: ")"
+                              })]
+                            }), _jsx(_components.mo, {
+                              fence: "true",
+                              children: "⌉"
+                            })]
+                          })]
+                        })
+                      })
+                    })]
+                  })]
+                }), _jsx(_components.annotation, {
+                  encoding: "application/x-tex",
+                  children: "\\begin{aligned}\n\\left(\\text{태그 레이팅}\\right) &= \\left(\\text{해당 태그의 해결한 난이도 상위 }\\underline{\\color{blue}50}\\text{문제의 난이도 값의 합}\\right) \\underline{\\color{blue}\\times\\,2} \\\\\n&+  \\left\\lfloor \\underline{\\color{blue}200}\\times \\left(1-\\underline{\\color{blue}0.99}^{\\left(\\text{해결한 해당 태그의 문제 수}\\right)}\\right) \\right\\rceil \\\\ \n\\end{aligned}"
+                })]
+              })
+            })
+          }), _jsx(_components.span, {
+            className: "katex-html",
+            "aria-hidden": "true",
+            children: _jsxs(_components.span, {
+              className: "base",
+              children: [_jsx(_components.span, {
+                className: "strut",
+                style: {
+                  height: "3.6em",
+                  verticalAlign: "-1.55em"
+                }
+              }), _jsx(_components.span, {
+                className: "mord",
+                children: _jsxs(_components.span, {
+                  className: "mtable",
+                  children: [_jsx(_components.span, {
+                    className: "col-align-r",
+                    children: _jsxs(_components.span, {
+                      className: "vlist-t vlist-t2",
+                      children: [_jsxs(_components.span, {
+                        className: "vlist-r",
+                        children: [_jsxs(_components.span, {
+                          className: "vlist",
+                          style: {
+                            height: "2.05em"
+                          },
+                          children: [_jsxs(_components.span, {
+                            style: {
+                              top: "-4.36em"
+                            },
+                            children: [_jsx(_components.span, {
+                              className: "pstrut",
+                              style: {
+                                height: "3.15em"
+                              }
+                            }), _jsx(_components.span, {
+                              className: "mord",
+                              children: _jsxs(_components.span, {
+                                className: "minner",
+                                children: [_jsx(_components.span, {
+                                  className: "mopen delimcenter",
+                                  style: {
+                                    top: "0em"
+                                  },
+                                  children: "("
+                                }), _jsxs(_components.span, {
+                                  className: "mord text",
+                                  children: [_jsx(_components.span, {
+                                    className: "mord hangul_fallback",
+                                    children: "태그"
+                                  }), _jsx(_components.span, {
+                                    className: "mord",
+                                    children: " "
+                                  }), _jsx(_components.span, {
+                                    className: "mord hangul_fallback",
+                                    children: "레이팅"
+                                  })]
+                                }), _jsx(_components.span, {
+                                  className: "mclose delimcenter",
+                                  style: {
+                                    top: "0em"
+                                  },
+                                  children: ")"
+                                })]
+                              })
+                            })]
+                          }), _jsxs(_components.span, {
+                            style: {
+                              top: "-2.55em"
+                            },
+                            children: [_jsx(_components.span, {
+                              className: "pstrut",
+                              style: {
+                                height: "3.15em"
+                              }
+                            }), _jsx(_components.span, {
+                              className: "mord"
+                            })]
+                          })]
+                        }), _jsx(_components.span, {
+                          className: "vlist-s",
+                          children: "​"
+                        })]
+                      }), _jsx(_components.span, {
+                        className: "vlist-r",
+                        children: _jsx(_components.span, {
+                          className: "vlist",
+                          style: {
+                            height: "1.55em"
+                          },
+                          children: _jsx(_components.span, {})
+                        })
+                      })]
+                    })
+                  }), _jsx(_components.span, {
+                    className: "col-align-l",
+                    children: _jsxs(_components.span, {
+                      className: "vlist-t vlist-t2",
+                      children: [_jsxs(_components.span, {
+                        className: "vlist-r",
+                        children: [_jsxs(_components.span, {
+                          className: "vlist",
+                          style: {
+                            height: "2.05em"
+                          },
+                          children: [_jsxs(_components.span, {
+                            style: {
+                              top: "-4.36em"
+                            },
+                            children: [_jsx(_components.span, {
+                              className: "pstrut",
+                              style: {
+                                height: "3.15em"
+                              }
+                            }), _jsxs(_components.span, {
+                              className: "mord",
+                              children: [_jsx(_components.span, {
+                                className: "mord"
+                              }), _jsx(_components.span, {
+                                className: "mspace",
+                                style: {
+                                  marginRight: "0.2778em"
+                                }
+                              }), _jsx(_components.span, {
+                                className: "mrel",
+                                children: "="
+                              }), _jsx(_components.span, {
+                                className: "mspace",
+                                style: {
+                                  marginRight: "0.2778em"
+                                }
+                              }), _jsxs(_components.span, {
+                                className: "minner",
+                                children: [_jsx(_components.span, {
+                                  className: "mopen delimcenter",
+                                  style: {
+                                    top: "0em"
+                                  },
+                                  children: "("
+                                }), _jsxs(_components.span, {
+                                  className: "mord text",
+                                  children: [_jsx(_components.span, {
+                                    className: "mord hangul_fallback",
+                                    children: "해당"
+                                  }), _jsx(_components.span, {
+                                    className: "mord",
+                                    children: " "
+                                  }), _jsx(_components.span, {
+                                    className: "mord hangul_fallback",
+                                    children: "태그의"
+                                  }), _jsx(_components.span, {
+                                    className: "mord",
+                                    children: " "
+                                  }), _jsx(_components.span, {
+                                    className: "mord hangul_fallback",
+                                    children: "해결한"
+                                  }), _jsx(_components.span, {
+                                    className: "mord",
+                                    children: " "
+                                  }), _jsx(_components.span, {
+                                    className: "mord hangul_fallback",
+                                    children: "난이도"
+                                  }), _jsx(_components.span, {
+                                    className: "mord",
+                                    children: " "
+                                  }), _jsx(_components.span, {
+                                    className: "mord hangul_fallback",
+                                    children: "상위"
+                                  }), _jsx(_components.span, {
+                                    className: "mord",
+                                    children: " "
+                                  })]
+                                }), _jsx(_components.span, {
+                                  className: "mord underline",
+                                  children: _jsxs(_components.span, {
+                                    className: "vlist-t vlist-t2",
+                                    children: [_jsxs(_components.span, {
+                                      className: "vlist-r",
+                                      children: [_jsxs(_components.span, {
+                                        className: "vlist",
+                                        style: {
+                                          height: "0.6444em"
+                                        },
+                                        children: [_jsxs(_components.span, {
+                                          style: {
+                                            top: "-2.84em"
+                                          },
+                                          children: [_jsx(_components.span, {
+                                            className: "pstrut",
+                                            style: {
+                                              height: "3em"
+                                            }
+                                          }), _jsx(_components.span, {
+                                            className: "underline-line",
+                                            style: {
+                                              borderBottomWidth: "0.04em"
+                                            }
+                                          })]
+                                        }), _jsxs(_components.span, {
+                                          style: {
+                                            top: "-3em"
+                                          },
+                                          children: [_jsx(_components.span, {
+                                            className: "pstrut",
+                                            style: {
+                                              height: "3em"
+                                            }
+                                          }), _jsx(_components.span, {
+                                            className: "mord",
+                                            children: _jsx(_components.span, {
+                                              className: "mord",
+                                              style: {
+                                                color: "blue"
+                                              },
+                                              children: "50"
+                                            })
+                                          })]
+                                        })]
+                                      }), _jsx(_components.span, {
+                                        className: "vlist-s",
+                                        children: "​"
+                                      })]
+                                    }), _jsx(_components.span, {
+                                      className: "vlist-r",
+                                      children: _jsx(_components.span, {
+                                        className: "vlist",
+                                        style: {
+                                          height: "0.2em"
+                                        },
+                                        children: _jsx(_components.span, {})
+                                      })
+                                    })]
+                                  })
+                                }), _jsxs(_components.span, {
+                                  className: "mord text",
+                                  children: [_jsx(_components.span, {
+                                    className: "mord hangul_fallback",
+                                    children: "문제의"
+                                  }), _jsx(_components.span, {
+                                    className: "mord",
+                                    children: " "
+                                  }), _jsx(_components.span, {
+                                    className: "mord hangul_fallback",
+                                    children: "난이도"
+                                  }), _jsx(_components.span, {
+                                    className: "mord",
+                                    children: " "
+                                  }), _jsx(_components.span, {
+                                    className: "mord hangul_fallback",
+                                    children: "값의"
+                                  }), _jsx(_components.span, {
+                                    className: "mord",
+                                    children: " "
+                                  }), _jsx(_components.span, {
+                                    className: "mord hangul_fallback",
+                                    children: "합"
+                                  })]
+                                }), _jsx(_components.span, {
+                                  className: "mclose delimcenter",
+                                  style: {
+                                    top: "0em"
+                                  },
+                                  children: ")"
+                                })]
+                              }), _jsx(_components.span, {
+                                className: "mspace",
+                                style: {
+                                  marginRight: "0.1667em"
+                                }
+                              }), _jsx(_components.span, {
+                                className: "mord underline",
+                                children: _jsxs(_components.span, {
+                                  className: "vlist-t vlist-t2",
+                                  children: [_jsxs(_components.span, {
+                                    className: "vlist-r",
+                                    children: [_jsxs(_components.span, {
+                                      className: "vlist",
+                                      style: {
+                                        height: "0.6444em"
+                                      },
+                                      children: [_jsxs(_components.span, {
+                                        style: {
+                                          top: "-2.7567em"
+                                        },
+                                        children: [_jsx(_components.span, {
+                                          className: "pstrut",
+                                          style: {
+                                            height: "3em"
+                                          }
+                                        }), _jsx(_components.span, {
+                                          className: "underline-line",
+                                          style: {
+                                            borderBottomWidth: "0.04em"
+                                          }
+                                        })]
+                                      }), _jsxs(_components.span, {
+                                        style: {
+                                          top: "-3em"
+                                        },
+                                        children: [_jsx(_components.span, {
+                                          className: "pstrut",
+                                          style: {
+                                            height: "3em"
+                                          }
+                                        }), _jsxs(_components.span, {
+                                          className: "mord",
+                                          children: [_jsx(_components.span, {
+                                            className: "mord",
+                                            style: {
+                                              color: "blue"
+                                            },
+                                            children: "×"
+                                          }), _jsx(_components.span, {
+                                            className: "mspace",
+                                            style: {
+                                              color: "blue",
+                                              marginRight: "0.1667em"
+                                            }
+                                          }), _jsx(_components.span, {
+                                            className: "mord",
+                                            style: {
+                                              color: "blue"
+                                            },
+                                            children: "2"
+                                          })]
+                                        })]
+                                      })]
+                                    }), _jsx(_components.span, {
+                                      className: "vlist-s",
+                                      children: "​"
+                                    })]
+                                  }), _jsx(_components.span, {
+                                    className: "vlist-r",
+                                    children: _jsx(_components.span, {
+                                      className: "vlist",
+                                      style: {
+                                        height: "0.2833em"
+                                      },
+                                      children: _jsx(_components.span, {})
+                                    })
+                                  })]
+                                })
+                              })]
+                            })]
+                          }), _jsxs(_components.span, {
+                            style: {
+                              top: "-2.55em"
+                            },
+                            children: [_jsx(_components.span, {
+                              className: "pstrut",
+                              style: {
+                                height: "3.15em"
+                              }
+                            }), _jsxs(_components.span, {
+                              className: "mord",
+                              children: [_jsx(_components.span, {
+                                className: "mord"
+                              }), _jsx(_components.span, {
+                                className: "mspace",
+                                style: {
+                                  marginRight: "0.2222em"
+                                }
+                              }), _jsx(_components.span, {
+                                className: "mbin",
+                                children: "+"
+                              }), _jsx(_components.span, {
+                                className: "mspace",
+                                style: {
+                                  marginRight: "0.2222em"
+                                }
+                              }), _jsxs(_components.span, {
+                                className: "minner",
+                                children: [_jsx(_components.span, {
+                                  className: "mopen delimcenter",
+                                  style: {
+                                    top: "0em"
+                                  },
+                                  children: _jsx(_components.span, {
+                                    className: "delimsizing size2",
+                                    children: "⌊"
+                                  })
+                                }), _jsx(_components.span, {
+                                  className: "mord underline",
+                                  children: _jsxs(_components.span, {
+                                    className: "vlist-t vlist-t2",
+                                    children: [_jsxs(_components.span, {
+                                      className: "vlist-r",
+                                      children: [_jsxs(_components.span, {
+                                        className: "vlist",
+                                        style: {
+                                          height: "0.6444em"
+                                        },
+                                        children: [_jsxs(_components.span, {
+                                          style: {
+                                            top: "-2.84em"
+                                          },
+                                          children: [_jsx(_components.span, {
+                                            className: "pstrut",
+                                            style: {
+                                              height: "3em"
+                                            }
+                                          }), _jsx(_components.span, {
+                                            className: "underline-line",
+                                            style: {
+                                              borderBottomWidth: "0.04em"
+                                            }
+                                          })]
+                                        }), _jsxs(_components.span, {
+                                          style: {
+                                            top: "-3em"
+                                          },
+                                          children: [_jsx(_components.span, {
+                                            className: "pstrut",
+                                            style: {
+                                              height: "3em"
+                                            }
+                                          }), _jsx(_components.span, {
+                                            className: "mord",
+                                            children: _jsx(_components.span, {
+                                              className: "mord",
+                                              style: {
+                                                color: "blue"
+                                              },
+                                              children: "200"
+                                            })
+                                          })]
+                                        })]
+                                      }), _jsx(_components.span, {
+                                        className: "vlist-s",
+                                        children: "​"
+                                      })]
+                                    }), _jsx(_components.span, {
+                                      className: "vlist-r",
+                                      children: _jsx(_components.span, {
+                                        className: "vlist",
+                                        style: {
+                                          height: "0.2em"
+                                        },
+                                        children: _jsx(_components.span, {})
+                                      })
+                                    })]
+                                  })
+                                }), _jsx(_components.span, {
+                                  className: "mspace",
+                                  style: {
+                                    marginRight: "0.2222em"
+                                  }
+                                }), _jsx(_components.span, {
+                                  className: "mbin",
+                                  children: "×"
+                                }), _jsx(_components.span, {
+                                  className: "mspace",
+                                  style: {
+                                    marginRight: "0.2222em"
+                                  }
+                                }), _jsxs(_components.span, {
+                                  className: "minner",
+                                  children: [_jsx(_components.span, {
+                                    className: "mopen delimcenter",
+                                    style: {
+                                      top: "0em"
+                                    },
+                                    children: _jsx(_components.span, {
+                                      className: "delimsizing size2",
+                                      children: "("
+                                    })
+                                  }), _jsx(_components.span, {
+                                    className: "mord",
+                                    children: "1"
+                                  }), _jsx(_components.span, {
+                                    className: "mspace",
+                                    style: {
+                                      marginRight: "0.2222em"
+                                    }
+                                  }), _jsx(_components.span, {
+                                    className: "mbin",
+                                    children: "−"
+                                  }), _jsx(_components.span, {
+                                    className: "mspace",
+                                    style: {
+                                      marginRight: "0.2222em"
+                                    }
+                                  }), _jsxs(_components.span, {
+                                    className: "mord",
+                                    children: [_jsx(_components.span, {
+                                      className: "mord underline",
+                                      children: _jsxs(_components.span, {
+                                        className: "vlist-t vlist-t2",
+                                        children: [_jsxs(_components.span, {
+                                          className: "vlist-r",
+                                          children: [_jsxs(_components.span, {
+                                            className: "vlist",
+                                            style: {
+                                              height: "0.6444em"
+                                            },
+                                            children: [_jsxs(_components.span, {
+                                              style: {
+                                                top: "-2.84em"
+                                              },
+                                              children: [_jsx(_components.span, {
+                                                className: "pstrut",
+                                                style: {
+                                                  height: "3em"
+                                                }
+                                              }), _jsx(_components.span, {
+                                                className: "underline-line",
+                                                style: {
+                                                  borderBottomWidth: "0.04em"
+                                                }
+                                              })]
+                                            }), _jsxs(_components.span, {
+                                              style: {
+                                                top: "-3em"
+                                              },
+                                              children: [_jsx(_components.span, {
+                                                className: "pstrut",
+                                                style: {
+                                                  height: "3em"
+                                                }
+                                              }), _jsx(_components.span, {
+                                                className: "mord",
+                                                children: _jsx(_components.span, {
+                                                  className: "mord",
+                                                  style: {
+                                                    color: "blue"
+                                                  },
+                                                  children: "0.99"
+                                                })
+                                              })]
+                                            })]
+                                          }), _jsx(_components.span, {
+                                            className: "vlist-s",
+                                            children: "​"
+                                          })]
+                                        }), _jsx(_components.span, {
+                                          className: "vlist-r",
+                                          children: _jsx(_components.span, {
+                                            className: "vlist",
+                                            style: {
+                                              height: "0.2em"
+                                            },
+                                            children: _jsx(_components.span, {})
+                                          })
+                                        })]
+                                      })
+                                    }), _jsx(_components.span, {
+                                      className: "msupsub",
+                                      children: _jsx(_components.span, {
+                                        className: "vlist-t",
+                                        children: _jsx(_components.span, {
+                                          className: "vlist-r",
+                                          children: _jsx(_components.span, {
+                                            className: "vlist",
+                                            style: {
+                                              height: "0.938em"
+                                            },
+                                            children: _jsxs(_components.span, {
+                                              style: {
+                                                top: "-3.113em",
+                                                marginRight: "0.05em"
+                                              },
+                                              children: [_jsx(_components.span, {
+                                                className: "pstrut",
+                                                style: {
+                                                  height: "2.7em"
+                                                }
+                                              }), _jsx(_components.span, {
+                                                className: "sizing reset-size6 size3 mtight",
+                                                children: _jsx(_components.span, {
+                                                  className: "mord mtight",
+                                                  children: _jsxs(_components.span, {
+                                                    className: "minner mtight",
+                                                    children: [_jsx(_components.span, {
+                                                      className: "mopen mtight delimcenter",
+                                                      style: {
+                                                        top: "0em"
+                                                      },
+                                                      children: _jsx(_components.span, {
+                                                        className: "mtight",
+                                                        children: "("
+                                                      })
+                                                    }), _jsxs(_components.span, {
+                                                      className: "mord text mtight",
+                                                      children: [_jsx(_components.span, {
+                                                        className: "mord hangul_fallback mtight",
+                                                        children: "해결한"
+                                                      }), _jsx(_components.span, {
+                                                        className: "mord mtight",
+                                                        children: " "
+                                                      }), _jsx(_components.span, {
+                                                        className: "mord hangul_fallback mtight",
+                                                        children: "해당"
+                                                      }), _jsx(_components.span, {
+                                                        className: "mord mtight",
+                                                        children: " "
+                                                      }), _jsx(_components.span, {
+                                                        className: "mord hangul_fallback mtight",
+                                                        children: "태그의"
+                                                      }), _jsx(_components.span, {
+                                                        className: "mord mtight",
+                                                        children: " "
+                                                      }), _jsx(_components.span, {
+                                                        className: "mord hangul_fallback mtight",
+                                                        children: "문제"
+                                                      }), _jsx(_components.span, {
+                                                        className: "mord mtight",
+                                                        children: " "
+                                                      }), _jsx(_components.span, {
+                                                        className: "mord hangul_fallback mtight",
+                                                        children: "수"
+                                                      })]
+                                                    }), _jsx(_components.span, {
+                                                      className: "mclose mtight delimcenter",
+                                                      style: {
+                                                        top: "0em"
+                                                      },
+                                                      children: _jsx(_components.span, {
+                                                        className: "mtight",
+                                                        children: ")"
+                                                      })
+                                                    })]
+                                                  })
+                                                })
+                                              })]
+                                            })
+                                          })
+                                        })
+                                      })
+                                    })]
+                                  }), _jsx(_components.span, {
+                                    className: "mclose delimcenter",
+                                    style: {
+                                      top: "0em"
+                                    },
+                                    children: _jsx(_components.span, {
+                                      className: "delimsizing size2",
+                                      children: ")"
+                                    })
+                                  })]
+                                }), _jsx(_components.span, {
+                                  className: "mclose delimcenter",
+                                  style: {
+                                    top: "0em"
+                                  },
+                                  children: _jsx(_components.span, {
+                                    className: "delimsizing size2",
+                                    children: "⌉"
+                                  })
+                                })]
+                              })]
+                            })]
+                          })]
+                        }), _jsx(_components.span, {
+                          className: "vlist-s",
+                          children: "​"
+                        })]
+                      }), _jsx(_components.span, {
+                        className: "vlist-r",
+                        children: _jsx(_components.span, {
+                          className: "vlist",
+                          style: {
+                            height: "1.55em"
+                          },
+                          children: _jsx(_components.span, {})
+                        })
+                      })]
+                    })
+                  })]
+                })
+              })]
+            })
+          })]
+        })
+      })
+    }), "\n", _jsxs(_components.p, {
+      children: [_jsx(_components.span, {
+        className: "math math-inline",
+        children: _jsxs(_components.span, {
+          className: "katex",
+          children: [_jsx(_components.span, {
+            className: "katex-mathml",
+            children: _jsx(_components.math, {
+              xmlns: "http://www.w3.org/1998/Math/MathML",
+              children: _jsxs(_components.semantics, {
+                children: [_jsxs(_components.mrow, {
+                  children: [_jsx(_components.mo, {
+                    fence: "true",
+                    children: "⌊"
+                  }), _jsx(_components.mi, {
+                    children: "x"
+                  }), _jsx(_components.mo, {
+                    fence: "true",
+                    children: "⌉"
+                  })]
+                }), _jsx(_components.annotation, {
+                  encoding: "application/x-tex",
+                  children: "\\left\\lfloor x \\right\\rceil"
+                })]
+              })
+            })
+          }), _jsx(_components.span, {
+            className: "katex-html",
+            "aria-hidden": "true",
+            children: _jsxs(_components.span, {
+              className: "base",
+              children: [_jsx(_components.span, {
+                className: "strut",
+                style: {
+                  height: "1em",
+                  verticalAlign: "-0.25em"
+                }
+              }), _jsxs(_components.span, {
+                className: "minner",
+                children: [_jsx(_components.span, {
+                  className: "mopen delimcenter",
+                  style: {
+                    top: "0em"
+                  },
+                  children: "⌊"
+                }), _jsx(_components.span, {
+                  className: "mord mathnormal",
+                  children: "x"
+                }), _jsx(_components.span, {
+                  className: "mclose delimcenter",
+                  style: {
+                    top: "0em"
+                  },
+                  children: "⌉"
+                })]
+              })]
+            })
+          })]
+        })
+      }), "는 ", _jsx(_components.span, {
+        className: "math math-inline",
+        children: _jsxs(_components.span, {
+          className: "katex",
+          children: [_jsx(_components.span, {
+            className: "katex-mathml",
+            children: _jsx(_components.math, {
+              xmlns: "http://www.w3.org/1998/Math/MathML",
+              children: _jsxs(_components.semantics, {
+                children: [_jsx(_components.mrow, {
+                  children: _jsx(_components.mi, {
+                    children: "x"
+                  })
+                }), _jsx(_components.annotation, {
+                  encoding: "application/x-tex",
+                  children: "x"
+                })]
+              })
+            })
+          }), _jsx(_components.span, {
+            className: "katex-html",
+            "aria-hidden": "true",
+            children: _jsxs(_components.span, {
+              className: "base",
+              children: [_jsx(_components.span, {
+                className: "strut",
+                style: {
+                  height: "0.4306em"
+                }
+              }), _jsx(_components.span, {
+                className: "mord mathnormal",
+                children: "x"
+              })]
+            })
+          })]
+        })
+      }), "를 정수로 반올림함을 의미합니다."]
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsxs(_components.li, {
+        children: ["solved.ac는 문제의 난이도도 프로그래머의 티어와 같은 아이콘을 이용해 표현합니다.", "\n", _jsxs(_components.ul, {
+          children: ["\n", _jsxs(_components.li, {
+            children: [_jsx(_components.strong, {
+              children: "난이도 값"
+            }), "이란, 문제의 난이도를 ", _jsx(Tier, {
+              t: 1
+            }), "를 1점, ", _jsx(Tier, {
+              t: 2
+            }), "를 2점, … ", _jsx(Tier, {
+              t: 30
+            }), "을 30점으로 바꾼 수를 말합니다. 어려운 문제를 해결할수록 높은 레이팅을 달성할 수 있습니다."]
+          }), "\n", _jsxs(_components.li, {
+            children: ["참고: 가이드 ", _jsx(_components.a, {
+              href: "/ko/problem/level",
+              children: "「문제 난이도」"
+            })]
+          }), "\n"]
+        }), "\n"]
+      }), "\n", _jsxs(_components.li, {
+        children: ["해결한 문제 수에 따라 보너스 레이팅을 최대 200까지 받을 수 있습니다.", "\n", _jsxs(_components.ul, {
+          children: ["\n", _jsxs(_components.li, {
+            children: ["해결한 문제 수는 백준 온라인 저지에서 '번외'로 표시된 문제들과 ", _jsx(Tier, {
+              t: 0,
+              locked: true
+            }), " 문제들을 제외합니다."]
+          }), "\n"]
+        }), "\n"]
+      }), "\n", _jsx(_components.li, {
+        children: "AC 레이팅과는 다르게, CLASS 등급에 따른 보너스 레이팅 및 기여 보너스 레이팅은 없습니다."
+      }), "\n"]
+    }), "\n", _jsx(_components.h2, {
+      children: "주요 태그"
+    }), "\n", _jsx(_components.p, {
+      children: "아래의 8개 태그는 솔브드가 주요 태그로 지정한 태그입니다. 이 태그들의 레이팅은 프로필의 태그 분포 카드에 팔각형 그래프로 표시됩니다."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsx(_components.li, {
+        children: "수학 (math)"
+      }), "\n", _jsx(_components.li, {
+        children: "구현 (implementation)"
+      }), "\n", _jsx(_components.li, {
+        children: "그리디 알고리즘 (greedy)"
+      }), "\n", _jsx(_components.li, {
+        children: "문자열 (string)"
+      }), "\n", _jsx(_components.li, {
+        children: "자료 구조 (data_structures)"
+      }), "\n", _jsx(_components.li, {
+        children: "그래프 이론 (graphs)"
+      }), "\n", _jsx(_components.li, {
+        children: "다이나믹 프로그래밍 (dp)"
+      }), "\n", _jsx(_components.li, {
+        children: "기하학 (geometry)"
+      }), "\n"]
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = Object.assign({}, _provideComponents(), props.components);
+  return MDXLayout ? _jsx(MDXLayout, Object.assign({}, props, {
+    children: _jsx(_createMdxContent, props)
+  })) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+9:[["$","$La",null,{"children":"태그 레이팅"}],["$","$Lb",null,{"compiledSource":"$c","frontmatter":{"title":"태그 레이팅","index":30},"scope":{}}]]
