@@ -1,4 +1,4 @@
-0:["2TleJdqFRf-xC86KfCjv7",[[["",{"children":[["slug","ko/problem/level","c"],{"children":["__PAGE__?{\"slug\":[\"ko\",\"problem\",\"level\"]}",{}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
+0:["Zxeq6Oy5du3jHyHU1nPM0",[[["",{"children":[["slug","ko/problem/level","c"],{"children":["__PAGE__?{\"slug\":[\"ko\",\"problem\",\"level\"]}",{}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
 1:["$L3",null]
 2:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"문제 난이도"}],["$","meta","2",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 4:I{"id":5492,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-3c03fcdecd7443cc.js","722:static/chunks/722-7cf64aec2670f789.js","396:static/chunks/396-491a2a07b215d93b.js","333:static/chunks/333-dc0c655bfc078da1.js","185:static/chunks/app/layout-4094bb0ea40fb078.js"],"name":"","async":false}
@@ -7,9 +7,9 @@
 7:I{"id":7767,"chunks":["272:static/chunks/webpack-a8ba63f2417b26c7.js","971:static/chunks/fd9d1056-fe8c62b67ebb5281.js","596:static/chunks/596-9910d2cba943a1ec.js"],"name":"default","async":false}
 8:I{"id":7920,"chunks":["272:static/chunks/webpack-a8ba63f2417b26c7.js","971:static/chunks/fd9d1056-fe8c62b67ebb5281.js","596:static/chunks/596-9910d2cba943a1ec.js"],"name":"default","async":false}
 3:["$","html",null,{"lang":"ko","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=JetBrains+Mono:ital,wght@0,400;0,700;1,400;1,700&family=Oxanium:wght@400;700&display=swap","rel":"stylesheet"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,700&display=swap"}],["$","link",null,{"rel":"stylesheet","href":"https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-dynamic-subset.css"}],["$","link",null,{"rel":"stylesheet","href":"https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.css","crossOrigin":"anonymous"}]]}],["$","body",null,{"children":["$","$L4",null,{"breadcrumbsComponent":["$","$L5",null,{"guidemap":{"key":"","title":null,"index":0,"guides":[{"key":"/en","title":null,"index":0,"guides":[{"key":"/en/arena","title":"Arena","index":0,"guides":[{"key":"/en/arena/getting-started","title":"For Participants","index":0,"guides":[{"key":"/en/arena/getting-started/link-account","title":"Register","index":0,"type":"guide"}],"type":"category"}],"type":"category"}],"type":"category"},{"key":"/ko","title":null,"index":0,"guides":[{"key":"/ko/getting-started","title":"시작하기","index":0,"guides":[{"key":"/ko/getting-started/link-account","title":"계정 만들기","index":1,"type":"guide"}],"type":"category"},{"key":"/ko/stats","title":"스탯","index":1,"guides":[{"key":"/ko/stats/profile","title":"프로필 조회하기","index":0,"type":"guide"},{"key":"/ko/stats/ac-rating","title":"티어와 AC 레이팅","index":10,"type":"guide"},{"key":"/ko/stats/class","title":"CLASS","index":20,"type":"guide"}],"type":"category"},{"key":"/ko/problem","title":"문제","index":2,"guides":[{"key":"/ko/problem/level","title":"문제 난이도","index":10,"type":"guide"},{"key":"/ko/problem/level-unusual","title":"특수한 경우의 문제 난이도","index":20,"type":"guide"}],"type":"category"},{"key":"/ko/updates","title":"업데이트","index":999,"guides":[{"key":"/ko/updates/240530","title":"시즌 4 업데이트 (2024년 6월 5일)","index":-20240530,"type":"guide"}],"type":"category"}],"type":"category"}],"type":"category"}}],"navigationComponent":["$","$L6",null,{"guidemap":{"key":"","title":null,"index":0,"guides":[{"key":"/en","title":null,"index":0,"guides":[{"key":"/en/arena","title":"Arena","index":0,"guides":[{"key":"/en/arena/getting-started","title":"For Participants","index":0,"guides":[{"key":"/en/arena/getting-started/link-account","title":"Register","index":0,"type":"guide"}],"type":"category"}],"type":"category"}],"type":"category"},{"key":"/ko","title":null,"index":0,"guides":[{"key":"/ko/getting-started","title":"시작하기","index":0,"guides":[{"key":"/ko/getting-started/link-account","title":"계정 만들기","index":1,"type":"guide"}],"type":"category"},{"key":"/ko/stats","title":"스탯","index":1,"guides":[{"key":"/ko/stats/profile","title":"프로필 조회하기","index":0,"type":"guide"},{"key":"/ko/stats/ac-rating","title":"티어와 AC 레이팅","index":10,"type":"guide"},{"key":"/ko/stats/class","title":"CLASS","index":20,"type":"guide"}],"type":"category"},{"key":"/ko/problem","title":"문제","index":2,"guides":[{"key":"/ko/problem/level","title":"문제 난이도","index":10,"type":"guide"},{"key":"/ko/problem/level-unusual","title":"특수한 경우의 문제 난이도","index":20,"type":"guide"}],"type":"category"},{"key":"/ko/updates","title":"업데이트","index":999,"guides":[{"key":"/ko/updates/240530","title":"시즌 4 업데이트 (2024년 6월 5일)","index":-20240530,"type":"guide"}],"type":"category"}],"type":"category"}],"type":"category"}}],"children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children",["slug","ko/problem/level","c"],"children"],"error":"$undefined","errorStyles":"$undefined","loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L9",null],"segment":"__PAGE__?{\"slug\":[\"ko\",\"problem\",\"level\"]}"},"styles":[]}],"segment":["slug","ko/problem/level","c"]},"styles":[]}]}]}]]}]
-a:I{"id":4797,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-3c03fcdecd7443cc.js","722:static/chunks/722-7cf64aec2670f789.js","877:static/chunks/app/[...slug]/page-e234eb0059ea13a9.js"],"name":"","async":false}
-b:I{"id":9308,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-3c03fcdecd7443cc.js","722:static/chunks/722-7cf64aec2670f789.js","877:static/chunks/app/[...slug]/page-e234eb0059ea13a9.js"],"name":"","async":false}
-c:T2c39,/*@jsxRuntime automatic @jsxImportSource react*/
+a:I{"id":4797,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-3c03fcdecd7443cc.js","722:static/chunks/722-7cf64aec2670f789.js","877:static/chunks/app/[...slug]/page-20eb7ace266e348a.js"],"name":"","async":false}
+b:I{"id":9308,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-3c03fcdecd7443cc.js","722:static/chunks/722-7cf64aec2670f789.js","877:static/chunks/app/[...slug]/page-20eb7ace266e348a.js"],"name":"","async":false}
+c:T32f7,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
@@ -26,11 +26,13 @@ function _createMdxContent(props) {
     th: "th",
     tbody: "tbody",
     td: "td",
-    h3: "h3"
-  }, _provideComponents(), props.components), {Tier, Ruby, Diamond, Platinum, Gold, Silver, Bronze, Sprout, Unrated, WarningIcon, DifficultyComparison} = _components;
+    h3: "h3",
+    code: "code"
+  }, _provideComponents(), props.components), {ExternalLink, Tier, Ruby, Diamond, Platinum, Gold, Silver, Bronze, Sprout, Unrated, WarningIcon, DifficultyComparison} = _components;
   if (!Bronze) _missingMdxReference("Bronze", true);
   if (!Diamond) _missingMdxReference("Diamond", true);
   if (!DifficultyComparison) _missingMdxReference("DifficultyComparison", true);
+  if (!ExternalLink) _missingMdxReference("ExternalLink", true);
   if (!Gold) _missingMdxReference("Gold", true);
   if (!Platinum) _missingMdxReference("Platinum", true);
   if (!Ruby) _missingMdxReference("Ruby", true);
@@ -40,7 +42,10 @@ function _createMdxContent(props) {
   if (!Unrated) _missingMdxReference("Unrated", true);
   if (!WarningIcon) _missingMdxReference("WarningIcon", true);
   return _jsxs(_Fragment, {
-    children: [_jsxs(_components.p, {
+    children: [_jsx(ExternalLink, {
+      href: "https://solved.ac/problems/level",
+      children: "난이도별 문제 목록"
+    }), "\n", _jsxs(_components.p, {
       children: [_jsx(_components.strong, {
         children: "문제 난이도"
       }), "는 백준 온라인 저지에 등록된 문제에 솔브드의 개인 기여자들이 매긴 난이도를 의미합니다."]
@@ -176,6 +181,9 @@ function _createMdxContent(props) {
       })]
     }), "\n", _jsx(_components.h3, {
       children: "새싹 문제"
+    }), "\n", _jsx(ExternalLink, {
+      href: "https://solved.ac/problems/sprout",
+      children: "새싹 문제 목록"
     }), "\n", _jsxs(_components.p, {
       children: ["쉬운 문제들 중 솔브드가 초보자를 위하여 직접 추천한 일부 문제들은\n", _jsx(Tier, {
         sprout: true,
@@ -263,6 +271,39 @@ function _createMdxContent(props) {
         href: "/ko/problem/level-unusual",
         children: "「특수한 경우의 문제 난이도」"
       }), "를 참고해 주시기 바랍니다."]
+    }), "\n", _jsx(_components.h2, {
+      children: "고급 검색"
+    }), "\n", _jsx(ExternalLink, {
+      href: "https://solved.ac/search",
+      children: "문제 검색"
+    }), "\n", _jsx(_components.p, {
+      children: "솔브드의 검색 창에서 문제 난이도를 이용하여 문제를 검색할 수 있습니다. 아래는 몇 가지 예시입니다."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsxs(_components.li, {
+        children: [_jsx(_components.code, {
+          children: "*b"
+        }), ": ", _jsx(Bronze, {
+          children: "Bronze"
+        }), " 난이도 문제 (새싹 난이도 포함)"]
+      }), "\n", _jsxs(_components.li, {
+        children: [_jsx(_components.code, {
+          children: "*b1..g5"
+        }), ": ", _jsx(Bronze, {
+          children: "Bronze I"
+        }), " – ", _jsx(Gold, {
+          children: "Gold V"
+        }), " 난이도 문제 (Sprout I 포함)"]
+      }), "\n", _jsxs(_components.li, {
+        children: [_jsx(_components.code, {
+          children: "*0"
+        }), ": ", _jsx(Unrated, {
+          children: "Unrated"
+        }), " 및 ", _jsx(Unrated, {
+          children: "Not ratable"
+        }), " 문제"]
+      }), "\n"]
+    }), "\n", _jsx(_components.p, {
+      children: "자세한 내용은 위의 '문제 검색' 링크 하단의 고급 검색 안내를 참고해 주세요."
     }), "\n", _jsx(_components.h2, {
       children: "타 플랫폼과의 대략적인 비교"
     }), "\n", _jsx(_components.p, {

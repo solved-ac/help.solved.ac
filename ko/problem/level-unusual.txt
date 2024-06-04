@@ -1,4 +1,4 @@
-0:["2TleJdqFRf-xC86KfCjv7",[[["",{"children":[["slug","ko/problem/level-unusual","c"],{"children":["__PAGE__?{\"slug\":[\"ko\",\"problem\",\"level-unusual\"]}",{}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
+0:["Zxeq6Oy5du3jHyHU1nPM0",[[["",{"children":[["slug","ko/problem/level-unusual","c"],{"children":["__PAGE__?{\"slug\":[\"ko\",\"problem\",\"level-unusual\"]}",{}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
 1:["$L3",null]
 2:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"특수한 경우의 문제 난이도"}],["$","meta","2",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 4:I{"id":5492,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-3c03fcdecd7443cc.js","722:static/chunks/722-7cf64aec2670f789.js","396:static/chunks/396-491a2a07b215d93b.js","333:static/chunks/333-dc0c655bfc078da1.js","185:static/chunks/app/layout-4094bb0ea40fb078.js"],"name":"","async":false}
@@ -7,19 +7,20 @@
 7:I{"id":7767,"chunks":["272:static/chunks/webpack-a8ba63f2417b26c7.js","971:static/chunks/fd9d1056-fe8c62b67ebb5281.js","596:static/chunks/596-9910d2cba943a1ec.js"],"name":"default","async":false}
 8:I{"id":7920,"chunks":["272:static/chunks/webpack-a8ba63f2417b26c7.js","971:static/chunks/fd9d1056-fe8c62b67ebb5281.js","596:static/chunks/596-9910d2cba943a1ec.js"],"name":"default","async":false}
 3:["$","html",null,{"lang":"ko","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=JetBrains+Mono:ital,wght@0,400;0,700;1,400;1,700&family=Oxanium:wght@400;700&display=swap","rel":"stylesheet"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,700&display=swap"}],["$","link",null,{"rel":"stylesheet","href":"https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-dynamic-subset.css"}],["$","link",null,{"rel":"stylesheet","href":"https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.css","crossOrigin":"anonymous"}]]}],["$","body",null,{"children":["$","$L4",null,{"breadcrumbsComponent":["$","$L5",null,{"guidemap":{"key":"","title":null,"index":0,"guides":[{"key":"/en","title":null,"index":0,"guides":[{"key":"/en/arena","title":"Arena","index":0,"guides":[{"key":"/en/arena/getting-started","title":"For Participants","index":0,"guides":[{"key":"/en/arena/getting-started/link-account","title":"Register","index":0,"type":"guide"}],"type":"category"}],"type":"category"}],"type":"category"},{"key":"/ko","title":null,"index":0,"guides":[{"key":"/ko/getting-started","title":"시작하기","index":0,"guides":[{"key":"/ko/getting-started/link-account","title":"계정 만들기","index":1,"type":"guide"}],"type":"category"},{"key":"/ko/stats","title":"스탯","index":1,"guides":[{"key":"/ko/stats/profile","title":"프로필 조회하기","index":0,"type":"guide"},{"key":"/ko/stats/ac-rating","title":"티어와 AC 레이팅","index":10,"type":"guide"},{"key":"/ko/stats/class","title":"CLASS","index":20,"type":"guide"}],"type":"category"},{"key":"/ko/problem","title":"문제","index":2,"guides":[{"key":"/ko/problem/level","title":"문제 난이도","index":10,"type":"guide"},{"key":"/ko/problem/level-unusual","title":"특수한 경우의 문제 난이도","index":20,"type":"guide"}],"type":"category"},{"key":"/ko/updates","title":"업데이트","index":999,"guides":[{"key":"/ko/updates/240530","title":"시즌 4 업데이트 (2024년 6월 5일)","index":-20240530,"type":"guide"}],"type":"category"}],"type":"category"}],"type":"category"}}],"navigationComponent":["$","$L6",null,{"guidemap":{"key":"","title":null,"index":0,"guides":[{"key":"/en","title":null,"index":0,"guides":[{"key":"/en/arena","title":"Arena","index":0,"guides":[{"key":"/en/arena/getting-started","title":"For Participants","index":0,"guides":[{"key":"/en/arena/getting-started/link-account","title":"Register","index":0,"type":"guide"}],"type":"category"}],"type":"category"}],"type":"category"},{"key":"/ko","title":null,"index":0,"guides":[{"key":"/ko/getting-started","title":"시작하기","index":0,"guides":[{"key":"/ko/getting-started/link-account","title":"계정 만들기","index":1,"type":"guide"}],"type":"category"},{"key":"/ko/stats","title":"스탯","index":1,"guides":[{"key":"/ko/stats/profile","title":"프로필 조회하기","index":0,"type":"guide"},{"key":"/ko/stats/ac-rating","title":"티어와 AC 레이팅","index":10,"type":"guide"},{"key":"/ko/stats/class","title":"CLASS","index":20,"type":"guide"}],"type":"category"},{"key":"/ko/problem","title":"문제","index":2,"guides":[{"key":"/ko/problem/level","title":"문제 난이도","index":10,"type":"guide"},{"key":"/ko/problem/level-unusual","title":"특수한 경우의 문제 난이도","index":20,"type":"guide"}],"type":"category"},{"key":"/ko/updates","title":"업데이트","index":999,"guides":[{"key":"/ko/updates/240530","title":"시즌 4 업데이트 (2024년 6월 5일)","index":-20240530,"type":"guide"}],"type":"category"}],"type":"category"}],"type":"category"}}],"children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children",["slug","ko/problem/level-unusual","c"],"children"],"error":"$undefined","errorStyles":"$undefined","loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L9",null],"segment":"__PAGE__?{\"slug\":[\"ko\",\"problem\",\"level-unusual\"]}"},"styles":[]}],"segment":["slug","ko/problem/level-unusual","c"]},"styles":[]}]}]}]]}]
-a:I{"id":4797,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-3c03fcdecd7443cc.js","722:static/chunks/722-7cf64aec2670f789.js","877:static/chunks/app/[...slug]/page-e234eb0059ea13a9.js"],"name":"","async":false}
-b:I{"id":9308,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-3c03fcdecd7443cc.js","722:static/chunks/722-7cf64aec2670f789.js","877:static/chunks/app/[...slug]/page-e234eb0059ea13a9.js"],"name":"","async":false}
-c:T34a3,/*@jsxRuntime automatic @jsxImportSource react*/
+a:I{"id":4797,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-3c03fcdecd7443cc.js","722:static/chunks/722-7cf64aec2670f789.js","877:static/chunks/app/[...slug]/page-20eb7ace266e348a.js"],"name":"","async":false}
+b:I{"id":9308,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-3c03fcdecd7443cc.js","722:static/chunks/722-7cf64aec2670f789.js","877:static/chunks/app/[...slug]/page-20eb7ace266e348a.js"],"name":"","async":false}
+c:T3c15,/*@jsxRuntime automatic @jsxImportSource react*/
 const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
 const {useMDXComponents: _provideComponents} = arguments[0];
 function _createMdxContent(props) {
   const _components = Object.assign({
     p: "p",
     h2: "h2",
+    ul: "ul",
+    li: "li",
+    code: "code",
     h3: "h3",
     ol: "ol",
-    li: "li",
-    ul: "ul",
     table: "table",
     thead: "thead",
     tr: "tr",
@@ -33,7 +34,8 @@ function _createMdxContent(props) {
     mrow: "mrow",
     mtext: "mtext",
     annotation: "annotation"
-  }, _provideComponents(), props.components), {Tier, Unrated, WarningIcon} = _components;
+  }, _provideComponents(), props.components), {Tier, Unrated, ExternalLink, WarningIcon} = _components;
+  if (!ExternalLink) _missingMdxReference("ExternalLink", true);
   if (!Tier) _missingMdxReference("Tier", true);
   if (!Unrated) _missingMdxReference("Unrated", true);
   if (!WarningIcon) _missingMdxReference("WarningIcon", true);
@@ -46,8 +48,19 @@ function _createMdxContent(props) {
       }), " ", _jsx(Unrated, {
         children: "Unrated"
       })]
+    }), "\n", _jsx(ExternalLink, {
+      href: "https://solved.ac/search?query=*0+v%3F",
+      children: "Unrated 문제 목록"
     }), "\n", _jsx(_components.p, {
       children: "아직 아무 기여자도 기여하지 않은 문제입니다. 이후 기여가 생길 경우 AC 레이팅 계산에 산입될 수 있습니다."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsxs(_components.li, {
+        children: ["솔브드 고급 검색에서 ", _jsx(_components.code, {
+          children: "*0 v?true"
+        }), " 또는 ", _jsx(_components.code, {
+          children: "*0 v?"
+        }), "로 검색하면 이 문제들을 찾을 수 있습니다."]
+      }), "\n"]
     }), "\n", _jsxs(_components.h2, {
       children: [_jsx(Tier, {
         t: 0,
@@ -55,8 +68,19 @@ function _createMdxContent(props) {
       }), " ", _jsx(Unrated, {
         children: "Not ratable"
       })]
+    }), "\n", _jsx(ExternalLink, {
+      href: "https://solved.ac/search?query=*0+v%3F0",
+      children: "Unrated 문제 목록"
     }), "\n", _jsx(_components.p, {
       children: "난이도를 매길 수 없는 문제입니다. 이 문제들은 Unrated와 다르게 푼 문제 수에도 가산되지 않습니다."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsxs(_components.li, {
+        children: ["솔브드 고급 검색에서 ", _jsx(_components.code, {
+          children: "*0 v?false"
+        }), " 또는 ", _jsx(_components.code, {
+          children: "*0 v?0"
+        }), "으로 검색하면 이 문제들을 찾을 수 있습니다."]
+      }), "\n"]
     }), "\n", _jsx(_components.h3, {
       children: "기준"
     }), "\n", _jsx(_components.p, {
@@ -237,6 +261,9 @@ function _createMdxContent(props) {
       })]
     }), "\n", _jsxs(_components.h2, {
       children: [_jsx(WarningIcon, {}), " 문제해결 경고"]
+    }), "\n", _jsx(ExternalLink, {
+      href: "https://solved.ac/search?query=w%3F",
+      children: "문제해결 경고가 있는 문제 목록"
     }), "\n", _jsxs(_components.p, {
       children: ["다음 중 하나 이상의 조건에 해당되는 문제들은 난이도 값이 0이며, 해결해도 레이팅을 주지 않습니다.\n이런 문제들은 난이도 아이콘 옆에 ", _jsx(WarningIcon, {}), " 경고 아이콘이 표시됩니다."]
     }), "\n", _jsxs(_components.ul, {
@@ -255,6 +282,20 @@ function _createMdxContent(props) {
       }), "\n"]
     }), "\n", _jsx(_components.p, {
       children: "Not ratable과는 다르게 문제의 난이도가 존재하며 기여도 가능합니다."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsxs(_components.li, {
+        children: ["솔브드 고급 검색에서 ", _jsx(_components.code, {
+          children: "w?true"
+        }), " 또는 ", _jsx(_components.code, {
+          children: "w?"
+        }), "로 검색하면 이 문제들을 찾을 수 있습니다."]
+      }), "\n", _jsxs(_components.li, {
+        children: ["검색에서 문제해결 경고가 있는 문제를 제외하려면, 쿼리 뒤에 ", _jsx(_components.code, {
+          children: "w?false"
+        }), " 또는 ", _jsx(_components.code, {
+          children: "-w?"
+        }), "를 붙이면 됩니다."]
+      }), "\n"]
     })]
   });
 }
