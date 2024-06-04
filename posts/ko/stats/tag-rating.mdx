@@ -1,0 +1,56 @@
+---
+title: 태그 레이팅
+index: 30
+---
+
+**태그 레이팅**이란 [AC 레이팅](/ko/stats/ac-rating)과 유사하게 특정 태그가 달란 문제들만을 대상으로 계산한 레이팅입니다.
+프로그래머의 **태그 티어**는 태그 레이팅을 기반으로 결정됩니다.
+
+- 참고: 가이드 [「태그」](/ko/problem/tag), 가이드 [「티어와 AC 레이팅」](/ko/stats/ac-rating)
+
+## 태그 레이팅의 확인
+
+자신의 프로필 페이지의 최하단의 **태그 분포** 섹션에서 태그 레이팅을 확인할 수 있습니다.
+
+![프로필 페이지의 태그 레이팅 카드](/stats/tag-rating-card-ko.png)
+
+## 대상과 단계
+
+태그 레이팅은 솔브드에 **500문제 이상이 등록된 태그들에 한정**하여 계산됩니다.
+
+태그 티어는 AC 레이팅의 티어와 마찬가지로 32단계로 구분됩니다.
+
+- 참고: 가이드 [「티어와 AC 레이팅」](/ko/stats/ac-rating)
+
+## 공식
+
+태그 레이팅은 AC 레이팅의 계산식과 비슷하나 조금은 다른 공식으로 결정됩니다. 자세한 계산 방법은 아래와 같습니다.
+
+$$
+\begin{aligned}
+\left(\text{태그 레이팅}\right) &= \left(\text{해당 태그의 해결한 난이도 상위 }\underline{\color{blue}50}\text{문제의 난이도 값의 합}\right) \underline{\color{blue}\times\,2} \\
+&+  \left\lfloor \underline{\color{blue}200}\times \left(1-\underline{\color{blue}0.99}^{\left(\text{해결한 해당 태그의 문제 수}\right)}\right) \right\rceil \\ 
+\end{aligned}
+$$
+
+$\left\lfloor x \right\rceil$는 $x$를 정수로 반올림함을 의미합니다.
+
+- solved.ac는 문제의 난이도도 프로그래머의 티어와 같은 아이콘을 이용해 표현합니다.
+    - **난이도 값**이란, 문제의 난이도를 <Tier t={1} />를 1점, <Tier t={2} />를 2점, &hellip; <Tier t={30} />을 30점으로 바꾼 수를 말합니다. 어려운 문제를 해결할수록 높은 레이팅을 달성할 수 있습니다.
+    - 참고: 가이드 [「문제 난이도」](/ko/problem/level)
+- 해결한 문제 수에 따라 보너스 레이팅을 최대 200까지 받을 수 있습니다.
+    - 해결한 문제 수는 백준 온라인 저지에서 '번외'로 표시된 문제들과 <Tier t={0} locked /> 문제들을 제외합니다.
+- AC 레이팅과는 다르게, CLASS 등급에 따른 보너스 레이팅 및 기여 보너스 레이팅은 없습니다.
+
+## 주요 태그
+
+아래의 8개 태그는 솔브드가 주요 태그로 지정한 태그입니다. 이 태그들의 레이팅은 프로필의 태그 분포 카드에 팔각형 그래프로 표시됩니다.
+
+- 수학 (math)
+- 구현 (implementation)
+- 그리디 알고리즘 (greedy)
+- 문자열 (string)
+- 자료 구조 (data_structures)
+- 그래프 이론 (graphs)
+- 다이나믹 프로그래밍 (dp)
+- 기하학 (geometry)
