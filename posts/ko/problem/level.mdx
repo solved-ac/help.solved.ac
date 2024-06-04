@@ -1,0 +1,56 @@
+---
+title: 문제 난이도
+index: 10
+---
+
+**문제 난이도**는 백준 온라인 저지에 등록된 문제에 솔브드의 개인 기여자들이 매긴 난이도를 의미합니다.
+
+문제 난이도는 기여자들에 의해 결정되므로, 난이도가 고정된 일부 문제를 제외하고는 시간에 따라 변할 수 있습니다.
+
+## 단계
+
+일반적인 문제의 난이도는 총 30단계로 구분됩니다. 아래 표에서 위에 있을수록, 그리고 숫자가 작을수록 높은 티어입니다.
+
+각 문제는 1에서 30까지의 **난이도 값**을 가집니다. 난이도 값이란, 문제의 난이도를
+<Tier t={1} />를 1점, <Tier t={2} />를 2점, &hellip; <Tier t={30} />을 30점으로 바꾼 수를 말합니다.
+해결한 문제 중 난이도 값이 높은 상위 100개 문제는 AC 레이팅 계산에 사용됩니다.
+
+- 참고: 가이드 [「티어와 AC 레이팅」](/ko/stats/ac-rating)
+
+| 티어 | 아이콘 | 설명 |
+|:---:|:---:|:---:|
+| <Ruby>Ruby</Ruby> V &ndash; I | {new Array(5).fill(0).map((_, i) => <Tier key={i} t={i + 26}/>)} | 전세계급 대학생 대회에서<br/>해결하는 팀이 적거나 없는 정도의 난이도 |
+| <Diamond>Diamond</Diamond> V &ndash; I | {new Array(5).fill(0).map((_, i) => <Tier key={i} t={i + 21}/>)} | 전세계급 대학생 대회에서<br/>상위 난이도로 주로 출제되는 난이도 |
+| <Platinum>Platinum</Platinum> V &ndash; I | {new Array(5).fill(0).map((_, i) => <Tier key={i} t={i + 16}/>)} | 전국구급 대학생 대회에서<br/>중상위 난이도로 주로 출제되는 난이도 |
+| <Gold>Gold</Gold> V &ndash; I | {new Array(5).fill(0).map((_, i) => <Tier key={i} t={i + 11}/>)} | 코딩 테스트에 상위 난이도로 주로 출제되는 난이도<br/>다소 난이도가 있는 대회 문제 |
+| <Silver>Silver</Silver> V &ndash; I | {new Array(5).fill(0).map((_, i) => <Tier key={i} t={i + 6}/>)} | 코딩 테스트에 중위 난이도로 주로 출제되는 난이도<br/>대회 준비를 위한 연습문제 |
+| <Bronze>Bronze</Bronze> V &ndash; I | {new Array(5).fill(0).map((_, i) => <Tier key={i} t={i + 1}/>)} | 알고리즘 문제해결 초보자를 위한 난이도 |
+
+### 새싹 문제
+
+쉬운 문제들 중 솔브드가 초보자를 위하여 직접 추천한 일부 문제들은
+<Tier sprout t={1} /> <Sprout>새싹</Sprout> 난이도로 따로 분류되며, 연두색 아이콘으로 표시됩니다.
+
+새싹 난이도 문제들은 같은 숫자의 <Bronze>Bronze</Bronze> 난이도와 같은 난이도를 가집니다.
+마찬가지로, 새싹 문제들의 난이도 값도 <Tier t={1} sprout />를 1점, <Tier t={2} sprout />를 2점, &hellip; <Tier t={5} sprout />을 5점으로 합니다.
+
+| 티어 | 아이콘 | 설명 |
+|:---:|:---:|:---:|
+| <Sprout>Sprout</Sprout> V &ndash; I<sup>+</sup> | {new Array(6).fill(0).map((_, i) => <Tier key={i} t={i + 1} sprout />)} | 초보자를 위해 추천하는 쉬운 문제 |
+
+### 특수한 경우
+
+기여가 없는 문제 등, 여러 이유로 위의 분류에 해당되지 않는 문제가 일부 존재합니다. 아래 문제들의 난이도 값은 0입니다.
+
+- <Tier t={0} /> <b><Unrated>Unrated</Unrated></b>: 아직 기여가 없는 문제
+- <Tier t={0} locked /> <b><Unrated>Not ratable</Unrated></b>: 난이도를 매길 수 없는 문제
+- <WarningIcon /> <b>문제해결 경고</b>: 난이도가 매겨져 있으나, 중복 문제 존재 및 문제 오류 등의 이유로 난이도 값이 0인 문제
+
+위 난이도에 대한 자세한 설명은 가이드 [「특수한 경우의 문제 난이도」](/ko/problem/level-unusual)를 참고해 주시기 바랍니다.
+
+## 타 플랫폼과의 대략적인 비교
+
+솔브드의 난이도와 다른 플랫폼의 난이도를 1:1 비교하는 것은 다소 어렵습니다.
+아래는 대략적인 정보로, 참고 자료로만 사용해 주세요.
+
+<DifficultyComparison />

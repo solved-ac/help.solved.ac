@@ -20,7 +20,10 @@ const levelImageName = ({ value, sprout, locked }: TierImageArgs): string => {
     return locked ? "nr" : "0";
   }
   if (sprout) {
-    return "sprout";
+    if (value >= 6) {
+      return "s5p";
+    }
+    return `s${value}`;
   } else {
     return value.toString();
   }

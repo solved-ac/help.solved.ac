@@ -2,6 +2,7 @@
 
 import {
   Cell,
+  Divider,
   Enumerate,
   Item,
   Itemize,
@@ -20,6 +21,8 @@ import ContentImage from "./ContentImage";
 import ExternalLinkButton from "./ExternalLinkButton";
 import LevelColorText from "./LevelColorText";
 import Tier from "./Tier";
+import DifficultyComparison from "../content/difficultyComparison/DifficultyComparison";
+import WarningIcon from "./WarningIcon";
 
 const MDXComponents = {
   h1: (props: any) => <ContentHeading1 {...props} />,
@@ -62,8 +65,10 @@ const MDXComponents = {
   ),
   thead: (props: any) => <TableHead {...props} />,
   tbody: (props: any) => <TableBody {...props} />,
+  hr: (props: any) => <Divider {...props} />,
   ExternalLink: ExternalLinkButton,
   Tier,
+  WarningIcon,
   ClassIcon,
   LevelColorText,
   Sprout: (props: any) => <LevelColorText t="sprout" {...props} />,
@@ -75,6 +80,9 @@ const MDXComponents = {
   Diamond: (props: any) => <LevelColorText t={23} {...props} />,
   Ruby: (props: any) => <LevelColorText t={28} {...props} />,
   Master: (props: any) => <LevelColorText t={31} {...props} />,
+
+  // Content-specific components
+  DifficultyComparison: () => <DifficultyComparison />,
 } as const;
 
 export default MDXComponents;
