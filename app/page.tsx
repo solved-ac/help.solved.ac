@@ -9,10 +9,10 @@ const Home = () => {
       <Typo h1>solved.ac Help</Typo>
       <Itemize>
         <Item>
-          <Link href="/ko">한국어</Link>
+          <Link href="/ko/getting-started/link-account">한국어</Link>
         </Item>
         <Item>
-          <Link href="/en">English</Link>
+          <Link href="/en/arena/getting-started/link-account">English</Link>
         </Item>
       </Itemize>
     </>
