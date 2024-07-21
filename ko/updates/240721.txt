@@ -1,0 +1,65 @@
+0:["h5quGp8jV6whDldqkC2J0",[[["",{"children":[["slug","ko/updates/240721","c"],{"children":["__PAGE__?{\"slug\":[\"ko\",\"updates\",\"240721\"]}",{}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
+1:["$L3",null]
+2:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"굿즈 샵 재개 예쩡 및 기존 주문 배송 지연 안내 (2024년 7월 21일)"}],["$","meta","2",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+4:I{"id":5492,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-3c03fcdecd7443cc.js","722:static/chunks/722-7cf64aec2670f789.js","396:static/chunks/396-491a2a07b215d93b.js","333:static/chunks/333-dc0c655bfc078da1.js","185:static/chunks/app/layout-4094bb0ea40fb078.js"],"name":"","async":false}
+5:I{"id":8175,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-3c03fcdecd7443cc.js","722:static/chunks/722-7cf64aec2670f789.js","396:static/chunks/396-491a2a07b215d93b.js","333:static/chunks/333-dc0c655bfc078da1.js","185:static/chunks/app/layout-4094bb0ea40fb078.js"],"name":"","async":false}
+6:I{"id":483,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-3c03fcdecd7443cc.js","722:static/chunks/722-7cf64aec2670f789.js","396:static/chunks/396-491a2a07b215d93b.js","333:static/chunks/333-dc0c655bfc078da1.js","185:static/chunks/app/layout-4094bb0ea40fb078.js"],"name":"","async":false}
+7:I{"id":7767,"chunks":["272:static/chunks/webpack-a8ba63f2417b26c7.js","971:static/chunks/fd9d1056-fe8c62b67ebb5281.js","596:static/chunks/596-9910d2cba943a1ec.js"],"name":"default","async":false}
+8:I{"id":7920,"chunks":["272:static/chunks/webpack-a8ba63f2417b26c7.js","971:static/chunks/fd9d1056-fe8c62b67ebb5281.js","596:static/chunks/596-9910d2cba943a1ec.js"],"name":"default","async":false}
+3:["$","html",null,{"lang":"ko","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=JetBrains+Mono:ital,wght@0,400;0,700;1,400;1,700&family=Oxanium:wght@400;700&display=swap","rel":"stylesheet"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,700&display=swap"}],["$","link",null,{"rel":"stylesheet","href":"https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-dynamic-subset.css"}],["$","link",null,{"rel":"stylesheet","href":"https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.css","crossOrigin":"anonymous"}]]}],["$","body",null,{"children":["$","$L4",null,{"breadcrumbsComponent":["$","$L5",null,{"guidemap":{"key":"","title":null,"index":0,"guides":[{"key":"/en","title":null,"index":0,"guides":[{"key":"/en/arena","title":"Arena","index":0,"guides":[{"key":"/en/arena/getting-started","title":"For Participants","index":0,"guides":[{"key":"/en/arena/getting-started/link-account","title":"Register","index":0,"type":"guide"}],"type":"category"}],"type":"category"}],"type":"category"},{"key":"/ko","title":null,"index":0,"guides":[{"key":"/ko/getting-started","title":"시작하기","index":0,"guides":[{"key":"/ko/getting-started/link-account","title":"계정 만들기","index":1,"type":"guide"}],"type":"category"},{"key":"/ko/stats","title":"스탯","index":1,"guides":[{"key":"/ko/stats/profile","title":"프로필 조회하기","index":0,"type":"guide"},{"key":"/ko/stats/ac-rating","title":"티어와 AC 레이팅","index":10,"type":"guide"},{"key":"/ko/stats/class","title":"CLASS","index":20,"type":"guide"},{"key":"/ko/stats/tag-rating","title":"태그 레이팅","index":30,"type":"guide"}],"type":"category"},{"key":"/ko/problem","title":"문제","index":2,"guides":[{"key":"/ko/problem/level","title":"문제 난이도","index":10,"type":"guide"},{"key":"/ko/problem/level-unusual","title":"특수한 경우의 문제 난이도","index":20,"type":"guide"},{"key":"/ko/problem/tag","title":"태그","index":30,"type":"guide"}],"type":"category"},{"key":"/ko/updates","title":"업데이트","index":999,"guides":[{"key":"/ko/updates/240721","title":"굿즈 샵 재개 예쩡 및 기존 주문 배송 지연 안내 (2024년 7월 21일)","index":-20240721,"type":"guide"},{"key":"/ko/updates/240628","title":"서포터 프로그램의 프로 플랜으로의 전환 및 환불 관련 안내 (2024년 6월 28일)","index":-20240628,"type":"guide"},{"key":"/ko/updates/240627","title":"솔브드 서포터 신규 결제 일시중지 및 굿즈 샵 주문 관련 안내 (2024년 6월 27일)","index":-20240627,"type":"guide"},{"key":"/ko/updates/240626","title":"랜덤 마라톤 개선 (2024년 6월 26일)","index":-20240626,"type":"guide"},{"key":"/ko/updates/240618","title":"랜덤 마라톤 개선 (2024년 6월 18일)","index":-20240618,"type":"guide"},{"key":"/ko/updates/240609","title":"랜덤 마라톤 개선 (2024년 6월 9일)","index":-20240609,"type":"guide"},{"key":"/ko/updates/240530","title":"시즌 4 업데이트 (2024년 6월 5일)","index":-20240530,"type":"guide"}],"type":"category"}],"type":"category"}],"type":"category"}}],"navigationComponent":["$","$L6",null,{"guidemap":{"key":"","title":null,"index":0,"guides":[{"key":"/en","title":null,"index":0,"guides":[{"key":"/en/arena","title":"Arena","index":0,"guides":[{"key":"/en/arena/getting-started","title":"For Participants","index":0,"guides":[{"key":"/en/arena/getting-started/link-account","title":"Register","index":0,"type":"guide"}],"type":"category"}],"type":"category"}],"type":"category"},{"key":"/ko","title":null,"index":0,"guides":[{"key":"/ko/getting-started","title":"시작하기","index":0,"guides":[{"key":"/ko/getting-started/link-account","title":"계정 만들기","index":1,"type":"guide"}],"type":"category"},{"key":"/ko/stats","title":"스탯","index":1,"guides":[{"key":"/ko/stats/profile","title":"프로필 조회하기","index":0,"type":"guide"},{"key":"/ko/stats/ac-rating","title":"티어와 AC 레이팅","index":10,"type":"guide"},{"key":"/ko/stats/class","title":"CLASS","index":20,"type":"guide"},{"key":"/ko/stats/tag-rating","title":"태그 레이팅","index":30,"type":"guide"}],"type":"category"},{"key":"/ko/problem","title":"문제","index":2,"guides":[{"key":"/ko/problem/level","title":"문제 난이도","index":10,"type":"guide"},{"key":"/ko/problem/level-unusual","title":"특수한 경우의 문제 난이도","index":20,"type":"guide"},{"key":"/ko/problem/tag","title":"태그","index":30,"type":"guide"}],"type":"category"},{"key":"/ko/updates","title":"업데이트","index":999,"guides":[{"key":"/ko/updates/240721","title":"굿즈 샵 재개 예쩡 및 기존 주문 배송 지연 안내 (2024년 7월 21일)","index":-20240721,"type":"guide"},{"key":"/ko/updates/240628","title":"서포터 프로그램의 프로 플랜으로의 전환 및 환불 관련 안내 (2024년 6월 28일)","index":-20240628,"type":"guide"},{"key":"/ko/updates/240627","title":"솔브드 서포터 신규 결제 일시중지 및 굿즈 샵 주문 관련 안내 (2024년 6월 27일)","index":-20240627,"type":"guide"},{"key":"/ko/updates/240626","title":"랜덤 마라톤 개선 (2024년 6월 26일)","index":-20240626,"type":"guide"},{"key":"/ko/updates/240618","title":"랜덤 마라톤 개선 (2024년 6월 18일)","index":-20240618,"type":"guide"},{"key":"/ko/updates/240609","title":"랜덤 마라톤 개선 (2024년 6월 9일)","index":-20240609,"type":"guide"},{"key":"/ko/updates/240530","title":"시즌 4 업데이트 (2024년 6월 5일)","index":-20240530,"type":"guide"}],"type":"category"}],"type":"category"}],"type":"category"}}],"children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children",["slug","ko/updates/240721","c"],"children"],"error":"$undefined","errorStyles":"$undefined","loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L9",null],"segment":"__PAGE__?{\"slug\":[\"ko\",\"updates\",\"240721\"]}"},"styles":[]}],"segment":["slug","ko/updates/240721","c"]},"styles":[]}]}]}]]}]
+a:I{"id":4797,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-3c03fcdecd7443cc.js","722:static/chunks/722-7cf64aec2670f789.js","877:static/chunks/app/[...slug]/page-20eb7ace266e348a.js"],"name":"","async":false}
+b:I{"id":9308,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-3c03fcdecd7443cc.js","722:static/chunks/722-7cf64aec2670f789.js","877:static/chunks/app/[...slug]/page-20eb7ace266e348a.js"],"name":"","async":false}
+c:Tdbd,/*@jsxRuntime automatic @jsxImportSource react*/
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = Object.assign({
+    p: "p",
+    strong: "strong",
+    h2: "h2",
+    a: "a"
+  }, _provideComponents(), props.components);
+  return _jsxs(_Fragment, {
+    children: [_jsxs(_components.p, {
+      children: ["안녕하세요! 우리 모두가 만들어가는 알고리즘 문제해결 학습의 이정표 ", _jsx(_components.strong, {
+        children: "solved.ac"
+      }), "입니다."]
+    }), "\n", _jsx(_components.h2, {
+      children: "굿즈 샵 재개 예정"
+    }), "\n", _jsxs(_components.p, {
+      children: ["솔브드는 지난 달에 부득이한 사유로 굿즈 샵 주문을 일시 중단하게 되었습니다. (", _jsx(_components.a, {
+        href: "./240627",
+        children: "2024년 6월 27일 공지"
+      }), ")\n굿즈 샵 주문이 중단된 원인을 기존 주문 마감 시점이었던 7월 1일까지 해결하지 못하여서, 기존에 주문 계획이 있으셨던 분들께서 굿즈를 주문하지 못하는 일이 있었습니다."]
+    }), "\n", _jsx(_components.p, {
+      children: "현재 솔브드는 새로운 결제대행사와의 계약 및 카드사 재심사 과정을 진행 중이며, 이에 따라 곧 굿즈 샵 주문을 재개할 예정입니다. 재개 일정 등 관련된 자세한 사항은 추후 공지를 통해 안내드리겠습니다."
+    }), "\n", _jsx(_components.h2, {
+      children: "기존 주문 배송 지연 안내"
+    }), "\n", _jsxs(_components.p, {
+      children: ["굿즈 샵이 재개됨에 따라, 주문제작 상품의 제작을 재개된 기간 동안의 주문들과 같이 진행하게 되었습니다. 이에 따라 기존에 7월 중 배송으로 안내드렸던 기존 굿즈 샵 주문 건들의 배송이 ", _jsx(_components.strong, {
+        children: "8월 중"
+      }), "으로 지연될 예정입니다."]
+    }), "\n", _jsx(_components.p, {
+      children: "이로 인하여 기존 주문하신 분들께는 불편을 드리게 되어 대단히 죄송합니다. 최대한 빠른 시일 내에 주문하신 분들께 굿즈를 배송할 수 있도록 노력하겠습니다."
+    }), "\n", _jsxs(_components.p, {
+      children: ["기존 주문 건의 배송지 변경, 주문 옵션 변경, 환불 등과 관련해서는 ", _jsx(_components.a, {
+        href: "mailto:shift@solved.ac",
+        children: "shift@solved.ac"
+      }), "로 문의해 주시기 바라겠습니다."]
+    }), "\n", _jsx(_components.h2, {
+      children: "시즌 3 통계 아크릴 - 난이도 스트릭 그래프 옵션 추가"
+    }), "\n", _jsx(_components.p, {
+      children: "굿즈 샵 재개 시 프로 사용자 한정으로 시즌 3 통계 아크릴을 난이도 스트릭 그래프 옵션을 추가할 예정입니다. 기존 주문자께서도 기존 굿즈 샵 기간 중(2024년 6월 18일 - 7월 1일)에 프로 플랜 혹은 솔브드 서포터 구독이 있었던 경우, 메일로 주문 변경 요청을 보내 주시면 해당 옵션을 추가할 수 있습니다."
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = Object.assign({}, _provideComponents(), props.components);
+  return MDXLayout ? _jsx(MDXLayout, Object.assign({}, props, {
+    children: _jsx(_createMdxContent, props)
+  })) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+9:[["$","$La",null,{"children":"굿즈 샵 재개 예쩡 및 기존 주문 배송 지연 안내 (2024년 7월 21일)"}],["$","$Lb",null,{"compiledSource":"$c","frontmatter":{"title":"굿즈 샵 재개 예쩡 및 기존 주문 배송 지연 안내 (2024년 7월 21일)","index":-20240721},"scope":{}}]]
