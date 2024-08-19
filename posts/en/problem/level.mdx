@@ -1,0 +1,62 @@
+---
+title: Problem Level
+index: 10
+---
+
+<ExternalLink href="https://solved.ac/problems/level">Problems by Level</ExternalLink>
+
+**Problem levels** are the difficulties assigned to problems on Baekjoon Online Judge by solved.ac contributors.
+
+Since the problem levels are determined by contributors, they may change over time except for some problems with fixed levels.
+
+## Tiers
+
+The general problem levels are divided into 30 tiers. From the bottom to the top of the table, and the lower the number, the higher the tier.
+
+Each problem has a **level value** from 1 to 30. <Tier t={1} /> is given 1 point, <Tier t={2} /> is given 2 points, and so on, up to <Tier t={30} />. The top 100 problems with the highest level values are used for calculating the AC rating.
+
+- Reference: Guide [**Tiers and AC Rating**](/en/stats/ac-rating)
+
+| Tier | Icon | Description |
+|:---:|:---:|:---:|
+| <Ruby>Ruby</Ruby> V &ndash; I | {new Array(5).fill(0).map((_, i) => <Tier key={i} t={i + 26}/>)} | Few or no teams solves the problem in international championships |
+| <Diamond>Diamond</Diamond> V &ndash; I | {new Array(5).fill(0).map((_, i) => <Tier key={i} t={i + 21}/>)} | Hard problems for programming contests |
+| <Platinum>Platinum</Platinum> V &ndash; I | {new Array(5).fill(0).map((_, i) => <Tier key={i} t={i + 16}/>)} | Typical to hard problems for programming contests |
+| <Gold>Gold</Gold> V &ndash; I | {new Array(5).fill(0).map((_, i) => <Tier key={i} t={i + 11}/>)} | Hard problems for coding interviews |
+| <Silver>Silver</Silver> V &ndash; I | {new Array(5).fill(0).map((_, i) => <Tier key={i} t={i + 6}/>)} | Typical problems for coding interviews |
+| <Bronze>Bronze</Bronze> V &ndash; I | {new Array(5).fill(0).map((_, i) => <Tier key={i} t={i + 1}/>)} | For beginners in algorithm problem-solving |
+
+### Sprout Problems
+
+<ExternalLink href="https://solved.ac/problems/sprout">Sprout Problems List</ExternalLink>
+
+Some easy problems recommended by solved.ac for beginners are classified as <Tier sprout t={1} /> <Sprout>Sprout</Sprout> level and are marked with a light green icon.
+
+Sprout level problems have the same level as <Bronze>Bronze</Bronze> level problems with the same number. Similarly, the level values of Sprout problems are <Tier t={1} sprout /> 1 point, <Tier t={2} sprout /> 2 points, and so on, up to <Tier t={5} sprout /> 5 points.
+
+| Tier | Icon | Description |
+|:---:|:---:|:---:|
+| <Sprout>Sprout</Sprout> V &ndash; I<sup>+</sup> | {new Array(6).fill(0).map((_, i) => <Tier key={i} t={i + 1} sprout />)} | Easy problems recommended for beginners |
+
+### Special Cases
+
+There are some problems that do not fall into the above categories due to various reasons such as lack of contributions. The level values of the following problems are 0.
+
+- <Tier t={0} /> <b><Unrated>Unrated</Unrated></b>: Problems with no contributions yet
+- <Tier t={0} locked /> <b><Unrated>Not ratable</Unrated></b>: Problems that cannot be rated
+- <WarningIcon /> <b>Problem-solving Warning</b>: Problems with a rated level of 0 due to reasons such as duplicate problems and problem errors
+
+For more information on these levels, please refer to the guide [**Special Cases of Problem Levels**](/en/problem/level-unusual).
+
+## Advanced Search
+
+<ExternalLink href="https://solved.ac/search">Problem Search</ExternalLink>
+
+You can search for problems using the problem levels in the solved.ac search bar. Here are some examples:
+
+- `*b`: <Bronze>Bronze</Bronze> problems (including Sprout problems)
+- `*b1..g5`: <Bronze>Bronze I</Bronze> &ndash; <Gold>Gold V</Gold> problems (including Sprout I)
+- `*0`: <Unrated>Unrated</Unrated> and <Unrated>Not ratable</Unrated> problems
+
+For more information on search syntax, please visit the link above.
+

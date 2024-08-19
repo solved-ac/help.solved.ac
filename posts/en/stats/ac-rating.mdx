@@ -1,0 +1,96 @@
+---
+title: Tiers and AC Rating
+index: 10
+---
+
+**AC Rating** is an indicator that rises as you solve more difficult problems on Baekjoon Online Judge. A programmer's **tier** is calculated based on the AC rating.
+
+## Tiers
+
+Tiers are divided into 32 levels. The right side of the table shows the AC rating required to achieve each tier.
+
+| Tier | Icon | V | IV | III | II | I |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <Master>Master</Master>| <Tier t={31}/> | 3000 |
+| <Ruby>Ruby</Ruby> V &ndash; I | {new Array(5).fill(0).map((_, i) => <Tier key={i} t={i + 26}/>)} | 2700 | 2800 | 2850 | 2900 | 2950 |
+| <Diamond>Diamond</Diamond> V &ndash; I | {new Array(5).fill(0).map((_, i) => <Tier key={i} t={i + 21}/>)} | 2200 | 2300 | 2400 | 2500 | 2600 |
+| <Platinum>Platinum</Platinum> V &ndash; I | {new Array(5).fill(0).map((_, i) => <Tier key={i} t={i + 16}/>)} | 1600 | 1750 | 1900 | 2000 | 2100 |
+| <Gold>Gold</Gold> V &ndash; I | {new Array(5).fill(0).map((_, i) => <Tier key={i} t={i + 11}/>)} | 800 | 950 | 1100 | 1250 | 1400 |
+| <Silver>Silver</Silver> V &ndash; I | {new Array(5).fill(0).map((_, i) => <Tier key={i} t={i + 6}/>)} | 200 | 300 | 400 | 500 | 650 |
+| <Bronze>Bronze</Bronze> V &ndash; I | {new Array(5).fill(0).map((_, i) => <Tier key={i} t={i + 1}/>)} | 30 | 60 | 90 | 120 | 150 |
+| <Unrated>Unrated</Unrated>| <Tier t={0}/> | 0 | | | | |
+
+## Formula
+
+The AC rating is determined by the following formula:
+
+$$
+\begin{aligned}
+\left(\text{AC Rating}\right) &= \left(\text{Sum of the difficulty values of the top 100 solved problems}\right) \\
+&+  \left(\text{Bonus rating based on CLASS}\right) \\
+&+  \left\lfloor 175\times \left(1-0.995^{\left(\text{Number of solved problems}\right)}\right) \right\rceil \\
+&+  \left\lfloor 25\times \left(1-0.9^{\left(\text{Contribution}\right)}\right) \right\rceil
+\end{aligned}
+$$
+
+$\left\lfloor x \right\rceil$ means rounding $x$ to an integer.
+
+- solved.ac also uses icons to represent the difficulty of problems, just like the programmer's tier.
+    - **Level value** refers to the difficulty of the problem, converted to 1 point for <Tier t={1} />, 2 points for <Tier t={2} />, &hellip; 30 points for <Tier t={30} />. The higher the difficulty of the problem, the higher the rating you can achieve.
+    - Reference: Guide [**Problem Level**](/en/problem/level)
+- You can receive bonus ratings based on CLASS grades.
+    - Reference: Guide [**CLASS**](/en/stats/class)
+- You can receive up to 175 bonus ratings based on the number of problems solved.
+    - The number of problems solved excludes problems marked as 'Extra' and <Tier t={0} locked /> problems on Baekjoon Online Judge.
+- You can receive up to 25 bonus ratings based on the contribution.
+    - Only contributions reflected in the difficulty calculation are applied to the contribution.
+    - Reference: Guide [**Contribution**](/en/contribution/general)
+
+## How to Increase Your Rating
+
+If you have solved one or more problems, you can check the elements that make up your AC rating in the **Overview** section of your profile.
+
+![AC Rating card on the profile page](/stats/ac-rating-card-en.png)
+
+### 1. Problem Solving
+
+<ExternalLink href="https://solved.ac/problems/level">
+  List of problems by difficulty
+</ExternalLink>
+
+Solving problems can increase your AC rating.
+
+The most difficult 100 problems you have solved will be reflected in your rating. If you have not solved 100 problems yet, the difficulty value of the newly solved problem will be added to your rating until you solve 100 problems. You must solve difficult problems to increase your rating.
+
+- Until you solve 100 problems, the difficulty value of the newly solved problem will be added to your rating.
+- After solving 100 problems, the difficulty value of the newly solved problem will not be reflected in your rating if it is easier than the 100 problems you have solved. You must solve difficult problems.
+
+Also, you can receive bonus ratings based on the number of problems solved.
+
+- The bonus rating is the sum of $\left\lfloor 175\times \left(1-0.995^{\left(\text{number of solved problems}\right)}\right) \right\rceil$.
+- If you have solved 1,169 problems or more, the bonus rating will be the maximum.
+
+| # of solved problems | Bonus rating |
+|:---:|:---:|
+| 10 | 9 |
+| 50 | 39 |
+| 100 | 69 |
+| 250 | 125 |
+| 500 | 161 |
+| 1,169 | 175 |
+
+### 2. CLASS Acquisition
+
+<ExternalLink href="https://solved.ac/class">
+  CLASS
+</ExternalLink>
+
+By solving CLASS problems curated by solved.ac, you can earn a large amount of bonus ratings.
+
+Below is the bonus rating you can receive based on CLASS.
+
+| CLASS | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Rating | 25 | 50 | 100 | 150 | 200 | 210 | 220 | 230 | 240 | 250 |
+
+- Reference: Guide [**CLASS**](/en/stats/class)

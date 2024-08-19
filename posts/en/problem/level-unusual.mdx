@@ -1,0 +1,64 @@
+---
+title: Special Cases of Problem Levels
+index: 20
+---
+
+Some problems do not fall into the 30 tiers due to various reasons such as lack of contributions. The level values of the following problems are 0.
+
+## <Tier t={0} /> <Unrated>Unrated</Unrated>
+
+<ExternalLink href="https://solved.ac/search?query=*0+v%3F">Unrated Problems List</ExternalLink>
+
+Problems with no contributions yet. They may be included in the AC rating calculation if contributions are made in the future.
+
+- You can find these problems by searching `*0 v?true` or `*0 v?`.
+
+## <Tier t={0} locked /> <Unrated>Not ratable</Unrated>
+
+<ExternalLink href="https://solved.ac/search?query=*0+v%3F0">Not ratable Problems List</ExternalLink>
+
+Problems that cannot be rated. Unlike Unrated problems, solving these problems does not count towards the number of problems solved.
+
+- You can find these problems by searching `*0 v?false` or `*0 v?0`.
+
+### Criteria
+
+The criteria for solved.ac to rate problems as Not ratable are as follows.
+
+1. (Extra) Problems with the \[번외](Extra) tag on BOJ.
+2. (Solvability) Problems that cannot reduce the probability of the first submission being incorrect to less than 0.01%* based solely on the problem situation.
+    - The problem situation includes the problem statement, input data, interactor, etc., and is not limited to them.
+    - Problems for which the probability of an incorrect answer cannot be calculated, and problems for which the correct problem situation cannot be inferred through sufficient reasoning are included. For example, problems that cannot be solved with the given conditions alone, or problems where different inputs are given than those specified in the input format, etc.
+3. (Out of focus) Problems that are significantly different from the knowledge generally required in the field of algorithm problem-solving to solve them in the easiest way, and that are difficult to infer using only the problem situation and common sense.**
+4. (Understandability) Problems with a confusing description or heavily distorted grammar that make it very difficult to understand the problem situation.
+5. (Others) Other problems that are considered desirable to rate as Not ratable.
+
+\* The reason for setting it to 'less than 0.01%' instead of 'exactly 0%' is that there are problems solvable with randomization. These problems usually have a probability of being incorrect with a probability lower than the probability of the judging system failing.
+
+\** Exception: One or more problems from the same source, or problems explicitly mentioning the base knowledge in the description or providing related base knowledge from the link.
+
+### Examples
+
+| Criteria | Applicable Examples | Inapplicable Examples |
+| ------ | ------ | ---------- |
+| Extra | [구구](https://www.acmicpc.net/problem/9999) |  |
+| Solvability | (Probability) [랜덤 게임~](https://www.acmicpc.net/problem/10943), [Mystery](https://www.acmicpc.net/problem/10212)<br/>(Requires 2 or more submissions) [3분 그래프](https://www.acmicpc.net/problem/17113) | [랜덤 게임?](https://www.acmicpc.net/problem/27865) |
+| Out of focus | (Physics) [총알의 속도](https://www.acmicpc.net/problem/18017)<br/>(Non-analytic geometry) [외심과 내심은 사랑입니다](https://www.acmicpc.net/problem/16480)<br/>(Others) [스타트링크 사무실을 파헤쳐보자](https://www.acmicpc.net/problem/15891) | (Base knowledge provided) [탄성 충돌](https://www.acmicpc.net/problem/16891)<br/>(Inferable) [별 찍기 - 11](https://www.acmicpc.net/problem/2448), [UCPC에서 가장 쉬운 문제 번호는?](https://www.acmicpc.net/problem/25311)<br/>(Explicitly mentioned) [데이터 만들기 1](https://www.acmicpc.net/problem/7140), [문제를 푸는 문제](https://www.acmicpc.net/problem/18831) |
+| Understandability | [요구르트의 유통기한](https://www.acmicpc.net/problem/1381) | [잭 바우어](https://www.acmicpc.net/problem/1196), [Africa](https://www.acmicpc.net/problem/15629) |
+| Others | [$\textbf{multiple}\text{ edges}$](https://www.acmicpc.net/problem/24903) |  |
+
+## <WarningIcon /> Warning
+
+<ExternalLink href="https://solved.ac/search?query=w%3F">Problems with Problem-solving Warnings</ExternalLink>
+
+Problems that meet one or more of the following conditions have a level value of 0 and do not give a rating even if solved. These problems are marked with a <WarningIcon /> warning icon next to the level icon.
+
+- Problems that can be easily solved by searching for the sequence or recurrence relation of the problem on the internet without any knowledge of the problem, and the difficulty of implementing the recurrence relation is significantly different from the difficulty of solving the problem from start to finish without knowing the solution.
+- Problems that are completely identical to other existing problems.
+  - Problems with no difference in the ideas that need to be used to reach the answer during the process from the problem statement to the answer are considered the same problem.
+  - Even if the problems can be solved with the same code, if there are differences in additional information that the programmer must obtain from the problem statement, the two problems are considered different problems.
+
+Different from Not ratable, the level of the problems are displayed, and one can contribute to the problems.
+
+- You can find these problems by searching `w?true` or `w?`.
+- To exclude problems with problem-solving warnings from your search, add `w?false` or `-w?` to the end of your query.

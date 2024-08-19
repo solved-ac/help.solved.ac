@@ -1,0 +1,56 @@
+---
+title: Tag Rating
+index: 30
+---
+
+**Tag Rating** is a rating calculated based on problems with specific tags, similar to [AC Rating](/en/stats/ac-rating). A programmer's **tag tier** is determined based on the tag rating.
+
+- Reference: Guide [**Tags**](/en/problem/tag), Guide [**Tiers and AC Rating**](/en/stats/ac-rating)
+
+## Checking Tag Rating
+
+You can check the tag rating at the bottom of the **Tag Distribution** section on your profile page.
+
+![Tag Rating card on the profile page](/stats/tag-rating-card-en.png)
+
+## Target and Tiers
+
+Tag ratings are calculated only for tags with **500 or more problems** registered on solved.ac.
+
+Tag tiers are divided into 32 levels, just like the tiers of the AC rating.
+
+- Reference: Guide [**Tiers and AC Rating**](/en/stats/ac-rating)
+
+## Formula
+
+The tag rating is determined by a formula similar to the AC rating calculation, but with a slightly different formula. The detailed calculation method is as follows.
+
+$$
+\begin{aligned}
+\left(\text{Tag Rating}\right) &= \left(\text{Sum of the difficulty values of the top }\underline{\color{blue}50}\text{ problems solved in the tag}\right) \underline{\color{blue}\times\,2} \\
+&+  \left\lfloor \underline{\color{blue}200}\times \left(1-\underline{\color{blue}0.99}^{\left(\text{Number of problems solved in the tag}\right)}\right) \right\rceil \\
+\end{aligned}
+$$
+
+$\left\lfloor x \right\rceil$ means rounding $x$ to an integer.
+
+- solved.ac also uses icons to represent the difficulty of problems, just like the programmer's tier.
+    - **Difficulty value** refers to the difficulty of the problem, converted to 1 point for <Tier t={1} />, 2 points for <Tier t={2} />, &hellip; 30 points for <Tier t={30} />. The higher the difficulty of the problem, the higher the rating you can achieve.
+    - Reference: Guide [**Problem Level**](/en/problem/level)
+- You can receive up to 200 bonus ratings based on the number of problems solved.
+    - The number of problems solved excludes problems marked as 'Extra' and <Tier t={0} locked /> problems on Baekjoon Online Judge.
+- Unlike the AC rating, there are no bonus ratings based on CLASS grades or contribution bonus ratings.
+
+## Major Tags
+
+The following eight tags are tags designated by solved.ac as major tags. The ratings of these tags are displayed as a radar chart on the tag distribution card on the profile page.
+
+- Mathematics (math)
+- Implementation (implementation)
+- Greedy Algorithms (greedy)
+- Strings (string)
+- Data Structures (data_structures)
+- Graph Theory (graphs)
+- Dynamic Programming (dp)
+- Geometry (geometry)
+
