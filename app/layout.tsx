@@ -3,6 +3,7 @@ import Navigation from "@/components/navigation/Navigation";
 import { getGuidemap } from "@/utils/post";
 import Breadcrumbs from "./Breadcrumbs";
 import ClientLayout from "./ClientLayout";
+import { Metadata } from "next";
 
 const RootLayout = async ({ children }: { children: React.ReactNode }) => {
   const guidemap = await getGuidemap();
@@ -50,3 +51,23 @@ const RootLayout = async ({ children }: { children: React.ReactNode }) => {
 };
 
 export default RootLayout;
+
+export const metadata: Metadata = {
+  title: {
+    default: "solved.ac Help",
+    template: "%s - solved.ac Help",
+  },
+  icons: [
+    {
+      rel: "icon",
+      url: "/favicon.ico",
+    },
+  ],
+  openGraph: {
+    type: "website",
+    url: "https://help.solved.ac",
+    title: "solved.ac Help",
+    description: "Help documentation for solved.ac",
+  },
+  appleWebApp: true,
+};

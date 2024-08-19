@@ -2,6 +2,7 @@ import ContentHeading1 from "@/components/mdx/ContentHeading1";
 import HeadingWithLanguageSelector from "@/components/mdx/HeadingWithLanguageSelector";
 import MDXRenderer from "@/components/mdx/MDXRenderer";
 import { getAllPostSlugs, getPostBySlug } from "@/utils/post";
+import { Metadata } from "next";
 import { title } from "process";
 
 interface Params {
@@ -62,7 +63,7 @@ export async function generateStaticParams() {
   }));
 }
 
-export async function generateMetadata({ params }: Props) {
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = params;
 
   try {
