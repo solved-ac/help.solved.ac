@@ -1,4 +1,4 @@
-0:["Oph8YkoYCDLyenxS5cW3v",[[["",{"children":[["slug","en/problem/tag","c"],{"children":["__PAGE__?{\"slug\":[\"en\",\"problem\",\"tag\"]}",{}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
+0:["Ub9feEYkQy2Lz6IWLYNK0",[[["",{"children":[["slug","en/problem/tag","c"],{"children":["__PAGE__?{\"slug\":[\"en\",\"problem\",\"tag\"]}",{}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
 1:["$L3",null]
 2:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Tags"}],["$","meta","2",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 4:I{"id":5492,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-3c03fcdecd7443cc.js","53:static/chunks/53-9c922798d71c7ac4.js","333:static/chunks/333-dc0c655bfc078da1.js","185:static/chunks/app/layout-293f496729b55065.js"],"name":"","async":false}
