@@ -1,0 +1,1027 @@
+0:["Oph8YkoYCDLyenxS5cW3v",[[["",{"children":[["slug","en/stats/tag-rating","c"],{"children":["__PAGE__?{\"slug\":[\"en\",\"stats\",\"tag-rating\"]}",{}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
+1:["$L3",null]
+2:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Tag Rating"}],["$","meta","2",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+4:I{"id":5492,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-3c03fcdecd7443cc.js","53:static/chunks/53-9c922798d71c7ac4.js","333:static/chunks/333-dc0c655bfc078da1.js","185:static/chunks/app/layout-293f496729b55065.js"],"name":"","async":false}
+5:I{"id":8175,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-3c03fcdecd7443cc.js","53:static/chunks/53-9c922798d71c7ac4.js","333:static/chunks/333-dc0c655bfc078da1.js","185:static/chunks/app/layout-293f496729b55065.js"],"name":"","async":false}
+6:I{"id":483,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-3c03fcdecd7443cc.js","53:static/chunks/53-9c922798d71c7ac4.js","333:static/chunks/333-dc0c655bfc078da1.js","185:static/chunks/app/layout-293f496729b55065.js"],"name":"","async":false}
+7:I{"id":7767,"chunks":["272:static/chunks/webpack-a8ba63f2417b26c7.js","971:static/chunks/fd9d1056-fe8c62b67ebb5281.js","596:static/chunks/596-9910d2cba943a1ec.js"],"name":"default","async":false}
+8:I{"id":7920,"chunks":["272:static/chunks/webpack-a8ba63f2417b26c7.js","971:static/chunks/fd9d1056-fe8c62b67ebb5281.js","596:static/chunks/596-9910d2cba943a1ec.js"],"name":"default","async":false}
+3:["$","html",null,{"lang":"ko","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=JetBrains+Mono:ital,wght@0,400;0,700;1,400;1,700&family=Oxanium:wght@400;700&display=swap","rel":"stylesheet"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,700&display=swap"}],["$","link",null,{"rel":"stylesheet","href":"https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-dynamic-subset.css"}],["$","link",null,{"rel":"stylesheet","href":"https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.css","crossOrigin":"anonymous"}]]}],["$","body",null,{"children":["$","$L4",null,{"breadcrumbsComponent":["$","$L5",null,{"guidemap":{"key":"","title":null,"index":0,"guides":[{"key":"/en","title":null,"index":0,"guides":[{"key":"/en/getting-started","title":"Getting Started","index":0,"guides":[{"key":"/en/getting-started/link-account","title":"Creating an Account","index":1,"type":"guide"},{"key":"/en/getting-started/boj","title":"Registering to BOJ","index":2,"type":"guide"}],"type":"category"},{"key":"/en/stats","title":"Stats","index":1,"guides":[{"key":"/en/stats/profile","title":"Profile","index":0,"type":"guide"},{"key":"/en/stats/ac-rating","title":"Tiers and AC Rating","index":10,"type":"guide"},{"key":"/en/stats/class","title":"Class","index":20,"type":"guide"},{"key":"/en/stats/tag-rating","title":"Tag Rating","index":30,"type":"guide"}],"type":"category"},{"key":"/en/problem","title":"Problems","index":2,"guides":[{"key":"/en/problem/level","title":"Problem Level","index":10,"type":"guide"},{"key":"/en/problem/level-unusual","title":"Special Cases of Problem Levels","index":20,"type":"guide"},{"key":"/en/problem/tag","title":"Tags","index":30,"type":"guide"}],"type":"category"},{"key":"/en/arena","title":"Arena (legacy)","index":99,"guides":[{"key":"/en/arena/getting-started","title":"For Participants","index":0,"guides":[{"key":"/en/arena/getting-started/link-account","title":"Register","index":0,"type":"guide"}],"type":"category"}],"type":"category"}],"type":"category"},{"key":"/ko","title":null,"index":0,"guides":[{"key":"/ko/getting-started","title":"시작하기","index":0,"guides":[{"key":"/ko/getting-started/link-account","title":"계정 만들기","index":1,"type":"guide"}],"type":"category"},{"key":"/ko/stats","title":"스탯","index":1,"guides":[{"key":"/ko/stats/profile","title":"프로필 조회하기","index":0,"type":"guide"},{"key":"/ko/stats/ac-rating","title":"티어와 AC 레이팅","index":10,"type":"guide"},{"key":"/ko/stats/class","title":"CLASS","index":20,"type":"guide"},{"key":"/ko/stats/tag-rating","title":"태그 레이팅","index":30,"type":"guide"}],"type":"category"},{"key":"/ko/problem","title":"문제","index":2,"guides":[{"key":"/ko/problem/level","title":"문제 난이도","index":10,"type":"guide"},{"key":"/ko/problem/level-unusual","title":"특수한 경우의 문제 난이도","index":20,"type":"guide"},{"key":"/ko/problem/tag","title":"태그","index":30,"type":"guide"}],"type":"category"},{"key":"/ko/updates","title":"업데이트","index":999,"guides":[{"key":"/ko/updates/240808","title":"굿즈 샵 재개 및 기존 주문 배송 시기 안내 (2024년 8월 8일)","index":-20240808,"type":"guide"},{"key":"/ko/updates/240723","title":"문제 오류 제보 기능 (2024년 7월 23일)","index":-20240723,"type":"guide"},{"key":"/ko/updates/240721","title":"굿즈 샵 재개 예정 및 기존 주문 배송 지연 안내 (2024년 7월 21일)","index":-20240721,"type":"guide"},{"key":"/ko/updates/240628","title":"서포터 프로그램의 프로 플랜으로의 전환 및 환불 관련 안내 (2024년 6월 28일)","index":-20240628,"type":"guide"},{"key":"/ko/updates/240627","title":"솔브드 서포터 신규 결제 일시중지 및 굿즈 샵 주문 관련 안내 (2024년 6월 27일)","index":-20240627,"type":"guide"},{"key":"/ko/updates/240626","title":"랜덤 마라톤 개선 (2024년 6월 26일)","index":-20240626,"type":"guide"},{"key":"/ko/updates/240618","title":"랜덤 마라톤 개선 (2024년 6월 18일)","index":-20240618,"type":"guide"},{"key":"/ko/updates/240609","title":"랜덤 마라톤 개선 (2024년 6월 9일)","index":-20240609,"type":"guide"},{"key":"/ko/updates/240530","title":"시즌 4 업데이트 (2024년 6월 5일)","index":-20240530,"type":"guide"}],"type":"category"}],"type":"category"}],"type":"category"}}],"navigationComponent":["$","$L6",null,{"guidemap":{"key":"","title":null,"index":0,"guides":[{"key":"/en","title":null,"index":0,"guides":[{"key":"/en/getting-started","title":"Getting Started","index":0,"guides":[{"key":"/en/getting-started/link-account","title":"Creating an Account","index":1,"type":"guide"},{"key":"/en/getting-started/boj","title":"Registering to BOJ","index":2,"type":"guide"}],"type":"category"},{"key":"/en/stats","title":"Stats","index":1,"guides":[{"key":"/en/stats/profile","title":"Profile","index":0,"type":"guide"},{"key":"/en/stats/ac-rating","title":"Tiers and AC Rating","index":10,"type":"guide"},{"key":"/en/stats/class","title":"Class","index":20,"type":"guide"},{"key":"/en/stats/tag-rating","title":"Tag Rating","index":30,"type":"guide"}],"type":"category"},{"key":"/en/problem","title":"Problems","index":2,"guides":[{"key":"/en/problem/level","title":"Problem Level","index":10,"type":"guide"},{"key":"/en/problem/level-unusual","title":"Special Cases of Problem Levels","index":20,"type":"guide"},{"key":"/en/problem/tag","title":"Tags","index":30,"type":"guide"}],"type":"category"},{"key":"/en/arena","title":"Arena (legacy)","index":99,"guides":[{"key":"/en/arena/getting-started","title":"For Participants","index":0,"guides":[{"key":"/en/arena/getting-started/link-account","title":"Register","index":0,"type":"guide"}],"type":"category"}],"type":"category"}],"type":"category"},{"key":"/ko","title":null,"index":0,"guides":[{"key":"/ko/getting-started","title":"시작하기","index":0,"guides":[{"key":"/ko/getting-started/link-account","title":"계정 만들기","index":1,"type":"guide"}],"type":"category"},{"key":"/ko/stats","title":"스탯","index":1,"guides":[{"key":"/ko/stats/profile","title":"프로필 조회하기","index":0,"type":"guide"},{"key":"/ko/stats/ac-rating","title":"티어와 AC 레이팅","index":10,"type":"guide"},{"key":"/ko/stats/class","title":"CLASS","index":20,"type":"guide"},{"key":"/ko/stats/tag-rating","title":"태그 레이팅","index":30,"type":"guide"}],"type":"category"},{"key":"/ko/problem","title":"문제","index":2,"guides":[{"key":"/ko/problem/level","title":"문제 난이도","index":10,"type":"guide"},{"key":"/ko/problem/level-unusual","title":"특수한 경우의 문제 난이도","index":20,"type":"guide"},{"key":"/ko/problem/tag","title":"태그","index":30,"type":"guide"}],"type":"category"},{"key":"/ko/updates","title":"업데이트","index":999,"guides":[{"key":"/ko/updates/240808","title":"굿즈 샵 재개 및 기존 주문 배송 시기 안내 (2024년 8월 8일)","index":-20240808,"type":"guide"},{"key":"/ko/updates/240723","title":"문제 오류 제보 기능 (2024년 7월 23일)","index":-20240723,"type":"guide"},{"key":"/ko/updates/240721","title":"굿즈 샵 재개 예정 및 기존 주문 배송 지연 안내 (2024년 7월 21일)","index":-20240721,"type":"guide"},{"key":"/ko/updates/240628","title":"서포터 프로그램의 프로 플랜으로의 전환 및 환불 관련 안내 (2024년 6월 28일)","index":-20240628,"type":"guide"},{"key":"/ko/updates/240627","title":"솔브드 서포터 신규 결제 일시중지 및 굿즈 샵 주문 관련 안내 (2024년 6월 27일)","index":-20240627,"type":"guide"},{"key":"/ko/updates/240626","title":"랜덤 마라톤 개선 (2024년 6월 26일)","index":-20240626,"type":"guide"},{"key":"/ko/updates/240618","title":"랜덤 마라톤 개선 (2024년 6월 18일)","index":-20240618,"type":"guide"},{"key":"/ko/updates/240609","title":"랜덤 마라톤 개선 (2024년 6월 9일)","index":-20240609,"type":"guide"},{"key":"/ko/updates/240530","title":"시즌 4 업데이트 (2024년 6월 5일)","index":-20240530,"type":"guide"}],"type":"category"}],"type":"category"}],"type":"category"}}],"children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children",["slug","en/stats/tag-rating","c"],"children"],"error":"$undefined","errorStyles":"$undefined","loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L9",null],"segment":"__PAGE__?{\"slug\":[\"en\",\"stats\",\"tag-rating\"]}"},"styles":[]}],"segment":["slug","en/stats/tag-rating","c"]},"styles":[]}]}]}]]}]
+a:I{"id":5657,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-3c03fcdecd7443cc.js","53:static/chunks/53-9c922798d71c7ac4.js","877:static/chunks/app/[...slug]/page-ce15f11ffbc8864f.js"],"name":"","async":false}
+b:I{"id":8231,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-3c03fcdecd7443cc.js","53:static/chunks/53-9c922798d71c7ac4.js","877:static/chunks/app/[...slug]/page-ce15f11ffbc8864f.js"],"name":"","async":false}
+c:Tc7f4,/*@jsxRuntime automatic @jsxImportSource react*/
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = Object.assign({
+    p: "p",
+    strong: "strong",
+    a: "a",
+    ul: "ul",
+    li: "li",
+    h2: "h2",
+    img: "img",
+    div: "div",
+    span: "span",
+    math: "math",
+    semantics: "semantics",
+    mtable: "mtable",
+    mtr: "mtr",
+    mtd: "mtd",
+    mstyle: "mstyle",
+    mrow: "mrow",
+    mo: "mo",
+    mtext: "mtext",
+    munder: "munder",
+    mn: "mn",
+    msup: "msup",
+    annotation: "annotation",
+    mi: "mi"
+  }, _provideComponents(), props.components), {Tier} = _components;
+  if (!Tier) _missingMdxReference("Tier", true);
+  return _jsxs(_Fragment, {
+    children: [_jsxs(_components.p, {
+      children: [_jsx(_components.strong, {
+        children: "Tag Rating"
+      }), " is a rating calculated based on problems with specific tags, similar to ", _jsx(_components.a, {
+        href: "/en/stats/ac-rating",
+        children: "AC Rating"
+      }), ". A programmer's ", _jsx(_components.strong, {
+        children: "tag tier"
+      }), " is determined based on the tag rating."]
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsxs(_components.li, {
+        children: ["Reference: Guide ", _jsx(_components.a, {
+          href: "/en/problem/tag",
+          children: _jsx(_components.strong, {
+            children: "Tags"
+          })
+        }), ", Guide ", _jsx(_components.a, {
+          href: "/en/stats/ac-rating",
+          children: _jsx(_components.strong, {
+            children: "Tiers and AC Rating"
+          })
+        })]
+      }), "\n"]
+    }), "\n", _jsx(_components.h2, {
+      children: "Checking Tag Rating"
+    }), "\n", _jsxs(_components.p, {
+      children: ["You can check the tag rating at the bottom of the ", _jsx(_components.strong, {
+        children: "Tag Distribution"
+      }), " section on your profile page."]
+    }), "\n", _jsx(_components.p, {
+      children: _jsx(_components.img, {
+        src: "/stats/tag-rating-card-en.png",
+        alt: "Tag Rating card on the profile page"
+      })
+    }), "\n", _jsx(_components.h2, {
+      children: "Target and Tiers"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Tag ratings are calculated only for tags with ", _jsx(_components.strong, {
+        children: "500 or more problems"
+      }), " registered on solved.ac."]
+    }), "\n", _jsx(_components.p, {
+      children: "Tag tiers are divided into 32 levels, just like the tiers of the AC rating."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsxs(_components.li, {
+        children: ["Reference: Guide ", _jsx(_components.a, {
+          href: "/en/stats/ac-rating",
+          children: _jsx(_components.strong, {
+            children: "Tiers and AC Rating"
+          })
+        })]
+      }), "\n"]
+    }), "\n", _jsx(_components.h2, {
+      children: "Formula"
+    }), "\n", _jsx(_components.p, {
+      children: "The tag rating is determined by a formula similar to the AC rating calculation, but with a slightly different formula. The detailed calculation method is as follows."
+    }), "\n", _jsx(_components.div, {
+      className: "math math-display",
+      children: _jsx(_components.span, {
+        className: "katex-display",
+        children: _jsxs(_components.span, {
+          className: "katex",
+          children: [_jsx(_components.span, {
+            className: "katex-mathml",
+            children: _jsx(_components.math, {
+              xmlns: "http://www.w3.org/1998/Math/MathML",
+              display: "block",
+              children: _jsxs(_components.semantics, {
+                children: [_jsxs(_components.mtable, {
+                  rowspacing: "0.25em",
+                  columnalign: "right left",
+                  columnspacing: "0em",
+                  children: [_jsxs(_components.mtr, {
+                    children: [_jsx(_components.mtd, {
+                      children: _jsx(_components.mstyle, {
+                        scriptlevel: "0",
+                        displaystyle: "true",
+                        children: _jsxs(_components.mrow, {
+                          children: [_jsx(_components.mo, {
+                            fence: "true",
+                            children: "("
+                          }), _jsx(_components.mtext, {
+                            children: "Tag Rating"
+                          }), _jsx(_components.mo, {
+                            fence: "true",
+                            children: ")"
+                          })]
+                        })
+                      })
+                    }), _jsx(_components.mtd, {
+                      children: _jsx(_components.mstyle, {
+                        scriptlevel: "0",
+                        displaystyle: "true",
+                        children: _jsxs(_components.mrow, {
+                          children: [_jsx(_components.mrow, {}), _jsx(_components.mo, {
+                            children: "="
+                          }), _jsxs(_components.mrow, {
+                            children: [_jsx(_components.mo, {
+                              fence: "true",
+                              children: "("
+                            }), _jsx(_components.mtext, {
+                              children: "Sum of the difficulty values of the top "
+                            }), _jsxs(_components.munder, {
+                              accentunder: "true",
+                              children: [_jsx(_components.mstyle, {
+                                mathcolor: "blue",
+                                children: _jsx(_components.mn, {
+                                  children: "50"
+                                })
+                              }), _jsx(_components.mo, {
+                                stretchy: "true",
+                                children: "‾"
+                              })]
+                            }), _jsx(_components.mtext, {
+                              children: " problems solved in the tag"
+                            }), _jsx(_components.mo, {
+                              fence: "true",
+                              children: ")"
+                            })]
+                          }), _jsxs(_components.munder, {
+                            accentunder: "true",
+                            children: [_jsxs(_components.mstyle, {
+                              mathcolor: "blue",
+                              children: [_jsx(_components.mo, {
+                                children: "×"
+                              }), _jsx(_components.mtext, {
+                                children: " "
+                              }), _jsx(_components.mn, {
+                                children: "2"
+                              })]
+                            }), _jsx(_components.mo, {
+                              stretchy: "true",
+                              children: "‾"
+                            })]
+                          })]
+                        })
+                      })
+                    })]
+                  }), _jsxs(_components.mtr, {
+                    children: [_jsx(_components.mtd, {
+                      children: _jsx(_components.mstyle, {
+                        scriptlevel: "0",
+                        displaystyle: "true",
+                        children: _jsx(_components.mrow, {})
+                      })
+                    }), _jsx(_components.mtd, {
+                      children: _jsx(_components.mstyle, {
+                        scriptlevel: "0",
+                        displaystyle: "true",
+                        children: _jsxs(_components.mrow, {
+                          children: [_jsx(_components.mrow, {}), _jsx(_components.mo, {
+                            children: "+"
+                          }), _jsxs(_components.mrow, {
+                            children: [_jsx(_components.mo, {
+                              fence: "true",
+                              children: "⌊"
+                            }), _jsxs(_components.munder, {
+                              accentunder: "true",
+                              children: [_jsx(_components.mstyle, {
+                                mathcolor: "blue",
+                                children: _jsx(_components.mn, {
+                                  children: "200"
+                                })
+                              }), _jsx(_components.mo, {
+                                stretchy: "true",
+                                children: "‾"
+                              })]
+                            }), _jsx(_components.mo, {
+                              children: "×"
+                            }), _jsxs(_components.mrow, {
+                              children: [_jsx(_components.mo, {
+                                fence: "true",
+                                children: "("
+                              }), _jsx(_components.mn, {
+                                children: "1"
+                              }), _jsx(_components.mo, {
+                                children: "−"
+                              }), _jsxs(_components.msup, {
+                                children: [_jsxs(_components.munder, {
+                                  accentunder: "true",
+                                  children: [_jsx(_components.mstyle, {
+                                    mathcolor: "blue",
+                                    children: _jsx(_components.mn, {
+                                      children: "0.99"
+                                    })
+                                  }), _jsx(_components.mo, {
+                                    stretchy: "true",
+                                    children: "‾"
+                                  })]
+                                }), _jsxs(_components.mrow, {
+                                  children: [_jsx(_components.mo, {
+                                    fence: "true",
+                                    children: "("
+                                  }), _jsx(_components.mtext, {
+                                    children: "Number of problems solved in the tag"
+                                  }), _jsx(_components.mo, {
+                                    fence: "true",
+                                    children: ")"
+                                  })]
+                                })]
+                              }), _jsx(_components.mo, {
+                                fence: "true",
+                                children: ")"
+                              })]
+                            }), _jsx(_components.mo, {
+                              fence: "true",
+                              children: "⌉"
+                            })]
+                          })]
+                        })
+                      })
+                    })]
+                  })]
+                }), _jsx(_components.annotation, {
+                  encoding: "application/x-tex",
+                  children: "\\begin{aligned}\n\\left(\\text{Tag Rating}\\right) &= \\left(\\text{Sum of the difficulty values of the top }\\underline{\\color{blue}50}\\text{ problems solved in the tag}\\right) \\underline{\\color{blue}\\times\\,2} \\\\\n&+  \\left\\lfloor \\underline{\\color{blue}200}\\times \\left(1-\\underline{\\color{blue}0.99}^{\\left(\\text{Number of problems solved in the tag}\\right)}\\right) \\right\\rceil \\\\\n\\end{aligned}"
+                })]
+              })
+            })
+          }), _jsx(_components.span, {
+            className: "katex-html",
+            "aria-hidden": "true",
+            children: _jsxs(_components.span, {
+              className: "base",
+              children: [_jsx(_components.span, {
+                className: "strut",
+                style: {
+                  height: "3.6em",
+                  verticalAlign: "-1.55em"
+                }
+              }), _jsx(_components.span, {
+                className: "mord",
+                children: _jsxs(_components.span, {
+                  className: "mtable",
+                  children: [_jsx(_components.span, {
+                    className: "col-align-r",
+                    children: _jsxs(_components.span, {
+                      className: "vlist-t vlist-t2",
+                      children: [_jsxs(_components.span, {
+                        className: "vlist-r",
+                        children: [_jsxs(_components.span, {
+                          className: "vlist",
+                          style: {
+                            height: "2.05em"
+                          },
+                          children: [_jsxs(_components.span, {
+                            style: {
+                              top: "-4.36em"
+                            },
+                            children: [_jsx(_components.span, {
+                              className: "pstrut",
+                              style: {
+                                height: "3.15em"
+                              }
+                            }), _jsx(_components.span, {
+                              className: "mord",
+                              children: _jsxs(_components.span, {
+                                className: "minner",
+                                children: [_jsx(_components.span, {
+                                  className: "mopen delimcenter",
+                                  style: {
+                                    top: "0em"
+                                  },
+                                  children: "("
+                                }), _jsx(_components.span, {
+                                  className: "mord text",
+                                  children: _jsx(_components.span, {
+                                    className: "mord",
+                                    children: "Tag Rating"
+                                  })
+                                }), _jsx(_components.span, {
+                                  className: "mclose delimcenter",
+                                  style: {
+                                    top: "0em"
+                                  },
+                                  children: ")"
+                                })]
+                              })
+                            })]
+                          }), _jsxs(_components.span, {
+                            style: {
+                              top: "-2.55em"
+                            },
+                            children: [_jsx(_components.span, {
+                              className: "pstrut",
+                              style: {
+                                height: "3.15em"
+                              }
+                            }), _jsx(_components.span, {
+                              className: "mord"
+                            })]
+                          })]
+                        }), _jsx(_components.span, {
+                          className: "vlist-s",
+                          children: "​"
+                        })]
+                      }), _jsx(_components.span, {
+                        className: "vlist-r",
+                        children: _jsx(_components.span, {
+                          className: "vlist",
+                          style: {
+                            height: "1.55em"
+                          },
+                          children: _jsx(_components.span, {})
+                        })
+                      })]
+                    })
+                  }), _jsx(_components.span, {
+                    className: "col-align-l",
+                    children: _jsxs(_components.span, {
+                      className: "vlist-t vlist-t2",
+                      children: [_jsxs(_components.span, {
+                        className: "vlist-r",
+                        children: [_jsxs(_components.span, {
+                          className: "vlist",
+                          style: {
+                            height: "2.05em"
+                          },
+                          children: [_jsxs(_components.span, {
+                            style: {
+                              top: "-4.36em"
+                            },
+                            children: [_jsx(_components.span, {
+                              className: "pstrut",
+                              style: {
+                                height: "3.15em"
+                              }
+                            }), _jsxs(_components.span, {
+                              className: "mord",
+                              children: [_jsx(_components.span, {
+                                className: "mord"
+                              }), _jsx(_components.span, {
+                                className: "mspace",
+                                style: {
+                                  marginRight: "0.2778em"
+                                }
+                              }), _jsx(_components.span, {
+                                className: "mrel",
+                                children: "="
+                              }), _jsx(_components.span, {
+                                className: "mspace",
+                                style: {
+                                  marginRight: "0.2778em"
+                                }
+                              }), _jsxs(_components.span, {
+                                className: "minner",
+                                children: [_jsx(_components.span, {
+                                  className: "mopen delimcenter",
+                                  style: {
+                                    top: "0em"
+                                  },
+                                  children: "("
+                                }), _jsx(_components.span, {
+                                  className: "mord text",
+                                  children: _jsx(_components.span, {
+                                    className: "mord",
+                                    children: "Sum of the difficulty values of the top "
+                                  })
+                                }), _jsx(_components.span, {
+                                  className: "mord underline",
+                                  children: _jsxs(_components.span, {
+                                    className: "vlist-t vlist-t2",
+                                    children: [_jsxs(_components.span, {
+                                      className: "vlist-r",
+                                      children: [_jsxs(_components.span, {
+                                        className: "vlist",
+                                        style: {
+                                          height: "0.6444em"
+                                        },
+                                        children: [_jsxs(_components.span, {
+                                          style: {
+                                            top: "-2.84em"
+                                          },
+                                          children: [_jsx(_components.span, {
+                                            className: "pstrut",
+                                            style: {
+                                              height: "3em"
+                                            }
+                                          }), _jsx(_components.span, {
+                                            className: "underline-line",
+                                            style: {
+                                              borderBottomWidth: "0.04em"
+                                            }
+                                          })]
+                                        }), _jsxs(_components.span, {
+                                          style: {
+                                            top: "-3em"
+                                          },
+                                          children: [_jsx(_components.span, {
+                                            className: "pstrut",
+                                            style: {
+                                              height: "3em"
+                                            }
+                                          }), _jsx(_components.span, {
+                                            className: "mord",
+                                            children: _jsx(_components.span, {
+                                              className: "mord",
+                                              style: {
+                                                color: "blue"
+                                              },
+                                              children: "50"
+                                            })
+                                          })]
+                                        })]
+                                      }), _jsx(_components.span, {
+                                        className: "vlist-s",
+                                        children: "​"
+                                      })]
+                                    }), _jsx(_components.span, {
+                                      className: "vlist-r",
+                                      children: _jsx(_components.span, {
+                                        className: "vlist",
+                                        style: {
+                                          height: "0.2em"
+                                        },
+                                        children: _jsx(_components.span, {})
+                                      })
+                                    })]
+                                  })
+                                }), _jsx(_components.span, {
+                                  className: "mord text",
+                                  children: _jsx(_components.span, {
+                                    className: "mord",
+                                    children: " problems solved in the tag"
+                                  })
+                                }), _jsx(_components.span, {
+                                  className: "mclose delimcenter",
+                                  style: {
+                                    top: "0em"
+                                  },
+                                  children: ")"
+                                })]
+                              }), _jsx(_components.span, {
+                                className: "mspace",
+                                style: {
+                                  marginRight: "0.1667em"
+                                }
+                              }), _jsx(_components.span, {
+                                className: "mord underline",
+                                children: _jsxs(_components.span, {
+                                  className: "vlist-t vlist-t2",
+                                  children: [_jsxs(_components.span, {
+                                    className: "vlist-r",
+                                    children: [_jsxs(_components.span, {
+                                      className: "vlist",
+                                      style: {
+                                        height: "0.6444em"
+                                      },
+                                      children: [_jsxs(_components.span, {
+                                        style: {
+                                          top: "-2.7567em"
+                                        },
+                                        children: [_jsx(_components.span, {
+                                          className: "pstrut",
+                                          style: {
+                                            height: "3em"
+                                          }
+                                        }), _jsx(_components.span, {
+                                          className: "underline-line",
+                                          style: {
+                                            borderBottomWidth: "0.04em"
+                                          }
+                                        })]
+                                      }), _jsxs(_components.span, {
+                                        style: {
+                                          top: "-3em"
+                                        },
+                                        children: [_jsx(_components.span, {
+                                          className: "pstrut",
+                                          style: {
+                                            height: "3em"
+                                          }
+                                        }), _jsxs(_components.span, {
+                                          className: "mord",
+                                          children: [_jsx(_components.span, {
+                                            className: "mord",
+                                            style: {
+                                              color: "blue"
+                                            },
+                                            children: "×"
+                                          }), _jsx(_components.span, {
+                                            className: "mspace",
+                                            style: {
+                                              color: "blue",
+                                              marginRight: "0.1667em"
+                                            }
+                                          }), _jsx(_components.span, {
+                                            className: "mord",
+                                            style: {
+                                              color: "blue"
+                                            },
+                                            children: "2"
+                                          })]
+                                        })]
+                                      })]
+                                    }), _jsx(_components.span, {
+                                      className: "vlist-s",
+                                      children: "​"
+                                    })]
+                                  }), _jsx(_components.span, {
+                                    className: "vlist-r",
+                                    children: _jsx(_components.span, {
+                                      className: "vlist",
+                                      style: {
+                                        height: "0.2833em"
+                                      },
+                                      children: _jsx(_components.span, {})
+                                    })
+                                  })]
+                                })
+                              })]
+                            })]
+                          }), _jsxs(_components.span, {
+                            style: {
+                              top: "-2.55em"
+                            },
+                            children: [_jsx(_components.span, {
+                              className: "pstrut",
+                              style: {
+                                height: "3.15em"
+                              }
+                            }), _jsxs(_components.span, {
+                              className: "mord",
+                              children: [_jsx(_components.span, {
+                                className: "mord"
+                              }), _jsx(_components.span, {
+                                className: "mspace",
+                                style: {
+                                  marginRight: "0.2222em"
+                                }
+                              }), _jsx(_components.span, {
+                                className: "mbin",
+                                children: "+"
+                              }), _jsx(_components.span, {
+                                className: "mspace",
+                                style: {
+                                  marginRight: "0.2222em"
+                                }
+                              }), _jsxs(_components.span, {
+                                className: "minner",
+                                children: [_jsx(_components.span, {
+                                  className: "mopen delimcenter",
+                                  style: {
+                                    top: "0em"
+                                  },
+                                  children: _jsx(_components.span, {
+                                    className: "delimsizing size2",
+                                    children: "⌊"
+                                  })
+                                }), _jsx(_components.span, {
+                                  className: "mord underline",
+                                  children: _jsxs(_components.span, {
+                                    className: "vlist-t vlist-t2",
+                                    children: [_jsxs(_components.span, {
+                                      className: "vlist-r",
+                                      children: [_jsxs(_components.span, {
+                                        className: "vlist",
+                                        style: {
+                                          height: "0.6444em"
+                                        },
+                                        children: [_jsxs(_components.span, {
+                                          style: {
+                                            top: "-2.84em"
+                                          },
+                                          children: [_jsx(_components.span, {
+                                            className: "pstrut",
+                                            style: {
+                                              height: "3em"
+                                            }
+                                          }), _jsx(_components.span, {
+                                            className: "underline-line",
+                                            style: {
+                                              borderBottomWidth: "0.04em"
+                                            }
+                                          })]
+                                        }), _jsxs(_components.span, {
+                                          style: {
+                                            top: "-3em"
+                                          },
+                                          children: [_jsx(_components.span, {
+                                            className: "pstrut",
+                                            style: {
+                                              height: "3em"
+                                            }
+                                          }), _jsx(_components.span, {
+                                            className: "mord",
+                                            children: _jsx(_components.span, {
+                                              className: "mord",
+                                              style: {
+                                                color: "blue"
+                                              },
+                                              children: "200"
+                                            })
+                                          })]
+                                        })]
+                                      }), _jsx(_components.span, {
+                                        className: "vlist-s",
+                                        children: "​"
+                                      })]
+                                    }), _jsx(_components.span, {
+                                      className: "vlist-r",
+                                      children: _jsx(_components.span, {
+                                        className: "vlist",
+                                        style: {
+                                          height: "0.2em"
+                                        },
+                                        children: _jsx(_components.span, {})
+                                      })
+                                    })]
+                                  })
+                                }), _jsx(_components.span, {
+                                  className: "mspace",
+                                  style: {
+                                    marginRight: "0.2222em"
+                                  }
+                                }), _jsx(_components.span, {
+                                  className: "mbin",
+                                  children: "×"
+                                }), _jsx(_components.span, {
+                                  className: "mspace",
+                                  style: {
+                                    marginRight: "0.2222em"
+                                  }
+                                }), _jsxs(_components.span, {
+                                  className: "minner",
+                                  children: [_jsx(_components.span, {
+                                    className: "mopen delimcenter",
+                                    style: {
+                                      top: "0em"
+                                    },
+                                    children: _jsx(_components.span, {
+                                      className: "delimsizing size2",
+                                      children: "("
+                                    })
+                                  }), _jsx(_components.span, {
+                                    className: "mord",
+                                    children: "1"
+                                  }), _jsx(_components.span, {
+                                    className: "mspace",
+                                    style: {
+                                      marginRight: "0.2222em"
+                                    }
+                                  }), _jsx(_components.span, {
+                                    className: "mbin",
+                                    children: "−"
+                                  }), _jsx(_components.span, {
+                                    className: "mspace",
+                                    style: {
+                                      marginRight: "0.2222em"
+                                    }
+                                  }), _jsxs(_components.span, {
+                                    className: "mord",
+                                    children: [_jsx(_components.span, {
+                                      className: "mord underline",
+                                      children: _jsxs(_components.span, {
+                                        className: "vlist-t vlist-t2",
+                                        children: [_jsxs(_components.span, {
+                                          className: "vlist-r",
+                                          children: [_jsxs(_components.span, {
+                                            className: "vlist",
+                                            style: {
+                                              height: "0.6444em"
+                                            },
+                                            children: [_jsxs(_components.span, {
+                                              style: {
+                                                top: "-2.84em"
+                                              },
+                                              children: [_jsx(_components.span, {
+                                                className: "pstrut",
+                                                style: {
+                                                  height: "3em"
+                                                }
+                                              }), _jsx(_components.span, {
+                                                className: "underline-line",
+                                                style: {
+                                                  borderBottomWidth: "0.04em"
+                                                }
+                                              })]
+                                            }), _jsxs(_components.span, {
+                                              style: {
+                                                top: "-3em"
+                                              },
+                                              children: [_jsx(_components.span, {
+                                                className: "pstrut",
+                                                style: {
+                                                  height: "3em"
+                                                }
+                                              }), _jsx(_components.span, {
+                                                className: "mord",
+                                                children: _jsx(_components.span, {
+                                                  className: "mord",
+                                                  style: {
+                                                    color: "blue"
+                                                  },
+                                                  children: "0.99"
+                                                })
+                                              })]
+                                            })]
+                                          }), _jsx(_components.span, {
+                                            className: "vlist-s",
+                                            children: "​"
+                                          })]
+                                        }), _jsx(_components.span, {
+                                          className: "vlist-r",
+                                          children: _jsx(_components.span, {
+                                            className: "vlist",
+                                            style: {
+                                              height: "0.2em"
+                                            },
+                                            children: _jsx(_components.span, {})
+                                          })
+                                        })]
+                                      })
+                                    }), _jsx(_components.span, {
+                                      className: "msupsub",
+                                      children: _jsx(_components.span, {
+                                        className: "vlist-t",
+                                        children: _jsx(_components.span, {
+                                          className: "vlist-r",
+                                          children: _jsx(_components.span, {
+                                            className: "vlist",
+                                            style: {
+                                              height: "0.938em"
+                                            },
+                                            children: _jsxs(_components.span, {
+                                              style: {
+                                                top: "-3.113em",
+                                                marginRight: "0.05em"
+                                              },
+                                              children: [_jsx(_components.span, {
+                                                className: "pstrut",
+                                                style: {
+                                                  height: "2.7em"
+                                                }
+                                              }), _jsx(_components.span, {
+                                                className: "sizing reset-size6 size3 mtight",
+                                                children: _jsx(_components.span, {
+                                                  className: "mord mtight",
+                                                  children: _jsxs(_components.span, {
+                                                    className: "minner mtight",
+                                                    children: [_jsx(_components.span, {
+                                                      className: "mopen mtight delimcenter",
+                                                      style: {
+                                                        top: "0em"
+                                                      },
+                                                      children: _jsx(_components.span, {
+                                                        className: "mtight",
+                                                        children: "("
+                                                      })
+                                                    }), _jsx(_components.span, {
+                                                      className: "mord text mtight",
+                                                      children: _jsx(_components.span, {
+                                                        className: "mord mtight",
+                                                        children: "Number of problems solved in the tag"
+                                                      })
+                                                    }), _jsx(_components.span, {
+                                                      className: "mclose mtight delimcenter",
+                                                      style: {
+                                                        top: "0em"
+                                                      },
+                                                      children: _jsx(_components.span, {
+                                                        className: "mtight",
+                                                        children: ")"
+                                                      })
+                                                    })]
+                                                  })
+                                                })
+                                              })]
+                                            })
+                                          })
+                                        })
+                                      })
+                                    })]
+                                  }), _jsx(_components.span, {
+                                    className: "mclose delimcenter",
+                                    style: {
+                                      top: "0em"
+                                    },
+                                    children: _jsx(_components.span, {
+                                      className: "delimsizing size2",
+                                      children: ")"
+                                    })
+                                  })]
+                                }), _jsx(_components.span, {
+                                  className: "mclose delimcenter",
+                                  style: {
+                                    top: "0em"
+                                  },
+                                  children: _jsx(_components.span, {
+                                    className: "delimsizing size2",
+                                    children: "⌉"
+                                  })
+                                })]
+                              })]
+                            })]
+                          })]
+                        }), _jsx(_components.span, {
+                          className: "vlist-s",
+                          children: "​"
+                        })]
+                      }), _jsx(_components.span, {
+                        className: "vlist-r",
+                        children: _jsx(_components.span, {
+                          className: "vlist",
+                          style: {
+                            height: "1.55em"
+                          },
+                          children: _jsx(_components.span, {})
+                        })
+                      })]
+                    })
+                  })]
+                })
+              })]
+            })
+          })]
+        })
+      })
+    }), "\n", _jsxs(_components.p, {
+      children: [_jsx(_components.span, {
+        className: "math math-inline",
+        children: _jsxs(_components.span, {
+          className: "katex",
+          children: [_jsx(_components.span, {
+            className: "katex-mathml",
+            children: _jsx(_components.math, {
+              xmlns: "http://www.w3.org/1998/Math/MathML",
+              children: _jsxs(_components.semantics, {
+                children: [_jsxs(_components.mrow, {
+                  children: [_jsx(_components.mo, {
+                    fence: "true",
+                    children: "⌊"
+                  }), _jsx(_components.mi, {
+                    children: "x"
+                  }), _jsx(_components.mo, {
+                    fence: "true",
+                    children: "⌉"
+                  })]
+                }), _jsx(_components.annotation, {
+                  encoding: "application/x-tex",
+                  children: "\\left\\lfloor x \\right\\rceil"
+                })]
+              })
+            })
+          }), _jsx(_components.span, {
+            className: "katex-html",
+            "aria-hidden": "true",
+            children: _jsxs(_components.span, {
+              className: "base",
+              children: [_jsx(_components.span, {
+                className: "strut",
+                style: {
+                  height: "1em",
+                  verticalAlign: "-0.25em"
+                }
+              }), _jsxs(_components.span, {
+                className: "minner",
+                children: [_jsx(_components.span, {
+                  className: "mopen delimcenter",
+                  style: {
+                    top: "0em"
+                  },
+                  children: "⌊"
+                }), _jsx(_components.span, {
+                  className: "mord mathnormal",
+                  children: "x"
+                }), _jsx(_components.span, {
+                  className: "mclose delimcenter",
+                  style: {
+                    top: "0em"
+                  },
+                  children: "⌉"
+                })]
+              })]
+            })
+          })]
+        })
+      }), " means rounding ", _jsx(_components.span, {
+        className: "math math-inline",
+        children: _jsxs(_components.span, {
+          className: "katex",
+          children: [_jsx(_components.span, {
+            className: "katex-mathml",
+            children: _jsx(_components.math, {
+              xmlns: "http://www.w3.org/1998/Math/MathML",
+              children: _jsxs(_components.semantics, {
+                children: [_jsx(_components.mrow, {
+                  children: _jsx(_components.mi, {
+                    children: "x"
+                  })
+                }), _jsx(_components.annotation, {
+                  encoding: "application/x-tex",
+                  children: "x"
+                })]
+              })
+            })
+          }), _jsx(_components.span, {
+            className: "katex-html",
+            "aria-hidden": "true",
+            children: _jsxs(_components.span, {
+              className: "base",
+              children: [_jsx(_components.span, {
+                className: "strut",
+                style: {
+                  height: "0.4306em"
+                }
+              }), _jsx(_components.span, {
+                className: "mord mathnormal",
+                children: "x"
+              })]
+            })
+          })]
+        })
+      }), " to an integer."]
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsxs(_components.li, {
+        children: ["solved.ac also uses icons to represent the difficulty of problems, just like the programmer's tier.", "\n", _jsxs(_components.ul, {
+          children: ["\n", _jsxs(_components.li, {
+            children: [_jsx(_components.strong, {
+              children: "Difficulty value"
+            }), " refers to the difficulty of the problem, converted to 1 point for ", _jsx(Tier, {
+              t: 1
+            }), ", 2 points for ", _jsx(Tier, {
+              t: 2
+            }), ", … 30 points for ", _jsx(Tier, {
+              t: 30
+            }), ". The higher the difficulty of the problem, the higher the rating you can achieve."]
+          }), "\n", _jsxs(_components.li, {
+            children: ["Reference: Guide ", _jsx(_components.a, {
+              href: "/en/problem/level",
+              children: _jsx(_components.strong, {
+                children: "Problem Level"
+              })
+            })]
+          }), "\n"]
+        }), "\n"]
+      }), "\n", _jsxs(_components.li, {
+        children: ["You can receive up to 200 bonus ratings based on the number of problems solved.", "\n", _jsxs(_components.ul, {
+          children: ["\n", _jsxs(_components.li, {
+            children: ["The number of problems solved excludes problems marked as 'Extra' and ", _jsx(Tier, {
+              t: 0,
+              locked: true
+            }), " problems on Baekjoon Online Judge."]
+          }), "\n"]
+        }), "\n"]
+      }), "\n", _jsx(_components.li, {
+        children: "Unlike the AC rating, there are no bonus ratings based on CLASS grades or contribution bonus ratings."
+      }), "\n"]
+    }), "\n", _jsx(_components.h2, {
+      children: "Major Tags"
+    }), "\n", _jsx(_components.p, {
+      children: "The following eight tags are tags designated by solved.ac as major tags. The ratings of these tags are displayed as a radar chart on the tag distribution card on the profile page."
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsx(_components.li, {
+        children: "Mathematics (math)"
+      }), "\n", _jsx(_components.li, {
+        children: "Implementation (implementation)"
+      }), "\n", _jsx(_components.li, {
+        children: "Greedy Algorithms (greedy)"
+      }), "\n", _jsx(_components.li, {
+        children: "Strings (string)"
+      }), "\n", _jsx(_components.li, {
+        children: "Data Structures (data_structures)"
+      }), "\n", _jsx(_components.li, {
+        children: "Graph Theory (graphs)"
+      }), "\n", _jsx(_components.li, {
+        children: "Dynamic Programming (dp)"
+      }), "\n", _jsx(_components.li, {
+        children: "Geometry (geometry)"
+      }), "\n"]
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = Object.assign({}, _provideComponents(), props.components);
+  return MDXLayout ? _jsx(MDXLayout, Object.assign({}, props, {
+    children: _jsx(_createMdxContent, props)
+  })) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+9:[["$","$La",null,{"languages":[{"language":"en","link":"/en/stats/tag-rating"},{"language":"ko","link":"/ko/stats/tag-rating"}],"current":"en","children":"Tag Rating"}],["$","$Lb",null,{"compiledSource":"$c","frontmatter":{"title":"Tag Rating","index":30},"scope":{}}]]

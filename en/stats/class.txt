@@ -1,0 +1,637 @@
+0:["Oph8YkoYCDLyenxS5cW3v",[[["",{"children":[["slug","en/stats/class","c"],{"children":["__PAGE__?{\"slug\":[\"en\",\"stats\",\"class\"]}",{}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
+1:["$L3",null]
+2:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Class"}],["$","meta","2",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+4:I{"id":5492,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-3c03fcdecd7443cc.js","53:static/chunks/53-9c922798d71c7ac4.js","333:static/chunks/333-dc0c655bfc078da1.js","185:static/chunks/app/layout-293f496729b55065.js"],"name":"","async":false}
+5:I{"id":8175,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-3c03fcdecd7443cc.js","53:static/chunks/53-9c922798d71c7ac4.js","333:static/chunks/333-dc0c655bfc078da1.js","185:static/chunks/app/layout-293f496729b55065.js"],"name":"","async":false}
+6:I{"id":483,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-3c03fcdecd7443cc.js","53:static/chunks/53-9c922798d71c7ac4.js","333:static/chunks/333-dc0c655bfc078da1.js","185:static/chunks/app/layout-293f496729b55065.js"],"name":"","async":false}
+7:I{"id":7767,"chunks":["272:static/chunks/webpack-a8ba63f2417b26c7.js","971:static/chunks/fd9d1056-fe8c62b67ebb5281.js","596:static/chunks/596-9910d2cba943a1ec.js"],"name":"default","async":false}
+8:I{"id":7920,"chunks":["272:static/chunks/webpack-a8ba63f2417b26c7.js","971:static/chunks/fd9d1056-fe8c62b67ebb5281.js","596:static/chunks/596-9910d2cba943a1ec.js"],"name":"default","async":false}
+3:["$","html",null,{"lang":"ko","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=JetBrains+Mono:ital,wght@0,400;0,700;1,400;1,700&family=Oxanium:wght@400;700&display=swap","rel":"stylesheet"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,700&display=swap"}],["$","link",null,{"rel":"stylesheet","href":"https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-dynamic-subset.css"}],["$","link",null,{"rel":"stylesheet","href":"https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.css","crossOrigin":"anonymous"}]]}],["$","body",null,{"children":["$","$L4",null,{"breadcrumbsComponent":["$","$L5",null,{"guidemap":{"key":"","title":null,"index":0,"guides":[{"key":"/en","title":null,"index":0,"guides":[{"key":"/en/getting-started","title":"Getting Started","index":0,"guides":[{"key":"/en/getting-started/link-account","title":"Creating an Account","index":1,"type":"guide"},{"key":"/en/getting-started/boj","title":"Registering to BOJ","index":2,"type":"guide"}],"type":"category"},{"key":"/en/stats","title":"Stats","index":1,"guides":[{"key":"/en/stats/profile","title":"Profile","index":0,"type":"guide"},{"key":"/en/stats/ac-rating","title":"Tiers and AC Rating","index":10,"type":"guide"},{"key":"/en/stats/class","title":"Class","index":20,"type":"guide"},{"key":"/en/stats/tag-rating","title":"Tag Rating","index":30,"type":"guide"}],"type":"category"},{"key":"/en/problem","title":"Problems","index":2,"guides":[{"key":"/en/problem/level","title":"Problem Level","index":10,"type":"guide"},{"key":"/en/problem/level-unusual","title":"Special Cases of Problem Levels","index":20,"type":"guide"},{"key":"/en/problem/tag","title":"Tags","index":30,"type":"guide"}],"type":"category"},{"key":"/en/arena","title":"Arena (legacy)","index":99,"guides":[{"key":"/en/arena/getting-started","title":"For Participants","index":0,"guides":[{"key":"/en/arena/getting-started/link-account","title":"Register","index":0,"type":"guide"}],"type":"category"}],"type":"category"}],"type":"category"},{"key":"/ko","title":null,"index":0,"guides":[{"key":"/ko/getting-started","title":"시작하기","index":0,"guides":[{"key":"/ko/getting-started/link-account","title":"계정 만들기","index":1,"type":"guide"}],"type":"category"},{"key":"/ko/stats","title":"스탯","index":1,"guides":[{"key":"/ko/stats/profile","title":"프로필 조회하기","index":0,"type":"guide"},{"key":"/ko/stats/ac-rating","title":"티어와 AC 레이팅","index":10,"type":"guide"},{"key":"/ko/stats/class","title":"CLASS","index":20,"type":"guide"},{"key":"/ko/stats/tag-rating","title":"태그 레이팅","index":30,"type":"guide"}],"type":"category"},{"key":"/ko/problem","title":"문제","index":2,"guides":[{"key":"/ko/problem/level","title":"문제 난이도","index":10,"type":"guide"},{"key":"/ko/problem/level-unusual","title":"특수한 경우의 문제 난이도","index":20,"type":"guide"},{"key":"/ko/problem/tag","title":"태그","index":30,"type":"guide"}],"type":"category"},{"key":"/ko/updates","title":"업데이트","index":999,"guides":[{"key":"/ko/updates/240808","title":"굿즈 샵 재개 및 기존 주문 배송 시기 안내 (2024년 8월 8일)","index":-20240808,"type":"guide"},{"key":"/ko/updates/240723","title":"문제 오류 제보 기능 (2024년 7월 23일)","index":-20240723,"type":"guide"},{"key":"/ko/updates/240721","title":"굿즈 샵 재개 예정 및 기존 주문 배송 지연 안내 (2024년 7월 21일)","index":-20240721,"type":"guide"},{"key":"/ko/updates/240628","title":"서포터 프로그램의 프로 플랜으로의 전환 및 환불 관련 안내 (2024년 6월 28일)","index":-20240628,"type":"guide"},{"key":"/ko/updates/240627","title":"솔브드 서포터 신규 결제 일시중지 및 굿즈 샵 주문 관련 안내 (2024년 6월 27일)","index":-20240627,"type":"guide"},{"key":"/ko/updates/240626","title":"랜덤 마라톤 개선 (2024년 6월 26일)","index":-20240626,"type":"guide"},{"key":"/ko/updates/240618","title":"랜덤 마라톤 개선 (2024년 6월 18일)","index":-20240618,"type":"guide"},{"key":"/ko/updates/240609","title":"랜덤 마라톤 개선 (2024년 6월 9일)","index":-20240609,"type":"guide"},{"key":"/ko/updates/240530","title":"시즌 4 업데이트 (2024년 6월 5일)","index":-20240530,"type":"guide"}],"type":"category"}],"type":"category"}],"type":"category"}}],"navigationComponent":["$","$L6",null,{"guidemap":{"key":"","title":null,"index":0,"guides":[{"key":"/en","title":null,"index":0,"guides":[{"key":"/en/getting-started","title":"Getting Started","index":0,"guides":[{"key":"/en/getting-started/link-account","title":"Creating an Account","index":1,"type":"guide"},{"key":"/en/getting-started/boj","title":"Registering to BOJ","index":2,"type":"guide"}],"type":"category"},{"key":"/en/stats","title":"Stats","index":1,"guides":[{"key":"/en/stats/profile","title":"Profile","index":0,"type":"guide"},{"key":"/en/stats/ac-rating","title":"Tiers and AC Rating","index":10,"type":"guide"},{"key":"/en/stats/class","title":"Class","index":20,"type":"guide"},{"key":"/en/stats/tag-rating","title":"Tag Rating","index":30,"type":"guide"}],"type":"category"},{"key":"/en/problem","title":"Problems","index":2,"guides":[{"key":"/en/problem/level","title":"Problem Level","index":10,"type":"guide"},{"key":"/en/problem/level-unusual","title":"Special Cases of Problem Levels","index":20,"type":"guide"},{"key":"/en/problem/tag","title":"Tags","index":30,"type":"guide"}],"type":"category"},{"key":"/en/arena","title":"Arena (legacy)","index":99,"guides":[{"key":"/en/arena/getting-started","title":"For Participants","index":0,"guides":[{"key":"/en/arena/getting-started/link-account","title":"Register","index":0,"type":"guide"}],"type":"category"}],"type":"category"}],"type":"category"},{"key":"/ko","title":null,"index":0,"guides":[{"key":"/ko/getting-started","title":"시작하기","index":0,"guides":[{"key":"/ko/getting-started/link-account","title":"계정 만들기","index":1,"type":"guide"}],"type":"category"},{"key":"/ko/stats","title":"스탯","index":1,"guides":[{"key":"/ko/stats/profile","title":"프로필 조회하기","index":0,"type":"guide"},{"key":"/ko/stats/ac-rating","title":"티어와 AC 레이팅","index":10,"type":"guide"},{"key":"/ko/stats/class","title":"CLASS","index":20,"type":"guide"},{"key":"/ko/stats/tag-rating","title":"태그 레이팅","index":30,"type":"guide"}],"type":"category"},{"key":"/ko/problem","title":"문제","index":2,"guides":[{"key":"/ko/problem/level","title":"문제 난이도","index":10,"type":"guide"},{"key":"/ko/problem/level-unusual","title":"특수한 경우의 문제 난이도","index":20,"type":"guide"},{"key":"/ko/problem/tag","title":"태그","index":30,"type":"guide"}],"type":"category"},{"key":"/ko/updates","title":"업데이트","index":999,"guides":[{"key":"/ko/updates/240808","title":"굿즈 샵 재개 및 기존 주문 배송 시기 안내 (2024년 8월 8일)","index":-20240808,"type":"guide"},{"key":"/ko/updates/240723","title":"문제 오류 제보 기능 (2024년 7월 23일)","index":-20240723,"type":"guide"},{"key":"/ko/updates/240721","title":"굿즈 샵 재개 예정 및 기존 주문 배송 지연 안내 (2024년 7월 21일)","index":-20240721,"type":"guide"},{"key":"/ko/updates/240628","title":"서포터 프로그램의 프로 플랜으로의 전환 및 환불 관련 안내 (2024년 6월 28일)","index":-20240628,"type":"guide"},{"key":"/ko/updates/240627","title":"솔브드 서포터 신규 결제 일시중지 및 굿즈 샵 주문 관련 안내 (2024년 6월 27일)","index":-20240627,"type":"guide"},{"key":"/ko/updates/240626","title":"랜덤 마라톤 개선 (2024년 6월 26일)","index":-20240626,"type":"guide"},{"key":"/ko/updates/240618","title":"랜덤 마라톤 개선 (2024년 6월 18일)","index":-20240618,"type":"guide"},{"key":"/ko/updates/240609","title":"랜덤 마라톤 개선 (2024년 6월 9일)","index":-20240609,"type":"guide"},{"key":"/ko/updates/240530","title":"시즌 4 업데이트 (2024년 6월 5일)","index":-20240530,"type":"guide"}],"type":"category"}],"type":"category"}],"type":"category"}}],"children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children",["slug","en/stats/class","c"],"children"],"error":"$undefined","errorStyles":"$undefined","loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L9",null],"segment":"__PAGE__?{\"slug\":[\"en\",\"stats\",\"class\"]}"},"styles":[]}],"segment":["slug","en/stats/class","c"]},"styles":[]}]}]}]]}]
+a:I{"id":5657,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-3c03fcdecd7443cc.js","53:static/chunks/53-9c922798d71c7ac4.js","877:static/chunks/app/[...slug]/page-ce15f11ffbc8864f.js"],"name":"","async":false}
+b:I{"id":8231,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-3c03fcdecd7443cc.js","53:static/chunks/53-9c922798d71c7ac4.js","877:static/chunks/app/[...slug]/page-ce15f11ffbc8864f.js"],"name":"","async":false}
+c:T539a,/*@jsxRuntime automatic @jsxImportSource react*/
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = Object.assign({
+    p: "p",
+    strong: "strong",
+    ul: "ul",
+    li: "li",
+    a: "a",
+    h2: "h2",
+    table: "table",
+    thead: "thead",
+    tr: "tr",
+    th: "th",
+    tbody: "tbody",
+    td: "td",
+    span: "span",
+    math: "math",
+    semantics: "semantics",
+    mrow: "mrow",
+    mi: "mi",
+    annotation: "annotation"
+  }, _provideComponents(), props.components), {ExternalLink, ClassIcon} = _components;
+  if (!ClassIcon) _missingMdxReference("ClassIcon", true);
+  if (!ExternalLink) _missingMdxReference("ExternalLink", true);
+  return _jsxs(_Fragment, {
+    children: [_jsx(ExternalLink, {
+      href: "https://solved.ac/class",
+      children: "Class"
+    }), "\n", _jsxs(_components.p, {
+      children: [_jsx(_components.strong, {
+        children: "Class"
+      }), " is a grade that can be obtained by solving problems curated by solved.ac. If you acquire Class, you can receive up to 250 bonus ratings."]
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsxs(_components.li, {
+        children: ["Reference: Guide ", _jsx(_components.a, {
+          href: "/en/stats/ac-rating",
+          children: _jsx(_components.strong, {
+            children: "Tiers and AC Rating"
+          })
+        })]
+      }), "\n"]
+    }), "\n", _jsx(_components.h2, {
+      children: "Classes"
+    }), "\n", _jsxs(_components.p, {
+      children: ["There are a total of 10 Classes. Each Class has 36-48 problems predetermined by solved.ac. By solving the number of problems corresponding to the ", _jsx(_components.strong, {
+        children: "acquisition condition"
+      }), " of each Class, you can acquire that Class."]
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsx(_components.li, {
+        children: "To acquire Class 9 and 10, you must acquire the previous Class."
+      }), "\n"]
+    }), "\n", _jsxs(_components.table, {
+      children: [_jsx(_components.thead, {
+        children: _jsxs(_components.tr, {
+          children: [_jsx(_components.th, {
+            align: "center"
+          }), _jsx(_components.th, {
+            align: "center",
+            children: _jsx(ClassIcon, {
+              c: 1
+            })
+          }), _jsx(_components.th, {
+            align: "center",
+            children: _jsx(ClassIcon, {
+              c: 2
+            })
+          }), _jsx(_components.th, {
+            align: "center",
+            children: _jsx(ClassIcon, {
+              c: 3
+            })
+          }), _jsx(_components.th, {
+            align: "center",
+            children: _jsx(ClassIcon, {
+              c: 4
+            })
+          }), _jsx(_components.th, {
+            align: "center",
+            children: _jsx(ClassIcon, {
+              c: 5
+            })
+          })]
+        })
+      }), _jsxs(_components.tbody, {
+        children: [_jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            align: "center",
+            children: "Problems"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(_components.a, {
+              href: "https://solved.ac/class/1",
+              children: "36"
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(_components.a, {
+              href: "https://solved.ac/class/2",
+              children: "40"
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(_components.a, {
+              href: "https://solved.ac/class/3",
+              children: "48"
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(_components.a, {
+              href: "https://solved.ac/class/4",
+              children: "48"
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(_components.a, {
+              href: "https://solved.ac/class/5",
+              children: "48"
+            })
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            align: "center",
+            children: "Acquisition"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "16"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "20"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "24"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "24"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "24"
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            align: "center",
+            children: "Bonus Ratings"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "+25"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "+50"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "+100"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "+150"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "+200"
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            align: "center"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(ClassIcon, {
+              c: 6
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(ClassIcon, {
+              c: 7
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(ClassIcon, {
+              c: 8
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(ClassIcon, {
+              c: 9
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(ClassIcon, {
+              c: 10
+            })
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            align: "center",
+            children: "Problems"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(_components.a, {
+              href: "https://solved.ac/class/6",
+              children: "48"
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(_components.a, {
+              href: "https://solved.ac/class/7",
+              children: "48"
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(_components.a, {
+              href: "https://solved.ac/class/8",
+              children: "48"
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(_components.a, {
+              href: "https://solved.ac/class/9",
+              children: "48"
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(_components.a, {
+              href: "https://solved.ac/class/10",
+              children: "48"
+            })
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            align: "center",
+            children: "Acquisition"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "24"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "24"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "24"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "24"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "24"
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            align: "center",
+            children: "Bonus Ratings"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "+210"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "+220"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "+230"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "+240"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "+250"
+          })]
+        })]
+      })]
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsxs(_components.li, {
+        children: [_jsx(_components.strong, {
+          children: "Class 1"
+        }), ": A stage to help beginners in problem solving become familiar with problem solving"]
+      }), "\n", _jsxs(_components.li, {
+        children: [_jsx(_components.strong, {
+          children: "Class 2"
+        }), ": A stage where you need to solve problems using basic data structures, algorithms, and computational thinking"]
+      }), "\n", _jsxs(_components.li, {
+        children: [_jsx(_components.strong, {
+          children: "Class 3–4"
+        }), ": A stage where you need to solve problems using data structures, algorithms, and computational thinking at the undergraduate level of computer science used in coding tests and the industry"]
+      }), "\n", _jsxs(_components.li, {
+        children: [_jsx(_components.strong, {
+          children: "Class 5–6"
+        }), ": A stage where you need to solve problems using various basic knowledge that appears in programming contests"]
+      }), "\n", _jsxs(_components.li, {
+        children: [_jsx(_components.strong, {
+          children: "Class 7–10"
+        }), ": A stage where you need to solve problems using advanced knowledge that appears in programming contests"]
+      }), "\n"]
+    }), "\n", _jsx(_components.h2, {
+      children: "Decorations"
+    }), "\n", _jsx(_components.p, {
+      children: "If you meet certain conditions, decorations will be added to the acquired Class."
+    }), "\n", _jsxs(_components.table, {
+      children: [_jsx(_components.thead, {
+        children: _jsxs(_components.tr, {
+          children: [_jsx(_components.th, {
+            align: "center"
+          }), _jsx(_components.th, {
+            align: "center",
+            children: "Decoration"
+          }), _jsx(_components.th, {
+            align: "center",
+            children: "Condition"
+          })]
+        })
+      }), _jsxs(_components.tbody, {
+        children: [_jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            align: "center",
+            children: _jsx(ClassIcon, {
+              c: 1
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "None"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "Acquire Class"
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            align: "center",
+            children: _jsx(ClassIcon, {
+              c: 1,
+              d: "silver"
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "Silver"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "Solve all Essential problems in the Class"
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            align: "center",
+            children: _jsx(ClassIcon, {
+              c: 1,
+              d: "gold"
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "Gold"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: "Solve all problems in the Class"
+          })]
+        })]
+      })]
+    }), "\n", _jsxs(_components.p, {
+      children: ["When you acquire a decoration, the Class will be displayed as ", _jsx(_components.span, {
+        className: "math math-inline",
+        children: _jsxs(_components.span, {
+          className: "katex",
+          children: [_jsx(_components.span, {
+            className: "katex-mathml",
+            children: _jsx(_components.math, {
+              xmlns: "http://www.w3.org/1998/Math/MathML",
+              children: _jsxs(_components.semantics, {
+                children: [_jsx(_components.mrow, {
+                  children: _jsx(_components.mi, {
+                    children: "x"
+                  })
+                }), _jsx(_components.annotation, {
+                  encoding: "application/x-tex",
+                  children: "x"
+                })]
+              })
+            })
+          }), _jsx(_components.span, {
+            className: "katex-html",
+            "aria-hidden": "true",
+            children: _jsxs(_components.span, {
+              className: "base",
+              children: [_jsx(_components.span, {
+                className: "strut",
+                style: {
+                  height: "0.4306em"
+                }
+              }), _jsx(_components.span, {
+                className: "mord mathnormal",
+                children: "x"
+              })]
+            })
+          })]
+        })
+      }), "⁺(Silver) or ", _jsx(_components.span, {
+        className: "math math-inline",
+        children: _jsxs(_components.span, {
+          className: "katex",
+          children: [_jsx(_components.span, {
+            className: "katex-mathml",
+            children: _jsx(_components.math, {
+              xmlns: "http://www.w3.org/1998/Math/MathML",
+              children: _jsxs(_components.semantics, {
+                children: [_jsx(_components.mrow, {
+                  children: _jsx(_components.mi, {
+                    children: "x"
+                  })
+                }), _jsx(_components.annotation, {
+                  encoding: "application/x-tex",
+                  children: "x"
+                })]
+              })
+            })
+          }), _jsx(_components.span, {
+            className: "katex-html",
+            "aria-hidden": "true",
+            children: _jsxs(_components.span, {
+              className: "base",
+              children: [_jsx(_components.span, {
+                className: "strut",
+                style: {
+                  height: "0.4306em"
+                }
+              }), _jsx(_components.span, {
+                className: "mord mathnormal",
+                children: "x"
+              })]
+            })
+          })]
+        })
+      }), "⁺⁺(Gold) instead of ", _jsx(_components.span, {
+        className: "math math-inline",
+        children: _jsxs(_components.span, {
+          className: "katex",
+          children: [_jsx(_components.span, {
+            className: "katex-mathml",
+            children: _jsx(_components.math, {
+              xmlns: "http://www.w3.org/1998/Math/MathML",
+              children: _jsxs(_components.semantics, {
+                children: [_jsx(_components.mrow, {
+                  children: _jsx(_components.mi, {
+                    children: "x"
+                  })
+                }), _jsx(_components.annotation, {
+                  encoding: "application/x-tex",
+                  children: "x"
+                })]
+              })
+            })
+          }), _jsx(_components.span, {
+            className: "katex-html",
+            "aria-hidden": "true",
+            children: _jsxs(_components.span, {
+              className: "base",
+              children: [_jsx(_components.span, {
+                className: "strut",
+                style: {
+                  height: "0.4306em"
+                }
+              }), _jsx(_components.span, {
+                className: "mord mathnormal",
+                children: "x"
+              })]
+            })
+          })]
+        })
+      }), " on ranking pages and some other pages. There are no bonus ratings."]
+    }), "\n", _jsx(_components.h2, {
+      children: "Essential Problems"
+    }), "\n", _jsxs(_components.p, {
+      children: ["Among the problems in the Class, problems considered important are called ", _jsx(_components.strong, {
+        children: "Essential Problems"
+      }), ". When you solve all Essential Problems, a decoration will be added."]
+    }), "\n", _jsxs(_components.table, {
+      children: [_jsx(_components.thead, {
+        children: _jsxs(_components.tr, {
+          children: [_jsx(_components.th, {
+            align: "center"
+          }), _jsx(_components.th, {
+            align: "center",
+            children: _jsx(ClassIcon, {
+              c: 1,
+              d: "silver"
+            })
+          }), _jsx(_components.th, {
+            align: "center",
+            children: _jsx(ClassIcon, {
+              c: 2,
+              d: "silver"
+            })
+          }), _jsx(_components.th, {
+            align: "center",
+            children: _jsx(ClassIcon, {
+              c: 3,
+              d: "silver"
+            })
+          }), _jsx(_components.th, {
+            align: "center",
+            children: _jsx(ClassIcon, {
+              c: 4,
+              d: "silver"
+            })
+          }), _jsx(_components.th, {
+            align: "center",
+            children: _jsx(ClassIcon, {
+              c: 5,
+              d: "silver"
+            })
+          })]
+        })
+      }), _jsxs(_components.tbody, {
+        children: [_jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            align: "center",
+            children: "Problems"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(_components.a, {
+              href: "https://solved.ac/class/1e",
+              children: "16"
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(_components.a, {
+              href: "https://solved.ac/class/2e",
+              children: "20"
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(_components.a, {
+              href: "https://solved.ac/class/3e",
+              children: "20"
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(_components.a, {
+              href: "https://solved.ac/class/4e",
+              children: "24"
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(_components.a, {
+              href: "https://solved.ac/class/5e",
+              children: "24"
+            })
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            align: "center"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(ClassIcon, {
+              c: 6,
+              d: "silver"
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(ClassIcon, {
+              c: 7,
+              d: "silver"
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(ClassIcon, {
+              c: 8,
+              d: "silver"
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(ClassIcon, {
+              c: 9,
+              d: "silver"
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(ClassIcon, {
+              c: 10,
+              d: "silver"
+            })
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            align: "center",
+            children: "Problems"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(_components.a, {
+              href: "https://solved.ac/class/6e",
+              children: "24"
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(_components.a, {
+              href: "https://solved.ac/class/7e",
+              children: "24"
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(_components.a, {
+              href: "https://solved.ac/class/8e",
+              children: "24"
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(_components.a, {
+              href: "https://solved.ac/class/9e",
+              children: "24"
+            })
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx(_components.a, {
+              href: "https://solved.ac/class/10e",
+              children: "24"
+            })
+          })]
+        })]
+      })]
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = Object.assign({}, _provideComponents(), props.components);
+  return MDXLayout ? _jsx(MDXLayout, Object.assign({}, props, {
+    children: _jsx(_createMdxContent, props)
+  })) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+9:[["$","$La",null,{"languages":[{"language":"en","link":"/en/stats/class"},{"language":"ko","link":"/ko/stats/class"}],"current":"en","children":"Class"}],["$","$Lb",null,{"compiledSource":"$c","frontmatter":{"title":"Class","index":20},"scope":{}}]]
