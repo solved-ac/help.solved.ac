@@ -12,7 +12,7 @@ const Home = () => {
           <Link href="/ko/getting-started/link-account">한국어</Link>
         </Item>
         <Item>
-          <Link href="/en/arena/getting-started/link-account">English</Link>
+          <Link href="/en/getting-started/link-account">English</Link>
         </Item>
       </Itemize>
     </>
