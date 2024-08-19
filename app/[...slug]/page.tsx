@@ -1,4 +1,5 @@
 import ContentHeading1 from "@/components/mdx/ContentHeading1";
+import HeadingWithLanguageSelector from "@/components/mdx/HeadingWithLanguageSelector";
 import MDXRenderer from "@/components/mdx/MDXRenderer";
 import { getAllPostSlugs, getPostBySlug } from "@/utils/post";
 import { title } from "process";
@@ -15,10 +16,26 @@ const Page = async ({ params }: Props) => {
   const { slug } = params;
 
   try {
+    const allPosts = await getAllPostSlugs();
     const { meta, serialized } = await getPostBySlug(slug.join("/"));
+
+    const currentSlugWithoutLanguage = slug.slice(1).join("/");
+    const slugRegex = new RegExp(`^/([a-z]{2})/${currentSlugWithoutLanguage}$`);
+    const postAllLanguages = allPosts
+      .filter((post) => post.match(slugRegex))
+      .map((post) => ({
+        language: slugRegex.exec(post)![1],
+        link: post,
+      }));
+
     return (
       <>
-        <ContentHeading1>{meta.title}</ContentHeading1>
+        <HeadingWithLanguageSelector
+          languages={postAllLanguages}
+          current={slug[0]}
+        >
+          {meta.title}
+        </HeadingWithLanguageSelector>
         <MDXRenderer {...serialized} />
       </>
     );
