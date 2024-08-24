@@ -14,6 +14,8 @@ import {
   TableHead,
   Typo,
 } from "@solved-ac/ui-react";
+import DifficultyComparison from "../content/difficultyComparison/DifficultyComparison";
+import CLISSchedule2024 from "../content/updates/240824/CLISSchedule2024";
 import ClassIcon from "./ClassIcon";
 import ContentHeading1 from "./ContentHeading1";
 import ContentHeading2 from "./ContentHeading2";
@@ -21,7 +23,6 @@ import ContentImage from "./ContentImage";
 import ExternalLinkButton from "./ExternalLinkButton";
 import LevelColorText from "./LevelColorText";
 import Tier from "./Tier";
-import DifficultyComparison from "../content/difficultyComparison/DifficultyComparison";
 import WarningIcon from "./WarningIcon";
 
 const MDXComponents = {
@@ -83,6 +84,7 @@ const MDXComponents = {
 
   // Content-specific components
   DifficultyComparison: () => <DifficultyComparison />,
+  CLISSchedule2024: () => <CLISSchedule2024 />,
 } as const;
 
 export default MDXComponents;
