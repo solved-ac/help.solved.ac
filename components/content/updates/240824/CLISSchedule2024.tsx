@@ -136,7 +136,7 @@ const CLISSchedule2024 = () => {
                 <a href="http://youtube.com/andrewzta" target="_blank">
                   Andrey Stankevich
                 </a>{" "}
-                <CfLink handle="pllk" />
+                <CfLink handle="andrewzta" />
                 <br />
                 <Typo description small>
                   ITMO University
