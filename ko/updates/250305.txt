@@ -1,0 +1,91 @@
+0:["RDrKByiBB4QimQwDw0BPa",[[["",{"children":[["slug","ko/updates/250305","c"],{"children":["__PAGE__?{\"slug\":[\"ko\",\"updates\",\"250305\"]}",{}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
+1:["$L3",null]
+2:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"솔브드의 폐업에 따른 안내 (2025년 3월 5일) - solved.ac Help"}],["$","meta","2",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","3",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","4",{"property":"og:title","content":"solved.ac Help"}],["$","meta","5",{"property":"og:description","content":"Help documentation for solved.ac"}],["$","meta","6",{"property":"og:url","content":"https://help.solved.ac"}],["$","meta","7",{"property":"og:type","content":"website"}],["$","meta","8",{"name":"twitter:card","content":"summary"}],["$","meta","9",{"name":"twitter:title","content":"solved.ac Help"}],["$","meta","10",{"name":"twitter:description","content":"Help documentation for solved.ac"}],["$","link","11",{"rel":"icon","href":"/favicon.ico"}]]
+4:I{"id":5492,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-3c03fcdecd7443cc.js","53:static/chunks/53-9c922798d71c7ac4.js","333:static/chunks/333-dc0c655bfc078da1.js","185:static/chunks/app/layout-d14637511274c5f4.js"],"name":"","async":false}
+5:I{"id":8175,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-3c03fcdecd7443cc.js","53:static/chunks/53-9c922798d71c7ac4.js","333:static/chunks/333-dc0c655bfc078da1.js","185:static/chunks/app/layout-d14637511274c5f4.js"],"name":"","async":false}
+6:I{"id":483,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-3c03fcdecd7443cc.js","53:static/chunks/53-9c922798d71c7ac4.js","333:static/chunks/333-dc0c655bfc078da1.js","185:static/chunks/app/layout-d14637511274c5f4.js"],"name":"","async":false}
+7:I{"id":7767,"chunks":["272:static/chunks/webpack-a8ba63f2417b26c7.js","971:static/chunks/fd9d1056-fe8c62b67ebb5281.js","596:static/chunks/596-9910d2cba943a1ec.js"],"name":"default","async":false}
+8:I{"id":7920,"chunks":["272:static/chunks/webpack-a8ba63f2417b26c7.js","971:static/chunks/fd9d1056-fe8c62b67ebb5281.js","596:static/chunks/596-9910d2cba943a1ec.js"],"name":"default","async":false}
+3:["$","html",null,{"lang":"ko","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=JetBrains+Mono:ital,wght@0,400;0,700;1,400;1,700&family=Oxanium:wght@400;700&display=swap","rel":"stylesheet"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,700&display=swap"}],["$","link",null,{"rel":"stylesheet","href":"https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-dynamic-subset.css"}],["$","link",null,{"rel":"stylesheet","href":"https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.css","crossOrigin":"anonymous"}]]}],["$","body",null,{"children":["$","$L4",null,{"breadcrumbsComponent":["$","$L5",null,{"guidemap":{"key":"","title":null,"index":0,"guides":[{"key":"/en","title":null,"index":0,"guides":[{"key":"/en/getting-started","title":"Getting Started","index":0,"guides":[{"key":"/en/getting-started/link-account","title":"Creating an Account","index":1,"type":"guide"},{"key":"/en/getting-started/boj","title":"Registering to BOJ","index":2,"type":"guide"}],"type":"category"},{"key":"/en/stats","title":"Stats","index":1,"guides":[{"key":"/en/stats/profile","title":"Profile","index":0,"type":"guide"},{"key":"/en/stats/ac-rating","title":"Tiers and AC Rating","index":10,"type":"guide"},{"key":"/en/stats/class","title":"Class","index":20,"type":"guide"},{"key":"/en/stats/tag-rating","title":"Tag Rating","index":30,"type":"guide"}],"type":"category"},{"key":"/en/problem","title":"Problems","index":2,"guides":[{"key":"/en/problem/level","title":"Problem Level","index":10,"type":"guide"},{"key":"/en/problem/level-unusual","title":"Special Cases of Problem Levels","index":20,"type":"guide"},{"key":"/en/problem/tag","title":"Tags","index":30,"type":"guide"}],"type":"category"},{"key":"/en/arena","title":"Arena (legacy)","index":99,"guides":[{"key":"/en/arena/getting-started","title":"For Participants","index":0,"guides":[{"key":"/en/arena/getting-started/link-account","title":"Register","index":0,"type":"guide"}],"type":"category"}],"type":"category"}],"type":"category"},{"key":"/ko","title":null,"index":0,"guides":[{"key":"/ko/getting-started","title":"시작하기","index":0,"guides":[{"key":"/ko/getting-started/link-account","title":"계정 만들기","index":1,"type":"guide"}],"type":"category"},{"key":"/ko/stats","title":"스탯","index":1,"guides":[{"key":"/ko/stats/profile","title":"프로필 조회하기","index":0,"type":"guide"},{"key":"/ko/stats/ac-rating","title":"티어와 AC 레이팅","index":10,"type":"guide"},{"key":"/ko/stats/class","title":"CLASS","index":20,"type":"guide"},{"key":"/ko/stats/tag-rating","title":"태그 레이팅","index":30,"type":"guide"}],"type":"category"},{"key":"/ko/problem","title":"문제","index":2,"guides":[{"key":"/ko/problem/level","title":"문제 난이도","index":10,"type":"guide"},{"key":"/ko/problem/level-unusual","title":"특수한 경우의 문제 난이도","index":20,"type":"guide"},{"key":"/ko/problem/tag","title":"태그","index":30,"type":"guide"}],"type":"category"},{"key":"/ko/updates","title":"업데이트","index":999,"guides":[{"key":"/ko/updates/250305","title":"솔브드의 폐업에 따른 안내 (2025년 3월 5일)","index":-20250305,"type":"guide"},{"key":"/ko/updates/250225","title":"검색 히스토리 기능 (2025년 2월 25일)","index":-20250225,"type":"guide"},{"key":"/ko/updates/250223","title":"〈소스 코드 윤리〉 규칙 개정 안내 (2025년 2월 23일)","index":-20250223,"type":"guide"},{"key":"/ko/updates/241124","title":"X 자동 포스트 기능 제공 중단 예정 (2024년 11월 24일)","index":-20241124,"type":"guide"},{"key":"/ko/updates/240914","title":"대회 문제 아카이브 (2024년 9월 14일)","index":-20240914,"type":"guide"},{"key":"/ko/updates/240824","title":"ICPC 월드 파이널 아스타나에서 solved.ac가 소개될 예정입니다","index":-20240824,"type":"guide"},{"key":"/ko/updates/240808","title":"굿즈 샵 재개 및 기존 주문 배송 시기 안내 (2024년 8월 8일)","index":-20240808,"type":"guide"},{"key":"/ko/updates/240723","title":"문제 오류 제보 기능 (2024년 7월 23일)","index":-20240723,"type":"guide"},{"key":"/ko/updates/240721","title":"굿즈 샵 재개 예정 및 기존 주문 배송 지연 안내 (2024년 7월 21일)","index":-20240721,"type":"guide"},{"key":"/ko/updates/240628","title":"서포터 프로그램의 프로 플랜으로의 전환 및 환불 관련 안내 (2024년 6월 28일)","index":-20240628,"type":"guide"},{"key":"/ko/updates/240627","title":"솔브드 서포터 신규 결제 일시중지 및 굿즈 샵 주문 관련 안내 (2024년 6월 27일)","index":-20240627,"type":"guide"},{"key":"/ko/updates/240626","title":"랜덤 마라톤 개선 (2024년 6월 26일)","index":-20240626,"type":"guide"},{"key":"/ko/updates/240618","title":"랜덤 마라톤 개선 (2024년 6월 18일)","index":-20240618,"type":"guide"},{"key":"/ko/updates/240609","title":"랜덤 마라톤 개선 (2024년 6월 9일)","index":-20240609,"type":"guide"},{"key":"/ko/updates/240530","title":"시즌 4 업데이트 (2024년 6월 5일)","index":-20240530,"type":"guide"}],"type":"category"}],"type":"category"}],"type":"category"}}],"navigationComponent":["$","$L6",null,{"guidemap":{"key":"","title":null,"index":0,"guides":[{"key":"/en","title":null,"index":0,"guides":[{"key":"/en/getting-started","title":"Getting Started","index":0,"guides":[{"key":"/en/getting-started/link-account","title":"Creating an Account","index":1,"type":"guide"},{"key":"/en/getting-started/boj","title":"Registering to BOJ","index":2,"type":"guide"}],"type":"category"},{"key":"/en/stats","title":"Stats","index":1,"guides":[{"key":"/en/stats/profile","title":"Profile","index":0,"type":"guide"},{"key":"/en/stats/ac-rating","title":"Tiers and AC Rating","index":10,"type":"guide"},{"key":"/en/stats/class","title":"Class","index":20,"type":"guide"},{"key":"/en/stats/tag-rating","title":"Tag Rating","index":30,"type":"guide"}],"type":"category"},{"key":"/en/problem","title":"Problems","index":2,"guides":[{"key":"/en/problem/level","title":"Problem Level","index":10,"type":"guide"},{"key":"/en/problem/level-unusual","title":"Special Cases of Problem Levels","index":20,"type":"guide"},{"key":"/en/problem/tag","title":"Tags","index":30,"type":"guide"}],"type":"category"},{"key":"/en/arena","title":"Arena (legacy)","index":99,"guides":[{"key":"/en/arena/getting-started","title":"For Participants","index":0,"guides":[{"key":"/en/arena/getting-started/link-account","title":"Register","index":0,"type":"guide"}],"type":"category"}],"type":"category"}],"type":"category"},{"key":"/ko","title":null,"index":0,"guides":[{"key":"/ko/getting-started","title":"시작하기","index":0,"guides":[{"key":"/ko/getting-started/link-account","title":"계정 만들기","index":1,"type":"guide"}],"type":"category"},{"key":"/ko/stats","title":"스탯","index":1,"guides":[{"key":"/ko/stats/profile","title":"프로필 조회하기","index":0,"type":"guide"},{"key":"/ko/stats/ac-rating","title":"티어와 AC 레이팅","index":10,"type":"guide"},{"key":"/ko/stats/class","title":"CLASS","index":20,"type":"guide"},{"key":"/ko/stats/tag-rating","title":"태그 레이팅","index":30,"type":"guide"}],"type":"category"},{"key":"/ko/problem","title":"문제","index":2,"guides":[{"key":"/ko/problem/level","title":"문제 난이도","index":10,"type":"guide"},{"key":"/ko/problem/level-unusual","title":"특수한 경우의 문제 난이도","index":20,"type":"guide"},{"key":"/ko/problem/tag","title":"태그","index":30,"type":"guide"}],"type":"category"},{"key":"/ko/updates","title":"업데이트","index":999,"guides":[{"key":"/ko/updates/250305","title":"솔브드의 폐업에 따른 안내 (2025년 3월 5일)","index":-20250305,"type":"guide"},{"key":"/ko/updates/250225","title":"검색 히스토리 기능 (2025년 2월 25일)","index":-20250225,"type":"guide"},{"key":"/ko/updates/250223","title":"〈소스 코드 윤리〉 규칙 개정 안내 (2025년 2월 23일)","index":-20250223,"type":"guide"},{"key":"/ko/updates/241124","title":"X 자동 포스트 기능 제공 중단 예정 (2024년 11월 24일)","index":-20241124,"type":"guide"},{"key":"/ko/updates/240914","title":"대회 문제 아카이브 (2024년 9월 14일)","index":-20240914,"type":"guide"},{"key":"/ko/updates/240824","title":"ICPC 월드 파이널 아스타나에서 solved.ac가 소개될 예정입니다","index":-20240824,"type":"guide"},{"key":"/ko/updates/240808","title":"굿즈 샵 재개 및 기존 주문 배송 시기 안내 (2024년 8월 8일)","index":-20240808,"type":"guide"},{"key":"/ko/updates/240723","title":"문제 오류 제보 기능 (2024년 7월 23일)","index":-20240723,"type":"guide"},{"key":"/ko/updates/240721","title":"굿즈 샵 재개 예정 및 기존 주문 배송 지연 안내 (2024년 7월 21일)","index":-20240721,"type":"guide"},{"key":"/ko/updates/240628","title":"서포터 프로그램의 프로 플랜으로의 전환 및 환불 관련 안내 (2024년 6월 28일)","index":-20240628,"type":"guide"},{"key":"/ko/updates/240627","title":"솔브드 서포터 신규 결제 일시중지 및 굿즈 샵 주문 관련 안내 (2024년 6월 27일)","index":-20240627,"type":"guide"},{"key":"/ko/updates/240626","title":"랜덤 마라톤 개선 (2024년 6월 26일)","index":-20240626,"type":"guide"},{"key":"/ko/updates/240618","title":"랜덤 마라톤 개선 (2024년 6월 18일)","index":-20240618,"type":"guide"},{"key":"/ko/updates/240609","title":"랜덤 마라톤 개선 (2024년 6월 9일)","index":-20240609,"type":"guide"},{"key":"/ko/updates/240530","title":"시즌 4 업데이트 (2024년 6월 5일)","index":-20240530,"type":"guide"}],"type":"category"}],"type":"category"}],"type":"category"}}],"children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children",["slug","ko/updates/250305","c"],"children"],"error":"$undefined","errorStyles":"$undefined","loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L9",null],"segment":"__PAGE__?{\"slug\":[\"ko\",\"updates\",\"250305\"]}"},"styles":[]}],"segment":["slug","ko/updates/250305","c"]},"styles":[]}]}]}]]}]
+a:I{"id":5657,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-3c03fcdecd7443cc.js","53:static/chunks/53-9c922798d71c7ac4.js","877:static/chunks/app/[...slug]/page-7da5f3d465d09a5b.js"],"name":"","async":false}
+b:I{"id":15,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-3c03fcdecd7443cc.js","53:static/chunks/53-9c922798d71c7ac4.js","877:static/chunks/app/[...slug]/page-7da5f3d465d09a5b.js"],"name":"","async":false}
+c:T13ff,/*@jsxRuntime automatic @jsxImportSource react*/
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = Object.assign({
+    p: "p",
+    strong: "strong",
+    h2: "h2",
+    ul: "ul",
+    li: "li",
+    a: "a"
+  }, _provideComponents(), props.components);
+  return _jsxs(_Fragment, {
+    children: [_jsxs(_components.p, {
+      children: ["안녕하세요! 우리 모두가 만들어가는 알고리즘 문제해결 학습의 이정표 ", _jsx(_components.strong, {
+        children: "solved.ac"
+      }), "입니다."]
+    }), "\n", _jsx(_components.p, {
+      children: "솔브드는 2025년 3월 18일을 기해 폐업하게 되었습니다. 이에 따라 변경되는 점을 안내드립니다."
+    }), "\n", _jsx(_components.h2, {
+      children: "주요 안내 사항"
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsxs(_components.li, {
+        children: ["\n", _jsx(_components.p, {
+          children: _jsx(_components.strong, {
+            children: "솔브드가 폐업하더라도 solved.ac의 서비스는 계속 이어질 예정입니다."
+          })
+        }), "\n", _jsxs(_components.p, {
+          children: ["솔브드는 2022년 12월 개업한 이후로 계속 ", _jsx(_components.a, {
+            href: "https://shiftpsh.com",
+            children: "박수현(shiftpsh)"
+          }), "의 1인 기업의 형태로 개발 및 운영되어 왔습니다. 폐업 이후에도 개발과 운영을 이어가는 사람은 바뀌지 않을 예정입니다."]
+        }), "\n"]
+      }), "\n", _jsxs(_components.li, {
+        children: ["\n", _jsx(_components.p, {
+          children: _jsx(_components.strong, {
+            children: "프로 플랜의 신규 결제는 2025년 3월 11일 오후 5시(KST)로 마감됩니다."
+          })
+        }), "\n", _jsxs(_components.p, {
+          children: ["솔브드가 폐업하더라도 기 결제하신 프로 플랜의 환불은 solved.ac의 ", _jsx(_components.a, {
+            href: "https://solved.ac/tos",
+            children: "이용 약관"
+          }), " 및 ", _jsx(_components.a, {
+            href: "https://solved.ac/pro",
+            children: "프로 플랜의 환불 정책"
+          }), "에 따라 박수현 개인에게 요청할 수 있습니다."]
+        }), "\n", _jsx(_components.p, {
+          children: "현재 프로 플랜 한정으로 제공하고 있는 기능은 일반 사용자에게 제공되지 않으며, 폐업 이전 프로 플랜 기간이 남아 있는 사용자에게만 제공됩니다. 이 정책은 추후 변경될 수 있으며, 변경 시에는 사이트에 고지할 수 있도록 하겠습니다."
+        }), "\n"]
+      }), "\n", _jsxs(_components.li, {
+        children: ["\n", _jsxs(_components.p, {
+          children: ["기타 문의 사항은 ", _jsx(_components.a, {
+            href: "mailto:shift@solved.ac",
+            children: "shift@solved.ac"
+          }), "으로 문의해 주시기 바랍니다."]
+        }), "\n"]
+      }), "\n"]
+    }), "\n", _jsx(_components.h2, {
+      children: "감사의 말씀"
+    }), "\n", _jsx(_components.p, {
+      children: "대학생 시절 동아리원들의 알고리즘 공부를 위해 작은 프로젝트로 시작했던 solved.ac는 여러분의 많은 관심과 기여, 그리고 도움으로, 대학생 홀로 감당하기에는 다소 버거웠던 운영 상의 어려움을 견뎌내고 지금까지 의욕적으로 운영 및 개발해 나갈 수 있었습니다."
+    }), "\n", _jsx(_components.p, {
+      children: "solved.ac의 사업화는 제가 solved.ac의 운영 및 개발만에 집중하며 이를 전업으로 삼을 수 있는지를 제가 대학을 다니고 있는 동안 실험하는 것이었습니다. 그러나 작년에 결제대행사의 이용 해지 통보로 유동성 문제 등의 제 예상을 벗어나는 어려움을 겪었고, 이런 상황에서 solved.ac를 회사로서 계속 운영하는 것이 어렵다고 판단하게 되어, 졸업을 기점으로 하여 사업을 중단하고 개인적으로 운영하는 것으로 결정하게 되었습니다."
+    }), "\n", _jsx(_components.p, {
+      children: "solved.ac는 알고리즘 문제해결이 재미있고 유익하다고 믿고, 많은 사람들이 알고리즘 공부를 더 쉽고 재미있게 할 수 있도록 도우려 노력해 왔습니다. solved.ac가 회사가 아니게 되더라도 이 목표를 이루기 위해 알고리즘 문제해결 커뮤니티의 가장 가까운 곳에서 항상 부단히 노력해나갈 것입니다."
+    }), "\n", _jsx(_components.p, {
+      children: "앞으로도 solved.ac에 많은 관심과 사랑을 부탁드립니다. 감사합니다."
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = Object.assign({}, _provideComponents(), props.components);
+  return MDXLayout ? _jsx(MDXLayout, Object.assign({}, props, {
+    children: _jsx(_createMdxContent, props)
+  })) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+9:[["$","$La",null,{"languages":[{"language":"ko","link":"/ko/updates/250305"}],"current":"ko","children":"솔브드의 폐업에 따른 안내 (2025년 3월 5일)"}],["$","$Lb",null,{"compiledSource":"$c","frontmatter":{"title":"솔브드의 폐업에 따른 안내 (2025년 3월 5일)","index":-20250305},"scope":{}}]]
