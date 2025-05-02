@@ -1,0 +1,98 @@
+---
+title: New/Modified Tags and Updated Tag Application Rules (May 3, 2025)
+index: -20250503
+---
+
+Hello! This is **solved.ac**, the community powered guide for programming challenges.
+
+## New Tags Added
+
+24 new tags have been added.
+
+- [#angle_sorting](https://solved.ac/problems/tags/angle_sorting)
+- [#beats](https://solved.ac/problems/tags/beats)
+- [#bitset_lcs](https://solved.ac/problems/tags/bitset_lcs)
+- [#bulldozer](https://solved.ac/problems/tags/bulldozer)
+- [#cdq](https://solved.ac/problems/tags/cdq)
+- [#cyclic_group](https://solved.ac/problems/tags/cyclic_group)
+- [#dial](https://solved.ac/problems/tags/dial)
+- [#difference_array](https://solved.ac/problems/tags/difference_array)
+- [#grid_graph](https://solved.ac/problems/tags/grid_graph)
+- [#harmonic_number](https://solved.ac/problems/tags/harmonic_number)
+- [#invariant](https://solved.ac/problems/tags/invariant)
+- [#kinetic_segtree](https://solved.ac/problems/tags/kinetic_segtree)
+- [#lcs](https://solved.ac/problems/tags/lcs)
+- [#li_chao_tree](https://solved.ac/problems/tags/li_chao_tree)
+- [#maximum_subarray](https://solved.ac/problems/tags/maximum_subarray)
+- [#parity](https://solved.ac/problems/tags/parity)
+- [#pisano](https://solved.ac/problems/tags/pisano)
+- [#prime_factorization](https://solved.ac/problems/tags/prime_factorization)
+- [#rerooting](https://solved.ac/problems/tags/rerooting)
+- [#set](https://solved.ac/problems/tags/set)
+- [#traceback](https://solved.ac/problems/tags/traceback)
+- [#tree_diameter](https://solved.ac/problems/tags/tree_diameter)
+- [#treewidth](https://solved.ac/problems/tags/treewidth)
+- [#xor_basis](https://solved.ac/problems/tags/xor_basis)
+
+New tag relationships have been added. $A \leftarrow B$ means that $B$ is a subtag of $A$, and contributing to $B$ will also contribute to $A$ automatically.
+
+- #bitset &larr; #bitset_lcs
+- #cyclic_group &larr; #pisano
+- #data_structures &larr; #set
+- #divide_and_conquer &larr; #cdq
+- #dp_tree &larr; #rerooting
+- #geometry &larr; #angle_sorting
+- #geometry &larr; #bulldozer
+- #graphs &larr; #flow
+- #graphs &larr; #grid_graph
+- #lcs &larr; #bitset_lcs
+- #math &larr; #harmonic_number
+- #number_theory &larr; #prime_factorization
+- #prime_factorization &larr; #pollard_rho
+- #segtree &larr; #beats
+- #segtree &larr; #kinetic_segtree
+- #segtree &larr; #li_chao_tree
+- #set &larr; #hash_set
+- #set &larr; #tree_set
+- #shortest_path &larr; #dial
+- #sorting &larr; #angle_sorting
+- #trees &larr; #tree_diameter
+- #trees &larr; #treewidth
+
+Some existing tag relationships have been removed.
+
+- #number_theory &larr; #pollard_rho
+- #data_structures &larr; #hash_set
+- #data_structures &larr; #tree_set
+
+The names of some tags have been changed.
+
+- #directed_mst (ko): 유향 최소 신장 트리 &rarr; 유향 최소 스패닝 트리
+- #lis (en): longest increasing sequence in o(n log n) &rarr; longest increasing sequence problem
+- #lis (ko): 가장 긴 증가하는 부분 수열 (o(n log n)) &rarr; 가장 긴 증가하는 부분 수열 문제
+
+## Update to Tag Application Rules
+
+Tags applied to problems are calculated based on the number of contributions made by contributors. The conditions for applying tags to problems have been slightly modified.
+
+### Previous
+
+Previously, if there were $N$ contributions with at least one tag, and a specific tag $T$ was included in $M_T$ contributions, the tag $T$ was applied to the problem if:
+
+$$
+M_T > 0 \quad \text{and} \quad M_T \geq 0.3 \times N
+$$
+
+### Updated
+
+From now on, for each tag $T$, if the time when tag $T$ was added to solved.ac is $D$, then:
+
+- There are $N_D$ contributions with at least one tag made after $D$,
+- $m_{T,D}$ is the number of contributions with tag $T$ made after $D$, and
+- $M_T$ is the total number of contributions with tag $T$ regardless of time,
+
+The tag $T$ will be applied to the problem if:
+
+$$
+M_T > 0 \quad \text{and} \quad m_{T,D} \geq 0.3 \times N_D
+$$
