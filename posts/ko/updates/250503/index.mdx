@@ -1,0 +1,100 @@
+---
+title: 태그 추가, 수정 및 태그 반영 공식 수정 안내 (2025년 5월 3일)
+index: -20250503
+---
+
+안녕하세요! 우리 모두가 만들어가는 알고리즘 문제해결 학습의 이정표 **solved.ac**입니다.
+
+## 새로운 태그 추가
+
+새로운 태그 24개가 추가되었습니다.
+
+- [#angle_sorting](https://solved.ac/problems/tags/angle_sorting)
+- [#beats](https://solved.ac/problems/tags/beats)
+- [#bitset_lcs](https://solved.ac/problems/tags/bitset_lcs)
+- [#bulldozer](https://solved.ac/problems/tags/bulldozer)
+- [#cdq](https://solved.ac/problems/tags/cdq)
+- [#cyclic_group](https://solved.ac/problems/tags/cyclic_group)
+- [#dial](https://solved.ac/problems/tags/dial)
+- [#difference_array](https://solved.ac/problems/tags/difference_array)
+- [#grid_graph](https://solved.ac/problems/tags/grid_graph)
+- [#harmonic_number](https://solved.ac/problems/tags/harmonic_number)
+- [#invariant](https://solved.ac/problems/tags/invariant)
+- [#kinetic_segtree](https://solved.ac/problems/tags/kinetic_segtree)
+- [#lcs](https://solved.ac/problems/tags/lcs)
+- [#li_chao_tree](https://solved.ac/problems/tags/li_chao_tree)
+- [#maximum_subarray](https://solved.ac/problems/tags/maximum_subarray)
+- [#parity](https://solved.ac/problems/tags/parity)
+- [#pisano](https://solved.ac/problems/tags/pisano)
+- [#prime_factorization](https://solved.ac/problems/tags/prime_factorization)
+- [#rerooting](https://solved.ac/problems/tags/rerooting)
+- [#set](https://solved.ac/problems/tags/set)
+- [#traceback](https://solved.ac/problems/tags/traceback)
+- [#tree_diameter](https://solved.ac/problems/tags/tree_diameter)
+- [#treewidth](https://solved.ac/problems/tags/treewidth)
+- [#xor_basis](https://solved.ac/problems/tags/xor_basis)
+
+새로운 태그 관계들이 추가되었습니다. $A \leftarrow B$는 $B$가 $A$의 하위 태그라는 의미이며, $B$로 기여할 경우 $A$도 자동으로 기여됩니다.
+
+- #bitset &larr; #bitset_lcs
+- #cyclic_group &larr; #pisano
+- #data_structures &larr; #set
+- #divide_and_conquer &larr; #cdq
+- #dp_tree &larr; #rerooting
+- #geometry &larr; #angle_sorting
+- #geometry &larr; #bulldozer
+- #graphs &larr; #flow
+- #graphs &larr; #grid_graph
+- #lcs &larr; #bitset_lcs
+- #math &larr; #harmonic_number
+- #number_theory &larr; #prime_factorization
+- #prime_factorization &larr; #pollard_rho
+- #segtree &larr; #beats
+- #segtree &larr; #kinetic_segtree
+- #segtree &larr; #li_chao_tree
+- #set &larr; #hash_set
+- #set &larr; #tree_set
+- #shortest_path &larr; #dial
+- #sorting &larr; #angle_sorting
+- #trees &larr; #tree_diameter
+- #trees &larr; #treewidth
+
+기존의 일부 태그 관계들은 삭제되었습니다.
+
+- #number_theory &larr; #pollard_rho
+- #data_structures &larr; #hash_set
+- #data_structures &larr; #tree_set
+
+몇몇 태그의 이름이 변경되었습니다.
+
+- #directed_mst (ko): 유향 최소 신장 트리 &rarr; 유향 최소 스패닝 트리
+- #lis (ko): 가장 긴 증가하는 부분 수열 (o(n log n)) &rarr; 가장 긴 증가하는 부분 수열 문제
+- #lis (en): longest increasing sequence in o(n log n) &rarr; longest increasing sequence problem
+
+## 태그 반영 공식 수정
+
+문제에 등록되는 태그는 기여자들이 남긴 태그의 수를 기반으로 계산되고 있습니다. 태그가 문제에 등록되는 조건이 다소 수정됩니다.
+
+### 기존
+
+기존에는 $1$개 이상의 태그가 붙어 있는 기여가 $N$개이고, 어떤 태그 $T$가 등록되어 있는 기여가 $M_T$개일 때,
+
+$$
+M_T > 0 \quad \text{이면서,} \quad M_T \geq 0.3 \times N
+$$
+
+인 경우에 태그 $T$가 문제에 등록되었습니다.
+
+### 수정
+
+이제부터는 각 태그 $T$에 대해, 태그 $T$가 솔브드에 추가된 시점이 $D$라면,
+
+- $1$개 이상의 태그가 등록되어 있고, $D$ 이후에 기여된 기여의 수가 $N_D$개이고,
+- 태그 $T$가 등록되어 있고, $D$ 이후에 기여된 기여의 수가 $m_{T,D}$개이며,
+- 시점 상관없이 태그 $T$가 등록되어 있는 기여의 수가 $M_T$개일 때,
+
+$$
+M_T > 0 \quad \text{이면서,} \quad m_{T,D} \geq 0.3 \times N_D
+$$
+
+인 경우에 태그 $T$가 문제에 등록됩니다.
