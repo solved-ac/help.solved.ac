@@ -1,0 +1,69 @@
+---
+title: 난이도와 퍼포먼스
+index: 20
+---
+
+## 난이도
+
+**난이도**는 어떤 랜덤 마라톤의 코스에 어떤 문제가 추천되는지를 결정하는 중요한 요소입니다. 난이도는 $1$ 이상의 실수입니다.
+
+## 퍼포먼스
+
+**퍼포먼스**는 어떤 랜덤 마라톤에서 사용자가 얼마나 문제를 잘 해결했는지를 나타내는 지표입니다. 퍼포먼스는 $0$ 이상의 실수입니다.
+
+퍼포먼스는 셋에서 해결한 가장 어려운 문제의 난이도에 많은 영향을 받으며, 다음과 같은 공식으로 계산됩니다.
+
+$$
+\log_\alpha \max\left\{ 1, \sum_i \alpha^{D_i} \right\}
+$$
+
+- $D_i$: 해결한 문제가 랜덤 마라톤 문제로 추천된 시점의 난이도 값(<Tier t={1} />를 1점, <Tier t={2} />를 2점, &hellip; <Tier t={30} />을 30점).
+- $\alpha = 2.4$.
+
+## 초기 난이도
+
+초기 난이도는 사용자의 티어에 따라 결정됩니다. 티어가 높을수록 초기 난이도는 높아집니다.
+
+| 티어 | 아이콘 | V | IV | III | II | I |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <Master>Master</Master>| <Tier t={31}/> | 16.4 |
+| <Ruby>Ruby</Ruby> V &ndash; I | {new Array(5).fill(0).map((_, i) => <Tier key={i} t={i + 26}/>)} | 14.4 | 14.8 | 15.2 | 15.6 | 16.0 |
+| <Diamond>Diamond</Diamond> V &ndash; I | {new Array(5).fill(0).map((_, i) => <Tier key={i} t={i + 21}/>)} | 12.4 | 12.8 | 13.2 | 13.6 | 14.0 |
+| <Platinum>Platinum</Platinum> V &ndash; I | {new Array(5).fill(0).map((_, i) => <Tier key={i} t={i + 16}/>)} | 9.6 | 10.2 | 10.8 | 11.4 | 12.0 |
+| <Gold>Gold</Gold> V &ndash; I | {new Array(5).fill(0).map((_, i) => <Tier key={i} t={i + 11}/>)} | 5.8 | 6.6 | 7.4 | 8.2 | 9.0 |
+| <Silver>Silver</Silver> V &ndash; I | {new Array(5).fill(0).map((_, i) => <Tier key={i} t={i + 6}/>)} | 3.5 | 4.0 | 4.5 | 5.0 | 5.5 |
+| <Bronze>Bronze</Bronze> V &ndash; I | {new Array(5).fill(0).map((_, i) => <Tier key={i} t={i + 1}/>)} | 1.0 | 1.5 | 2.0 | 2.5 | 3.0 |
+| <Unrated>Unrated</Unrated>| <Tier t={0}/> | 1.0 | | | | |
+
+
+## 난이도 변동
+
+이전 셋의 퍼포먼스와 난이도에 따라 현재 셋의 난이도가 결정됩니다.
+
+이전 셋의 퍼포먼스가 이전 셋의 난이도보다 높다면, 현재 셋의 난이도는 이전 셋의 난이도보다 높아집니다. 반대로 이전 셋의 퍼포먼스가 이전 셋의 난이도보다 낮다면, 현재 셋의 난이도는 이전 셋의 난이도보다 낮아집니다.
+
+난이도는 다음과 같은 공식으로 계산됩니다.
+
+$$
+\begin{aligned}
+D &= \log_\alpha \max\left\{ 1, \lambda \sum_i \alpha^{D_i} + \left(1-\lambda\right) \alpha^{L_\textrm{prev}} \right\} - L_\textrm{prev} \\
+L_\textrm{curr}^\prime &= \begin{cases}
+    L_\textrm{prev} + \left| D \right| & \text{if } D \geq 0 \\
+    L_\textrm{prev} - 4\left| D \right| & \text{if } D <0 \\
+\end{cases} \\
+L_\textrm{curr} &= \max\left\{ L^\prime, R-5, 1 \right\} \\
+\end{aligned}
+$$
+
+- $L_\textrm{prev}$: 이전 셋의 난이도.
+- $L_\textrm{curr}$: 현재 셋의 난이도.
+- $L_\textrm{curr}^\prime$: 현재 셋의 난이도와 관련 있는 값.
+- $\lambda$: '문제 난이도 변동폭'에 따른 상수.
+  - '작게': $\lambda=0.008$.
+  - '보통': $\lambda=0.032$.
+  - '크게': $\lambda=0.128$.
+- $R$: 계산 시점 사용자의 티어에 따른 초기 랜덤 마라톤 난이도 값.
+- $D_i$: 이전 셋에서 해결한 문제가 랜덤 마라톤 문제로 추천된 시점의 난이도 값.
+- $\alpha = 2.4$.
+
+랜덤 마라톤에 계속 참여하지 않으면 $1$과 초기 티어 $-5$ 중 큰 값에 해당하는 난이도까지 낮아지며, 이보다 더 낮아지지는 않습니다.

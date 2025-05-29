@@ -1,10 +1,4 @@
-import {
-  getAllPostSlugs,
-  getAllPostSlugsInDirectory,
-  getFrontmatterBySlug,
-  POSTS_FOLDER_PATH,
-} from "@/utils/post";
-import path from "path";
+import { getAllPostSlugs, getFrontmatterBySlug } from "@/utils/post";
 import ClientPage from "./ClientPage";
 
 const Page = async ({ params }: { params: { lang: string } }) => {
