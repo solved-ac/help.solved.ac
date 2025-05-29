@@ -38,4 +38,9 @@ const Page = async ({ params }: { params: { lang: string } }) => {
   );
 };
 
+export function generateStaticParams() {
+  const langs = ["en", "ko"];
+  return langs.map((lang) => ({ lang }));
+}
+
 export default Page;
