@@ -1,4 +1,5 @@
 import {
+  getAllPostSlugs,
   getAllPostSlugsInDirectory,
   getFrontmatterBySlug,
   POSTS_FOLDER_PATH,
@@ -11,10 +12,9 @@ const Page = async ({ params }: { params: { lang: string } }) => {
 
   const perPage = 10;
 
-  const slugs = await getAllPostSlugsInDirectory(
-    path.join(POSTS_FOLDER_PATH, lang, "updates"),
-    `/${lang}/updates`
-  );
+  const allPosts = await getAllPostSlugs();
+  const UPDATES_SUBDIR_REGEX = new RegExp(`^/${lang}/updates(/.*)?$`);
+  const slugs = allPosts.filter((slug) => UPDATES_SUBDIR_REGEX.test(slug));
   const posts = await Promise.all(
     slugs
       .filter((x) => x !== `/${lang}/updates`)
