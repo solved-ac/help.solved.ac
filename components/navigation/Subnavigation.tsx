@@ -26,6 +26,8 @@ interface SubnavigationProps {
   path: string;
 }
 
+const UPDATES_REGEX = /^\/[a-z]{2}\/updates$/;
+
 const Subnavigation = (props: SubnavigationProps) => {
   const path = usePathname();
 
@@ -33,7 +35,7 @@ const Subnavigation = (props: SubnavigationProps) => {
   const active = isPrefixPath(props.path, path);
   const activeOrOpen = active || open;
 
-  if (props.item.type === "guide") {
+  if (props.item.type === "guide" || UPDATES_REGEX.test(props.path)) {
     return <SubnavigationItem item={props.item} path={props.item.key} />;
   }
 

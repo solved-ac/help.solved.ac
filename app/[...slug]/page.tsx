@@ -1,9 +1,7 @@
-import ContentHeading1 from "@/components/mdx/ContentHeading1";
 import HeadingWithLanguageSelector from "@/components/mdx/HeadingWithLanguageSelector";
 import MDXRenderer from "@/components/mdx/MDXRenderer";
 import { getAllPostSlugs, getPostBySlug } from "@/utils/post";
 import { Metadata } from "next";
-import { title } from "process";
 
 interface Params {
   slug: string[];
@@ -32,11 +30,10 @@ const Page = async ({ params }: Props) => {
     return (
       <>
         <HeadingWithLanguageSelector
+          meta={meta}
           languages={postAllLanguages}
           current={slug[0]}
-        >
-          {meta.title}
-        </HeadingWithLanguageSelector>
+        />
         <MDXRenderer {...serialized} />
       </>
     );

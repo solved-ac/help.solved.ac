@@ -29,32 +29,55 @@ export const readPostFileContent = async (slug: string) => {
   return fileContent;
 };
 
+export interface PostFrontmatter {
+  title?: string | undefined;
+  date?: Date | null | undefined;
+  index?: number | undefined;
+}
+
+export interface PostMeta {
+  title: string;
+  index: number;
+  date: Date | null;
+  slug: string;
+}
+
 export const getPostBySlug = async (slug: string) => {
   const fileSlug = slug.replace(/\.mdx$/, "");
   const fileContent = await readPostFileContent(fileSlug);
-  const serialized = await serialize(fileContent, {
-    parseFrontmatter: true,
-    mdxOptions: {
-      remarkPlugins: [remarkMath, remarkGfm],
-      rehypePlugins: [rehypeKatex],
-    },
-  });
+  const serialized = await serialize<Record<string, unknown>, PostFrontmatter>(
+    fileContent,
+    {
+      parseFrontmatter: true,
+      mdxOptions: {
+        remarkPlugins: [remarkMath, remarkGfm],
+        rehypePlugins: [rehypeKatex],
+      },
+    }
+  );
   const { frontmatter } = serialized;
 
   return {
-    meta: { title: "solved.ac Help", index: 0, ...frontmatter, slug: fileSlug },
+    meta: {
+      title: "solved.ac Help",
+      index: 0,
+      date: null,
+      ...frontmatter,
+      slug: fileSlug,
+    } satisfies PostMeta,
     serialized,
   };
 };
 
-export const getFrontmatterBySlug = async (slug: string) => {
+export const getFrontmatterBySlug = async (slug: string): Promise<PostMeta> => {
   try {
     const post = await getPostBySlug(slug);
     return post.meta;
   } catch (e) {
     return {
       slug,
-      title: null,
+      title: "",
+      date: null,
       index: 0,
     };
   }
@@ -126,6 +149,7 @@ export const getGuidemapInDirectory = async (
     key: fm.slug,
     title: fm.title,
     index: fm.index ?? 0,
+    date: fm.date ?? null,
     type: "guide" as const,
   }));
 
@@ -156,6 +180,11 @@ export const getGuidemapInDirectory = async (
 
   const sortedGuides = [...nonIndexGuides, ...subdirectoryGuides].sort(
     (a, b) => {
+      if (a.date && b.date) {
+        return new Date(a.date).getTime() - new Date(b.date).getTime();
+      }
+      if (a.date) return -1;
+      if (b.date) return 1;
       if (a.index !== b.index) return a.index - b.index;
       return (a.title || a.key).localeCompare(b.title || b.key);
     }
@@ -165,6 +194,7 @@ export const getGuidemapInDirectory = async (
     key: prefix,
     title: indexGuide?.title ?? null,
     index: indexGuide?.index ?? 0,
+    date: indexGuide?.date ?? null,
     guides: sortedGuides,
     type: "category" as const,
   };

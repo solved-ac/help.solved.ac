@@ -1,9 +1,10 @@
 "use client";
 
+import { PostFrontmatter } from "@/utils/post";
 import { useTheme } from "@emotion/react";
 import styled from "@emotion/styled";
 import { Typo } from "@solved-ac/ui-react";
-import { IconMessageLanguage } from "@tabler/icons-react";
+import { IconCalendar, IconMessageLanguage } from "@tabler/icons-react";
 import Link from "next/link";
 import { PropsWithChildren } from "react";
 
@@ -13,6 +14,7 @@ interface Language {
 }
 
 interface Props {
+  meta: PostFrontmatter;
   current: string;
   languages: Language[];
 }
@@ -26,6 +28,7 @@ const ContentHeading1Background = styled.div`
   padding-top: 64px;
   border-bottom: ${({ theme }) => theme.styles.border()};
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
   gap: 8px;
@@ -35,6 +38,12 @@ const ContentHeading1Background = styled.div`
     align-items: flex-start;
     gap: 4px;
   }
+`;
+
+const ContentTitleContainer = styled.div`
+  display: flex;
+  flex-direction: column;
+  padding: 16px 0;
 `;
 
 const LanguagesRow = styled.div`
@@ -49,15 +58,37 @@ const LanguageLink = styled(Link)`
 `;
 
 const HeadingWithLanguageSelector = ({
-  children,
+  meta,
   languages,
   current,
 }: PropsWithChildren<Props>) => {
   const theme = useTheme();
+  const { title, date } = meta;
 
   return (
     <ContentHeading1Background>
-      <Typo h1>{children}</Typo>
+      <ContentTitleContainer>
+        <Typo h1 no-margin>
+          {title}
+        </Typo>
+        {date && (
+          <Typo
+            description
+            style={{
+              display: "flex",
+              alignItems: "center",
+              gap: "4px",
+            }}
+          >
+            <IconCalendar />{" "}
+            {date.toLocaleDateString(current, {
+              year: "numeric",
+              month: "long",
+              day: "numeric",
+            })}
+          </Typo>
+        )}
+      </ContentTitleContainer>
       <div style={{ flexGrow: 1 }} />
       {languages.length > 1 && (
         <LanguagesRow>
