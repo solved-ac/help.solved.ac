@@ -36,7 +36,5 @@
     "remark-math": "^5.1.1",
     "typescript": "5.1.6"
   },
-  "devDependencies": {
-    "tsx": "^4.19.4"
-  }
+  "devDependencies": {}
 }
