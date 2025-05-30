@@ -1,5 +1,6 @@
 import { getAllPostSlugs, getFrontmatterBySlug } from "@/utils/post";
 import ClientPage from "./ClientPage";
+import { generateUpdatesList } from "@/scripts/generate_updates_list";
 
 const Page = async ({ params }: { params: { lang: string } }) => {
   const { lang } = params;
@@ -32,7 +33,13 @@ const Page = async ({ params }: { params: { lang: string } }) => {
   );
 };
 
-export function generateStaticParams() {
+export async function generateStaticParams() {
+  // XXX: Workaround to achieve similar behavior to `instrumentation`
+  // without using Next 15, since it will break the current
+  // implementation of MDX parsing.
+  // https://nextjs.org/docs/app/guides/instrumentation
+  await generateUpdatesList();
+
   const langs = ["en", "ko"];
   return langs.map((lang) => ({ lang }));
 }
