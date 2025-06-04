@@ -3,6 +3,12 @@
     "lang": "en",
     "posts": [
       {
+        "title": "If Your Streak Didn't Continue Even After Solving a Problem",
+        "index": 0,
+        "date": "2025-06-04T00:00:00.000Z",
+        "slug": "/en/updates/250604"
+      },
+      {
         "title": "Streak Repair Granted",
         "index": 0,
         "date": "2025-05-22T00:00:00.000Z",
@@ -19,6 +25,12 @@
   {
     "lang": "ko",
     "posts": [
+      {
+        "title": "문제를 풀었는데도 스트릭이 이어지지 않았다면",
+        "index": 0,
+        "date": "2025-06-04T00:00:00.000Z",
+        "slug": "/ko/updates/250604"
+      },
       {
         "title": "스트릭 리페어 지급",
         "index": 0,
