@@ -3,6 +3,12 @@
     "lang": "en",
     "posts": [
       {
+        "title": "Season 5 Update",
+        "index": 0,
+        "date": "2025-06-06T00:00:00.000Z",
+        "slug": "/en/updates/250606"
+      },
+      {
         "title": "If Your Streak Didn't Continue Even After Solving a Problem",
         "index": 0,
         "date": "2025-06-04T00:00:00.000Z",
@@ -25,6 +31,12 @@
   {
     "lang": "ko",
     "posts": [
+      {
+        "title": "시즌 5 업데이트",
+        "index": 0,
+        "date": "2025-06-06T00:00:00.000Z",
+        "slug": "/ko/updates/250606"
+      },
       {
         "title": "문제를 풀었는데도 스트릭이 이어지지 않았다면",
         "index": 0,
