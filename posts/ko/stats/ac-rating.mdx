@@ -30,7 +30,7 @@ $$
 \begin{aligned}
 \left(\text{AC 레이팅}\right) &= \left(\text{해결한 난이도 상위 }100\text{문제의 난이도 값의 합}\right) \\
 &+  \left(\text{CLASS에 따른 보너스 레이팅}\right) \\
-&+  \left\lfloor 175\times \left(1-0.995^{\left(\text{해결한 문제 수}\right)}\right) \right\rceil \\ 
+&+  \left\lfloor 2000\times \left(1-0.997^{\left(\text{해결한 문제 수}\right)}\right) \right\rceil \\ 
 &+  \left\lfloor 25\times \left(1-0.9^{\left(\text{기여 수}\right)}\right) \right\rceil
 \end{aligned}
 $$
@@ -42,7 +42,7 @@ $\left\lfloor x \right\rceil$는 $x$를 정수로 반올림함을 의미합니�
     - 참고: 가이드 [「문제 난이도」](/ko/problem/level)
 - CLASS 등급에 따라 보너스 레이팅을 받을 수 있습니다.
     - 참고: 가이드 [「CLASS」](/ko/stats/class)
-- 해결한 문제 수에 따라 보너스 레이팅을 최대 175까지 받을 수 있습니다.
+- 해결한 문제 수에 따라 보너스 레이팅을 최대 200까지 받을 수 있습니다.
     - 해결한 문제 수는 백준 온라인 저지에서 '번외'로 표시된 문제들과 <Tier t={0} locked /> 문제들을 제외합니다.
 - 기여 수에 따라 보너스 레이팅을 최대 25까지 받을 수 있습니다.
     - 난이도 계산에 반영된 기여들만 기여 수에 적용됩니다.
@@ -69,17 +69,19 @@ $\left\lfloor x \right\rceil$는 $x$를 정수로 반올림함을 의미합니�
 
 또한, 해결한 문제 수에 따라 보너스 레이팅을 받을 수 있습니다.
 
-- 해결한 문제 수에 따라 $\left\lfloor 175\times \left(1-0.995^{\left(\text{푼 문제 수}\right)}\right) \right\rceil$의 보너스 레이팅이 합산됩니다.
-- 해결한 문제 수가 1,169문제 이상이라면 보너스 레이팅은 만점이 됩니다.
+- 해결한 문제 수에 따라 $\left\lfloor 200\times \left(1-0.997^{\left(\text{푼 문제 수}\right)}\right) \right\rceil$의 보너스 레이팅이 합산됩니다.
+- 해결한 문제 수가 1,995문제 이상이라면 보너스 레이팅은 만점이 됩니다.
 
 | 해결한 문제 수 | 보너스 레이팅 |
 |:---:|:---:|
-| 10 | 9 |
-| 50 | 39 |
-| 100 | 69 | 
-| 250 | 125 | 
-| 500 | 161 |
-| 1,169 | 175 |
+| 10 | 6 |
+| 50 | 28 |
+| 100 | 52 | 
+| 250 | 106 | 
+| 500 | 155 |
+| 1,000 | 190 |
+| 1,500 | 198 |
+| 1,995 | 200 |
 
 ### 2. CLASS 취득
 
