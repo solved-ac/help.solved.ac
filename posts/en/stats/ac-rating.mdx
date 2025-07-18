@@ -28,7 +28,7 @@ $$
 \begin{aligned}
 \left(\text{AC Rating}\right) &= \left(\text{Sum of the difficulty values of the top 100 solved problems}\right) \\
 &+  \left(\text{Bonus rating based on CLASS}\right) \\
-&+  \left\lfloor 175\times \left(1-0.995^{\left(\text{Number of solved problems}\right)}\right) \right\rceil \\
+&+  \left\lfloor 200\times \left(1-0.997^{\left(\text{Number of solved problems}\right)}\right) \right\rceil \\
 &+  \left\lfloor 25\times \left(1-0.9^{\left(\text{Contribution}\right)}\right) \right\rceil
 \end{aligned}
 $$
@@ -40,7 +40,7 @@ $\left\lfloor x \right\rceil$ means rounding $x$ to an integer.
     - Reference: Guide [**Problem Level**](/en/problem/level)
 - You can receive bonus ratings based on CLASS grades.
     - Reference: Guide [**CLASS**](/en/stats/class)
-- You can receive up to 175 bonus ratings based on the number of problems solved.
+- You can receive up to 200 bonus ratings based on the number of problems solved.
     - The number of problems solved excludes problems marked as 'Extra' and <Tier t={0} locked /> problems on Baekjoon Online Judge.
 - You can receive up to 25 bonus ratings based on the contribution.
     - Only contributions reflected in the difficulty calculation are applied to the contribution.
@@ -67,17 +67,19 @@ The most difficult 100 problems you have solved will be reflected in your rating
 
 Also, you can receive bonus ratings based on the number of problems solved.
 
-- The bonus rating is the sum of $\left\lfloor 175\times \left(1-0.995^{\left(\text{number of solved problems}\right)}\right) \right\rceil$.
-- If you have solved 1,169 problems or more, the bonus rating will be the maximum.
+- The bonus rating is the sum of $\left\lfloor 200\times \left(1-0.997^{\left(\text{number of solved problems}\right)}\right) \right\rceil$.
+- If you have solved 1,995 problems or more, the bonus rating will be the maximum.
 
 | # of solved problems | Bonus rating |
 |:---:|:---:|
-| 10 | 9 |
-| 50 | 39 |
-| 100 | 69 |
-| 250 | 125 |
-| 500 | 161 |
-| 1,169 | 175 |
+| 10 | 6 |
+| 50 | 28 |
+| 100 | 52 | 
+| 250 | 106 | 
+| 500 | 155 |
+| 1,000 | 190 |
+| 1,500 | 198 |
+| 1,995 | 200 |
 
 ### 2. CLASS Acquisition
 
