@@ -3,6 +3,12 @@
     "lang": "en",
     "posts": [
       {
+        "title": "Free Access and Resale of the solved.ac Pro Subscription",
+        "index": 0,
+        "date": "2025-09-30T00:00:00.000Z",
+        "slug": "/en/updates/250930"
+      },
+      {
         "title": "Season 5 Update",
         "index": 0,
         "date": "2025-06-06T00:00:00.000Z",
@@ -31,6 +37,12 @@
   {
     "lang": "ko",
     "posts": [
+      {
+        "title": "솔브드 프로 플랜 무료화 및 재판매 안내",
+        "index": 0,
+        "date": "2025-09-30T00:00:00.000Z",
+        "slug": "/ko/updates/250930"
+      },
       {
         "title": "〈소스 코드 윤리〉 규칙 개정 안내",
         "index": 0,
