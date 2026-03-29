@@ -1,0 +1,601 @@
+0:["811d4l7rl6OMmGBaqA-14",[[["",{"children":[["slug","en/stats/over-rating","c"],{"children":["__PAGE__?{\"slug\":[\"en\",\"stats\",\"over-rating\"]}",{}]}]},"$undefined","$undefined",true],"$L1",[[],"$L2"]]]]
+1:["$L3",null]
+2:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"Over Rating - solved.ac Help"}],["$","meta","2",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","3",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","4",{"property":"og:title","content":"solved.ac Help"}],["$","meta","5",{"property":"og:description","content":"Help documentation for solved.ac"}],["$","meta","6",{"property":"og:url","content":"https://help.solved.ac"}],["$","meta","7",{"property":"og:type","content":"website"}],["$","meta","8",{"name":"twitter:card","content":"summary"}],["$","meta","9",{"name":"twitter:title","content":"solved.ac Help"}],["$","meta","10",{"name":"twitter:description","content":"Help documentation for solved.ac"}],["$","link","11",{"rel":"icon","href":"/favicon.ico"}]]
+4:I{"id":5492,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-09ce8cabc4be0c1b.js","53:static/chunks/53-be5a946ce063c9c6.js","333:static/chunks/333-b3b151d2a8272c8e.js","185:static/chunks/app/layout-c46ac39e6cda06cb.js"],"name":"","async":false}
+5:I{"id":8175,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-09ce8cabc4be0c1b.js","53:static/chunks/53-be5a946ce063c9c6.js","333:static/chunks/333-b3b151d2a8272c8e.js","185:static/chunks/app/layout-c46ac39e6cda06cb.js"],"name":"","async":false}
+6:I{"id":483,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-09ce8cabc4be0c1b.js","53:static/chunks/53-be5a946ce063c9c6.js","333:static/chunks/333-b3b151d2a8272c8e.js","185:static/chunks/app/layout-c46ac39e6cda06cb.js"],"name":"","async":false}
+7:I{"id":7767,"chunks":["272:static/chunks/webpack-a8ba63f2417b26c7.js","971:static/chunks/fd9d1056-fe8c62b67ebb5281.js","596:static/chunks/596-9910d2cba943a1ec.js"],"name":"default","async":false}
+8:I{"id":7920,"chunks":["272:static/chunks/webpack-a8ba63f2417b26c7.js","971:static/chunks/fd9d1056-fe8c62b67ebb5281.js","596:static/chunks/596-9910d2cba943a1ec.js"],"name":"default","async":false}
+3:["$","html",null,{"lang":"ko","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=JetBrains+Mono:ital,wght@0,400;0,700;1,400;1,700&family=Oxanium:wght@400;700&display=swap","rel":"stylesheet"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,700&display=swap"}],["$","link",null,{"rel":"stylesheet","href":"https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-dynamic-subset.css"}],["$","link",null,{"rel":"stylesheet","href":"https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.css","crossOrigin":"anonymous"}]]}],["$","body",null,{"children":["$","$L4",null,{"breadcrumbsComponent":["$","$L5",null,{"guidemap":{"key":"","title":null,"index":0,"date":null,"guides":[{"key":"/en","title":null,"index":0,"date":null,"guides":[{"key":"/en/getting-started","title":"Getting Started","index":0,"date":null,"guides":[{"key":"/en/getting-started/link-account","title":"Creating an Account","index":1,"date":null,"type":"guide"},{"key":"/en/getting-started/boj","title":"Registering to BOJ","index":2,"date":null,"type":"guide"}],"type":"category"},{"key":"/en/stats","title":"Stats","index":1,"date":null,"guides":[{"key":"/en/stats/profile","title":"Profile","index":0,"date":null,"type":"guide"},{"key":"/en/stats/ac-rating","title":"Tiers and AC Rating","index":10,"date":null,"type":"guide"},{"key":"/en/stats/class","title":"Class","index":20,"date":null,"type":"guide"},{"key":"/en/stats/tag-rating","title":"Tag Rating","index":30,"date":null,"type":"guide"},{"key":"/en/stats/over-rating","title":"Over Rating","index":40,"date":null,"type":"guide"}],"type":"category"},{"key":"/en/problem","title":"Problems","index":2,"date":null,"guides":[{"key":"/en/problem/level","title":"Problem Level","index":10,"date":null,"type":"guide"},{"key":"/en/problem/level-unusual","title":"Special Cases of Problem Levels","index":20,"date":null,"type":"guide"},{"key":"/en/problem/tag","title":"Tags","index":30,"date":null,"type":"guide"}],"type":"category"},{"key":"/en/items","title":"Items","index":12,"date":null,"guides":[{"key":"/en/items/streak-repair","title":"Streak Repair","index":100,"date":null,"type":"guide"}],"type":"category"},{"key":"/en/arena","title":"Arena (legacy)","index":99,"date":null,"guides":[{"key":"/en/arena/getting-started","title":"For Participants","index":0,"date":null,"guides":[{"key":"/en/arena/getting-started/link-account","title":"Register","index":0,"date":null,"type":"guide"}],"type":"category"}],"type":"category"},{"key":"/en/updates","title":"Updates","index":999,"date":null,"guides":[{"key":"/en/updates/250503","title":"New/Modified Tags and Updated Tag Application Rules","index":0,"date":"$D2025-05-03T00:00:00.000Z","type":"guide"},{"key":"/en/updates/250522","title":"Streak Repair Granted","index":0,"date":"$D2025-05-22T00:00:00.000Z","type":"guide"},{"key":"/en/updates/250604","title":"If Your Streak Didn't Continue Even After Solving a Problem","index":0,"date":"$D2025-06-04T00:00:00.000Z","type":"guide"},{"key":"/en/updates/250606","title":"Season 5 Update","index":0,"date":"$D2025-06-06T00:00:00.000Z","type":"guide"},{"key":"/en/updates/250930","title":"Free Access and Resale of the solved.ac Pro Subscription","index":0,"date":"$D2025-09-30T00:00:00.000Z","type":"guide"}],"type":"category"}],"type":"category"},{"key":"/ko","title":null,"index":0,"date":null,"guides":[{"key":"/ko/getting-started","title":"시작하기","index":0,"date":null,"guides":[{"key":"/ko/getting-started/link-account","title":"계정 만들기","index":1,"date":null,"type":"guide"}],"type":"category"},{"key":"/ko/stats","title":"스탯","index":1,"date":null,"guides":[{"key":"/ko/stats/profile","title":"프로필 조회하기","index":0,"date":null,"type":"guide"},{"key":"/ko/stats/ac-rating","title":"티어와 AC 레이팅","index":10,"date":null,"type":"guide"},{"key":"/ko/stats/class","title":"CLASS","index":20,"date":null,"type":"guide"},{"key":"/ko/stats/tag-rating","title":"태그 레이팅","index":30,"date":null,"type":"guide"},{"key":"/ko/stats/over-rating","title":"오버 레이팅","index":40,"date":null,"type":"guide"}],"type":"category"},{"key":"/ko/problem","title":"문제","index":2,"date":null,"guides":[{"key":"/ko/problem/level","title":"문제 난이도","index":10,"date":null,"type":"guide"},{"key":"/ko/problem/level-unusual","title":"특수한 경우의 문제 난이도","index":20,"date":null,"type":"guide"},{"key":"/ko/problem/tag","title":"태그","index":30,"date":null,"type":"guide"}],"type":"category"},{"key":"/ko/random-marathon","title":"랜덤 마라톤","index":11,"date":null,"guides":[{"key":"/ko/random-marathon/introduction","title":"랜덤 마라톤 소개","index":10,"date":null,"type":"guide"},{"key":"/ko/random-marathon/performance","title":"난이도와 퍼포먼스","index":20,"date":null,"type":"guide"}],"type":"category"},{"key":"/ko/items","title":"아이템","index":12,"date":null,"guides":[{"key":"/ko/items/streak-repair","title":"스트릭 리페어","index":100,"date":null,"type":"guide"}],"type":"category"},{"key":"/ko/updates","title":"업데이트","index":999,"date":null,"guides":[{"key":"/ko/updates/240530","title":"시즌 4 업데이트","index":0,"date":"$D2024-05-30T00:00:00.000Z","type":"guide"},{"key":"/ko/updates/240609","title":"랜덤 마라톤 개선","index":0,"date":"$D2024-06-09T00:00:00.000Z","type":"guide"},{"key":"/ko/updates/240618","title":"랜덤 마라톤 개선","index":0,"date":"$D2024-06-18T00:00:00.000Z","type":"guide"},{"key":"/ko/updates/240626","title":"랜덤 마라톤 개선","index":0,"date":"$D2024-06-26T00:00:00.000Z","type":"guide"},{"key":"/ko/updates/240627","title":"솔브드 서포터 신규 결제 일시중지 및 굿즈 샵 주문 관련 안내","index":0,"date":"$D2024-06-27T00:00:00.000Z","type":"guide"},{"key":"/ko/updates/240628","title":"서포터 프로그램의 프로 플랜으로의 전환 및 환불 관련 안내","index":0,"date":"$D2024-06-28T00:00:00.000Z","type":"guide"},{"key":"/ko/updates/240721","title":"굿즈 샵 재개 예정 및 기존 주문 배송 지연 안내","index":0,"date":"$D2024-07-21T00:00:00.000Z","type":"guide"},{"key":"/ko/updates/240723","title":"문제 오류 제보 기능","index":0,"date":"$D2024-07-23T00:00:00.000Z","type":"guide"},{"key":"/ko/updates/240808","title":"굿즈 샵 재개 및 기존 주문 배송 시기 안내","index":0,"date":"$D2024-08-08T00:00:00.000Z","type":"guide"},{"key":"/ko/updates/240824","title":"ICPC 월드 파이널 아스타나에서 solved.ac가 소개될 예정입니다","index":0,"date":"$D2024-08-24T00:00:00.000Z","type":"guide"},{"key":"/ko/updates/240914","title":"대회 문제 아카이브","index":0,"date":"$D2024-09-14T00:00:00.000Z","type":"guide"},{"key":"/ko/updates/241124","title":"X 자동 포스트 기능 제공 중단 예정","index":0,"date":"$D2024-11-24T00:00:00.000Z","type":"guide"},{"key":"/ko/updates/250223","title":"〈소스 코드 윤리〉 규칙 개정 안내","index":0,"date":"$D2025-02-23T00:00:00.000Z","type":"guide"},{"key":"/ko/updates/250225","title":"검색 히스토리 기능","index":0,"date":"$D2025-02-25T00:00:00.000Z","type":"guide"},{"key":"/ko/updates/250305","title":"솔브드의 폐업에 따른 안내","index":0,"date":"$D2025-03-05T00:00:00.000Z","type":"guide"},{"key":"/ko/updates/250306","title":"ICPCID 연동 및 서울 리저널 참가 해금 요소","index":0,"date":"$D2025-03-06T00:00:00.000Z","type":"guide"},{"key":"/ko/updates/250503","title":"태그 추가, 수정 및 태그 반영 공식 수정 안내","index":0,"date":"$D2025-05-03T00:00:00.000Z","type":"guide"},{"key":"/ko/updates/250522","title":"스트릭 리페어 지급","index":0,"date":"$D2025-05-22T00:00:00.000Z","type":"guide"},{"key":"/ko/updates/250604","title":"문제를 풀었는데도 스트릭이 이어지지 않았다면","index":0,"date":"$D2025-06-04T00:00:00.000Z","type":"guide"},{"key":"/ko/updates/250606","title":"시즌 5 업데이트","index":0,"date":"$D2025-06-06T00:00:00.000Z","type":"guide"},{"key":"/ko/updates/250606a","title":"2025년 6월 5-6일 서버 이슈","index":0,"date":"$D2025-06-06T00:00:00.000Z","type":"guide"},{"key":"/ko/updates/250610","title":"〈소스 코드 윤리〉 규칙 개정 안내","index":0,"date":"$D2025-06-10T00:00:00.000Z","type":"guide"},{"key":"/ko/updates/250930","title":"솔브드 프로 플랜 무료화 및 재판매 안내","index":0,"date":"$D2025-09-30T00:00:00.000Z","type":"guide"}],"type":"category"}],"type":"category"}],"type":"category"}}],"navigationComponent":["$","$L6",null,{"guidemap":{"key":"","title":null,"index":0,"date":null,"guides":[{"key":"/en","title":null,"index":0,"date":null,"guides":[{"key":"/en/getting-started","title":"Getting Started","index":0,"date":null,"guides":[{"key":"/en/getting-started/link-account","title":"Creating an Account","index":1,"date":null,"type":"guide"},{"key":"/en/getting-started/boj","title":"Registering to BOJ","index":2,"date":null,"type":"guide"}],"type":"category"},{"key":"/en/stats","title":"Stats","index":1,"date":null,"guides":[{"key":"/en/stats/profile","title":"Profile","index":0,"date":null,"type":"guide"},{"key":"/en/stats/ac-rating","title":"Tiers and AC Rating","index":10,"date":null,"type":"guide"},{"key":"/en/stats/class","title":"Class","index":20,"date":null,"type":"guide"},{"key":"/en/stats/tag-rating","title":"Tag Rating","index":30,"date":null,"type":"guide"},{"key":"/en/stats/over-rating","title":"Over Rating","index":40,"date":null,"type":"guide"}],"type":"category"},{"key":"/en/problem","title":"Problems","index":2,"date":null,"guides":[{"key":"/en/problem/level","title":"Problem Level","index":10,"date":null,"type":"guide"},{"key":"/en/problem/level-unusual","title":"Special Cases of Problem Levels","index":20,"date":null,"type":"guide"},{"key":"/en/problem/tag","title":"Tags","index":30,"date":null,"type":"guide"}],"type":"category"},{"key":"/en/items","title":"Items","index":12,"date":null,"guides":[{"key":"/en/items/streak-repair","title":"Streak Repair","index":100,"date":null,"type":"guide"}],"type":"category"},{"key":"/en/arena","title":"Arena (legacy)","index":99,"date":null,"guides":[{"key":"/en/arena/getting-started","title":"For Participants","index":0,"date":null,"guides":[{"key":"/en/arena/getting-started/link-account","title":"Register","index":0,"date":null,"type":"guide"}],"type":"category"}],"type":"category"},{"key":"/en/updates","title":"Updates","index":999,"date":null,"guides":[{"key":"/en/updates/250503","title":"New/Modified Tags and Updated Tag Application Rules","index":0,"date":"$D2025-05-03T00:00:00.000Z","type":"guide"},{"key":"/en/updates/250522","title":"Streak Repair Granted","index":0,"date":"$D2025-05-22T00:00:00.000Z","type":"guide"},{"key":"/en/updates/250604","title":"If Your Streak Didn't Continue Even After Solving a Problem","index":0,"date":"$D2025-06-04T00:00:00.000Z","type":"guide"},{"key":"/en/updates/250606","title":"Season 5 Update","index":0,"date":"$D2025-06-06T00:00:00.000Z","type":"guide"},{"key":"/en/updates/250930","title":"Free Access and Resale of the solved.ac Pro Subscription","index":0,"date":"$D2025-09-30T00:00:00.000Z","type":"guide"}],"type":"category"}],"type":"category"},{"key":"/ko","title":null,"index":0,"date":null,"guides":[{"key":"/ko/getting-started","title":"시작하기","index":0,"date":null,"guides":[{"key":"/ko/getting-started/link-account","title":"계정 만들기","index":1,"date":null,"type":"guide"}],"type":"category"},{"key":"/ko/stats","title":"스탯","index":1,"date":null,"guides":[{"key":"/ko/stats/profile","title":"프로필 조회하기","index":0,"date":null,"type":"guide"},{"key":"/ko/stats/ac-rating","title":"티어와 AC 레이팅","index":10,"date":null,"type":"guide"},{"key":"/ko/stats/class","title":"CLASS","index":20,"date":null,"type":"guide"},{"key":"/ko/stats/tag-rating","title":"태그 레이팅","index":30,"date":null,"type":"guide"},{"key":"/ko/stats/over-rating","title":"오버 레이팅","index":40,"date":null,"type":"guide"}],"type":"category"},{"key":"/ko/problem","title":"문제","index":2,"date":null,"guides":[{"key":"/ko/problem/level","title":"문제 난이도","index":10,"date":null,"type":"guide"},{"key":"/ko/problem/level-unusual","title":"특수한 경우의 문제 난이도","index":20,"date":null,"type":"guide"},{"key":"/ko/problem/tag","title":"태그","index":30,"date":null,"type":"guide"}],"type":"category"},{"key":"/ko/random-marathon","title":"랜덤 마라톤","index":11,"date":null,"guides":[{"key":"/ko/random-marathon/introduction","title":"랜덤 마라톤 소개","index":10,"date":null,"type":"guide"},{"key":"/ko/random-marathon/performance","title":"난이도와 퍼포먼스","index":20,"date":null,"type":"guide"}],"type":"category"},{"key":"/ko/items","title":"아이템","index":12,"date":null,"guides":[{"key":"/ko/items/streak-repair","title":"스트릭 리페어","index":100,"date":null,"type":"guide"}],"type":"category"},{"key":"/ko/updates","title":"업데이트","index":999,"date":null,"guides":[{"key":"/ko/updates/240530","title":"시즌 4 업데이트","index":0,"date":"$D2024-05-30T00:00:00.000Z","type":"guide"},{"key":"/ko/updates/240609","title":"랜덤 마라톤 개선","index":0,"date":"$D2024-06-09T00:00:00.000Z","type":"guide"},{"key":"/ko/updates/240618","title":"랜덤 마라톤 개선","index":0,"date":"$D2024-06-18T00:00:00.000Z","type":"guide"},{"key":"/ko/updates/240626","title":"랜덤 마라톤 개선","index":0,"date":"$D2024-06-26T00:00:00.000Z","type":"guide"},{"key":"/ko/updates/240627","title":"솔브드 서포터 신규 결제 일시중지 및 굿즈 샵 주문 관련 안내","index":0,"date":"$D2024-06-27T00:00:00.000Z","type":"guide"},{"key":"/ko/updates/240628","title":"서포터 프로그램의 프로 플랜으로의 전환 및 환불 관련 안내","index":0,"date":"$D2024-06-28T00:00:00.000Z","type":"guide"},{"key":"/ko/updates/240721","title":"굿즈 샵 재개 예정 및 기존 주문 배송 지연 안내","index":0,"date":"$D2024-07-21T00:00:00.000Z","type":"guide"},{"key":"/ko/updates/240723","title":"문제 오류 제보 기능","index":0,"date":"$D2024-07-23T00:00:00.000Z","type":"guide"},{"key":"/ko/updates/240808","title":"굿즈 샵 재개 및 기존 주문 배송 시기 안내","index":0,"date":"$D2024-08-08T00:00:00.000Z","type":"guide"},{"key":"/ko/updates/240824","title":"ICPC 월드 파이널 아스타나에서 solved.ac가 소개될 예정입니다","index":0,"date":"$D2024-08-24T00:00:00.000Z","type":"guide"},{"key":"/ko/updates/240914","title":"대회 문제 아카이브","index":0,"date":"$D2024-09-14T00:00:00.000Z","type":"guide"},{"key":"/ko/updates/241124","title":"X 자동 포스트 기능 제공 중단 예정","index":0,"date":"$D2024-11-24T00:00:00.000Z","type":"guide"},{"key":"/ko/updates/250223","title":"〈소스 코드 윤리〉 규칙 개정 안내","index":0,"date":"$D2025-02-23T00:00:00.000Z","type":"guide"},{"key":"/ko/updates/250225","title":"검색 히스토리 기능","index":0,"date":"$D2025-02-25T00:00:00.000Z","type":"guide"},{"key":"/ko/updates/250305","title":"솔브드의 폐업에 따른 안내","index":0,"date":"$D2025-03-05T00:00:00.000Z","type":"guide"},{"key":"/ko/updates/250306","title":"ICPCID 연동 및 서울 리저널 참가 해금 요소","index":0,"date":"$D2025-03-06T00:00:00.000Z","type":"guide"},{"key":"/ko/updates/250503","title":"태그 추가, 수정 및 태그 반영 공식 수정 안내","index":0,"date":"$D2025-05-03T00:00:00.000Z","type":"guide"},{"key":"/ko/updates/250522","title":"스트릭 리페어 지급","index":0,"date":"$D2025-05-22T00:00:00.000Z","type":"guide"},{"key":"/ko/updates/250604","title":"문제를 풀었는데도 스트릭이 이어지지 않았다면","index":0,"date":"$D2025-06-04T00:00:00.000Z","type":"guide"},{"key":"/ko/updates/250606","title":"시즌 5 업데이트","index":0,"date":"$D2025-06-06T00:00:00.000Z","type":"guide"},{"key":"/ko/updates/250606a","title":"2025년 6월 5-6일 서버 이슈","index":0,"date":"$D2025-06-06T00:00:00.000Z","type":"guide"},{"key":"/ko/updates/250610","title":"〈소스 코드 윤리〉 규칙 개정 안내","index":0,"date":"$D2025-06-10T00:00:00.000Z","type":"guide"},{"key":"/ko/updates/250930","title":"솔브드 프로 플랜 무료화 및 재판매 안내","index":0,"date":"$D2025-09-30T00:00:00.000Z","type":"guide"}],"type":"category"}],"type":"category"}],"type":"category"}}],"children":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$","$L7",null,{"parallelRouterKey":"children","segmentPath":["children",["slug","en/stats/over-rating","c"],"children"],"error":"$undefined","errorStyles":"$undefined","loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"template":["$","$L8",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":["$L9",null],"segment":"__PAGE__?{\"slug\":[\"en\",\"stats\",\"over-rating\"]}"},"styles":[]}],"segment":["slug","en/stats/over-rating","c"]},"styles":[]}]}]}]]}]
+a:I{"id":5657,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-09ce8cabc4be0c1b.js","53:static/chunks/53-be5a946ce063c9c6.js","877:static/chunks/app/[...slug]/page-6a0a36a5b92aa1d9.js"],"name":"","async":false}
+b:I{"id":8529,"chunks":["384:static/chunks/cebd11e7-ae64264b7c95446f.js","294:static/chunks/07604fba-e99708f4b5616da8.js","773:static/chunks/6df310fe-09ce8cabc4be0c1b.js","53:static/chunks/53-be5a946ce063c9c6.js","877:static/chunks/app/[...slug]/page-6a0a36a5b92aa1d9.js"],"name":"","async":false}
+c:T6775,/*@jsxRuntime automatic @jsxImportSource react*/
+const {Fragment: _Fragment, jsx: _jsx, jsxs: _jsxs} = arguments[0];
+const {useMDXComponents: _provideComponents} = arguments[0];
+function _createMdxContent(props) {
+  const _components = Object.assign({
+    p: "p",
+    strong: "strong",
+    a: "a",
+    h2: "h2",
+    img: "img",
+    div: "div",
+    span: "span",
+    math: "math",
+    semantics: "semantics",
+    mtable: "mtable",
+    mtr: "mtr",
+    mtd: "mtd",
+    mstyle: "mstyle",
+    mrow: "mrow",
+    mo: "mo",
+    mtext: "mtext",
+    mn: "mn",
+    annotation: "annotation",
+    ul: "ul",
+    li: "li",
+    table: "table",
+    thead: "thead",
+    tr: "tr",
+    th: "th",
+    tbody: "tbody",
+    td: "td"
+  }, _provideComponents(), props.components), {Tier} = _components;
+  if (!Tier) _missingMdxReference("Tier", true);
+  return _jsxs(_Fragment, {
+    children: [_jsxs(_components.p, {
+      children: [_jsx(_components.strong, {
+        children: "Over Rating"
+      }), " is a rating calculated based on more problems than the ", _jsx(_components.a, {
+        href: "/en/stats/ac-rating",
+        children: "AC Rating"
+      }), ", and rises as you solve more difficult problems on Baekjoon Online Judge. The 1,000 most difficult problems you have solved are reflected in your rating."]
+    }), "\n", _jsx(_components.h2, {
+      children: "Checking Over Rating"
+    }), "\n", _jsxs(_components.p, {
+      children: ["You can check the Over Rating at the bottom of the ", _jsx(_components.strong, {
+        children: "AC Rating"
+      }), " section on your profile page."]
+    }), "\n", _jsx(_components.p, {
+      children: _jsx(_components.img, {
+        src: "/stats/over-rating-card-en.png",
+        alt: "Over Rating card on the profile page"
+      })
+    }), "\n", _jsx(_components.h2, {
+      children: "Formula"
+    }), "\n", _jsx(_components.p, {
+      children: "The Over Rating is determined by the following formula:"
+    }), "\n", _jsx(_components.div, {
+      className: "math math-display",
+      children: _jsx(_components.span, {
+        className: "katex-display",
+        children: _jsxs(_components.span, {
+          className: "katex",
+          children: [_jsx(_components.span, {
+            className: "katex-mathml",
+            children: _jsx(_components.math, {
+              xmlns: "http://www.w3.org/1998/Math/MathML",
+              display: "block",
+              children: _jsxs(_components.semantics, {
+                children: [_jsxs(_components.mtable, {
+                  rowspacing: "0.25em",
+                  columnalign: "right left",
+                  columnspacing: "0em",
+                  children: [_jsxs(_components.mtr, {
+                    children: [_jsx(_components.mtd, {
+                      children: _jsx(_components.mstyle, {
+                        scriptlevel: "0",
+                        displaystyle: "true",
+                        children: _jsxs(_components.mrow, {
+                          children: [_jsx(_components.mo, {
+                            fence: "true",
+                            children: "("
+                          }), _jsx(_components.mtext, {
+                            children: "Over Rating"
+                          }), _jsx(_components.mo, {
+                            fence: "true",
+                            children: ")"
+                          })]
+                        })
+                      })
+                    }), _jsx(_components.mtd, {
+                      children: _jsx(_components.mstyle, {
+                        scriptlevel: "0",
+                        displaystyle: "true",
+                        children: _jsxs(_components.mrow, {
+                          children: [_jsx(_components.mrow, {}), _jsx(_components.mo, {
+                            children: "="
+                          }), _jsx(_components.mn, {
+                            children: "11.8"
+                          }), _jsx(_components.mo, {
+                            children: "×"
+                          }), _jsxs(_components.mrow, {
+                            children: [_jsx(_components.mo, {
+                              fence: "true",
+                              children: "("
+                            }), _jsx(_components.mtext, {
+                              children: "Number of solved problems (up to "
+                            }), _jsx(_components.mn, {
+                              children: "1"
+                            }), _jsx(_components.mtext, {
+                              children: " "
+                            }), _jsx(_components.mn, {
+                              children: "000"
+                            }), _jsx(_components.mtext, {
+                              children: ")"
+                            }), _jsx(_components.mo, {
+                              fence: "true",
+                              children: ")"
+                            })]
+                          })]
+                        })
+                      })
+                    })]
+                  }), _jsxs(_components.mtr, {
+                    children: [_jsx(_components.mtd, {
+                      children: _jsx(_components.mstyle, {
+                        scriptlevel: "0",
+                        displaystyle: "true",
+                        children: _jsx(_components.mrow, {})
+                      })
+                    }), _jsx(_components.mtd, {
+                      children: _jsx(_components.mstyle, {
+                        scriptlevel: "0",
+                        displaystyle: "true",
+                        children: _jsxs(_components.mrow, {
+                          children: [_jsx(_components.mrow, {}), _jsx(_components.mo, {
+                            children: "+"
+                          }), _jsx(_components.mn, {
+                            children: "0.2"
+                          }), _jsx(_components.mo, {
+                            children: "×"
+                          }), _jsxs(_components.mrow, {
+                            children: [_jsx(_components.mo, {
+                              fence: "true",
+                              children: "("
+                            }), _jsx(_components.mtext, {
+                              children: "Sum of the difficulty values of the top "
+                            }), _jsx(_components.mn, {
+                              children: "1"
+                            }), _jsx(_components.mtext, {
+                              children: " "
+                            }), _jsx(_components.mn, {
+                              children: "000"
+                            }), _jsx(_components.mtext, {
+                              children: " solved problems"
+                            }), _jsx(_components.mo, {
+                              fence: "true",
+                              children: ")"
+                            })]
+                          })]
+                        })
+                      })
+                    })]
+                  })]
+                }), _jsx(_components.annotation, {
+                  encoding: "application/x-tex",
+                  children: "\\begin{aligned}\n\\left(\\text{Over Rating}\\right) &= 11.8 \\times \\left(\\text{Number of solved problems (up to }1\\,000\\text{)}\\right) \\\\\n&+ 0.2 \\times \\left(\\text{Sum of the difficulty values of the top }1\\,000\\text{ solved problems}\\right)\n\\end{aligned}"
+                })]
+              })
+            })
+          }), _jsx(_components.span, {
+            className: "katex-html",
+            "aria-hidden": "true",
+            children: _jsxs(_components.span, {
+              className: "base",
+              children: [_jsx(_components.span, {
+                className: "strut",
+                style: {
+                  height: "3em",
+                  verticalAlign: "-1.25em"
+                }
+              }), _jsx(_components.span, {
+                className: "mord",
+                children: _jsxs(_components.span, {
+                  className: "mtable",
+                  children: [_jsx(_components.span, {
+                    className: "col-align-r",
+                    children: _jsxs(_components.span, {
+                      className: "vlist-t vlist-t2",
+                      children: [_jsxs(_components.span, {
+                        className: "vlist-r",
+                        children: [_jsxs(_components.span, {
+                          className: "vlist",
+                          style: {
+                            height: "1.75em"
+                          },
+                          children: [_jsxs(_components.span, {
+                            style: {
+                              top: "-3.91em"
+                            },
+                            children: [_jsx(_components.span, {
+                              className: "pstrut",
+                              style: {
+                                height: "3em"
+                              }
+                            }), _jsx(_components.span, {
+                              className: "mord",
+                              children: _jsxs(_components.span, {
+                                className: "minner",
+                                children: [_jsx(_components.span, {
+                                  className: "mopen delimcenter",
+                                  style: {
+                                    top: "0em"
+                                  },
+                                  children: "("
+                                }), _jsx(_components.span, {
+                                  className: "mord text",
+                                  children: _jsx(_components.span, {
+                                    className: "mord",
+                                    children: "Over Rating"
+                                  })
+                                }), _jsx(_components.span, {
+                                  className: "mclose delimcenter",
+                                  style: {
+                                    top: "0em"
+                                  },
+                                  children: ")"
+                                })]
+                              })
+                            })]
+                          }), _jsxs(_components.span, {
+                            style: {
+                              top: "-2.41em"
+                            },
+                            children: [_jsx(_components.span, {
+                              className: "pstrut",
+                              style: {
+                                height: "3em"
+                              }
+                            }), _jsx(_components.span, {
+                              className: "mord"
+                            })]
+                          })]
+                        }), _jsx(_components.span, {
+                          className: "vlist-s",
+                          children: "​"
+                        })]
+                      }), _jsx(_components.span, {
+                        className: "vlist-r",
+                        children: _jsx(_components.span, {
+                          className: "vlist",
+                          style: {
+                            height: "1.25em"
+                          },
+                          children: _jsx(_components.span, {})
+                        })
+                      })]
+                    })
+                  }), _jsx(_components.span, {
+                    className: "col-align-l",
+                    children: _jsxs(_components.span, {
+                      className: "vlist-t vlist-t2",
+                      children: [_jsxs(_components.span, {
+                        className: "vlist-r",
+                        children: [_jsxs(_components.span, {
+                          className: "vlist",
+                          style: {
+                            height: "1.75em"
+                          },
+                          children: [_jsxs(_components.span, {
+                            style: {
+                              top: "-3.91em"
+                            },
+                            children: [_jsx(_components.span, {
+                              className: "pstrut",
+                              style: {
+                                height: "3em"
+                              }
+                            }), _jsxs(_components.span, {
+                              className: "mord",
+                              children: [_jsx(_components.span, {
+                                className: "mord"
+                              }), _jsx(_components.span, {
+                                className: "mspace",
+                                style: {
+                                  marginRight: "0.2778em"
+                                }
+                              }), _jsx(_components.span, {
+                                className: "mrel",
+                                children: "="
+                              }), _jsx(_components.span, {
+                                className: "mspace",
+                                style: {
+                                  marginRight: "0.2778em"
+                                }
+                              }), _jsx(_components.span, {
+                                className: "mord",
+                                children: "11.8"
+                              }), _jsx(_components.span, {
+                                className: "mspace",
+                                style: {
+                                  marginRight: "0.2222em"
+                                }
+                              }), _jsx(_components.span, {
+                                className: "mbin",
+                                children: "×"
+                              }), _jsx(_components.span, {
+                                className: "mspace",
+                                style: {
+                                  marginRight: "0.2222em"
+                                }
+                              }), _jsxs(_components.span, {
+                                className: "minner",
+                                children: [_jsx(_components.span, {
+                                  className: "mopen delimcenter",
+                                  style: {
+                                    top: "0em"
+                                  },
+                                  children: "("
+                                }), _jsx(_components.span, {
+                                  className: "mord text",
+                                  children: _jsx(_components.span, {
+                                    className: "mord",
+                                    children: "Number of solved problems (up to "
+                                  })
+                                }), _jsx(_components.span, {
+                                  className: "mord",
+                                  children: "1"
+                                }), _jsx(_components.span, {
+                                  className: "mspace",
+                                  style: {
+                                    marginRight: "0.1667em"
+                                  }
+                                }), _jsx(_components.span, {
+                                  className: "mord",
+                                  children: "000"
+                                }), _jsx(_components.span, {
+                                  className: "mord text",
+                                  children: _jsx(_components.span, {
+                                    className: "mord",
+                                    children: ")"
+                                  })
+                                }), _jsx(_components.span, {
+                                  className: "mclose delimcenter",
+                                  style: {
+                                    top: "0em"
+                                  },
+                                  children: ")"
+                                })]
+                              })]
+                            })]
+                          }), _jsxs(_components.span, {
+                            style: {
+                              top: "-2.41em"
+                            },
+                            children: [_jsx(_components.span, {
+                              className: "pstrut",
+                              style: {
+                                height: "3em"
+                              }
+                            }), _jsxs(_components.span, {
+                              className: "mord",
+                              children: [_jsx(_components.span, {
+                                className: "mord"
+                              }), _jsx(_components.span, {
+                                className: "mspace",
+                                style: {
+                                  marginRight: "0.2222em"
+                                }
+                              }), _jsx(_components.span, {
+                                className: "mbin",
+                                children: "+"
+                              }), _jsx(_components.span, {
+                                className: "mspace",
+                                style: {
+                                  marginRight: "0.2222em"
+                                }
+                              }), _jsx(_components.span, {
+                                className: "mord",
+                                children: "0.2"
+                              }), _jsx(_components.span, {
+                                className: "mspace",
+                                style: {
+                                  marginRight: "0.2222em"
+                                }
+                              }), _jsx(_components.span, {
+                                className: "mbin",
+                                children: "×"
+                              }), _jsx(_components.span, {
+                                className: "mspace",
+                                style: {
+                                  marginRight: "0.2222em"
+                                }
+                              }), _jsxs(_components.span, {
+                                className: "minner",
+                                children: [_jsx(_components.span, {
+                                  className: "mopen delimcenter",
+                                  style: {
+                                    top: "0em"
+                                  },
+                                  children: "("
+                                }), _jsx(_components.span, {
+                                  className: "mord text",
+                                  children: _jsx(_components.span, {
+                                    className: "mord",
+                                    children: "Sum of the difficulty values of the top "
+                                  })
+                                }), _jsx(_components.span, {
+                                  className: "mord",
+                                  children: "1"
+                                }), _jsx(_components.span, {
+                                  className: "mspace",
+                                  style: {
+                                    marginRight: "0.1667em"
+                                  }
+                                }), _jsx(_components.span, {
+                                  className: "mord",
+                                  children: "000"
+                                }), _jsx(_components.span, {
+                                  className: "mord text",
+                                  children: _jsx(_components.span, {
+                                    className: "mord",
+                                    children: " solved problems"
+                                  })
+                                }), _jsx(_components.span, {
+                                  className: "mclose delimcenter",
+                                  style: {
+                                    top: "0em"
+                                  },
+                                  children: ")"
+                                })]
+                              })]
+                            })]
+                          })]
+                        }), _jsx(_components.span, {
+                          className: "vlist-s",
+                          children: "​"
+                        })]
+                      }), _jsx(_components.span, {
+                        className: "vlist-r",
+                        children: _jsx(_components.span, {
+                          className: "vlist",
+                          style: {
+                            height: "1.25em"
+                          },
+                          children: _jsx(_components.span, {})
+                        })
+                      })]
+                    })
+                  })]
+                })
+              })]
+            })
+          })]
+        })
+      })
+    }), "\n", _jsxs(_components.ul, {
+      children: ["\n", _jsxs(_components.li, {
+        children: [_jsx(_components.strong, {
+          children: "Difficulty value"
+        }), " refers to the difficulty of the problem, converted to 1 point for ", _jsx(Tier, {
+          t: 1
+        }), ", 2 points for ", _jsx(Tier, {
+          t: 2
+        }), ", … 30 points for ", _jsx(Tier, {
+          t: 30
+        }), ". The higher the difficulty of the problem, the higher the rating you can achieve.", "\n", _jsxs(_components.ul, {
+          children: ["\n", _jsxs(_components.li, {
+            children: ["Reference: Guide ", _jsx(_components.a, {
+              href: "/en/problem/level",
+              children: _jsx(_components.strong, {
+                children: "Problem Level"
+              })
+            })]
+          }), "\n"]
+        }), "\n"]
+      }), "\n"]
+    }), "\n", _jsx(_components.h2, {
+      children: "Special Effects"
+    }), "\n", _jsx(_components.p, {
+      children: "Once the Over Rating reaches certain thresholds, a special gradient effect is applied to the AC Rating section on the profile page."
+    }), "\n", _jsxs(_components.table, {
+      children: [_jsx(_components.thead, {
+        children: _jsxs(_components.tr, {
+          children: [_jsx(_components.th, {
+            align: "center",
+            children: "Over Rating"
+          }), _jsx(_components.th, {
+            align: "center",
+            children: "Gradient"
+          })]
+        })
+      }), _jsxs(_components.tbody, {
+        children: [_jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            align: "center",
+            children: "16,000.0 –"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx("span", {
+              style: {
+                display: "block",
+                width: "260px",
+                height: "32px",
+                opacity: 0.2,
+                background: "linear-gradient(135deg, rgb(29, 255, 255), rgb(11, 176, 255), rgb(248, 71, 255), rgb(234, 13, 0), rgb(255, 251, 0), rgb(32, 216, 0))"
+              }
+            })
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            align: "center",
+            children: "15,000.0 – 15,999.9"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx("span", {
+              style: {
+                display: "block",
+                width: "260px",
+                height: "32px",
+                opacity: 0.2,
+                background: "linear-gradient(135deg, rgb(126, 226, 179), rgb(107, 200, 254), rgb(145, 243, 127), rgb(255, 241, 39), rgb(255, 183, 92), rgb(253, 176, 172), rgb(255, 183, 92), rgb(255, 241, 39), rgb(145, 243, 127), rgb(107, 200, 254))"
+              }
+            })
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            align: "center",
+            children: "14,000.0 – 14,999.9"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx("span", {
+              style: {
+                display: "block",
+                width: "260px",
+                height: "32px",
+                opacity: 0.2,
+                background: "linear-gradient(135deg, rgb(255, 207, 95), rgb(255, 194, 80) 28%, rgb(255, 255, 102) 31%, rgb(255, 255, 109), rgb(255, 209, 109), rgb(255, 255, 84) 58%, rgb(255, 183, 74) 64%, rgb(255, 180, 67), rgb(255, 255, 255))"
+              }
+            })
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            align: "center",
+            children: "13,000.0 – 13,999.9"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx("span", {
+              style: {
+                display: "block",
+                width: "260px",
+                height: "32px",
+                opacity: 0.2,
+                background: "linear-gradient(135deg, rgb(207, 215, 247), rgb(127, 145, 249), rgb(127, 190, 249) 45%, rgb(160, 239, 255) 47%, rgb(98, 233, 248), rgb(252, 242, 130))"
+              }
+            })
+          })]
+        }), _jsxs(_components.tr, {
+          children: [_jsx(_components.td, {
+            align: "center",
+            children: "12,000.0 – 12,999.9"
+          }), _jsx(_components.td, {
+            align: "center",
+            children: _jsx("span", {
+              style: {
+                display: "block",
+                width: "260px",
+                height: "32px",
+                opacity: 0.2,
+                background: "linear-gradient(135deg, rgb(247, 226, 207), rgb(249, 164, 127), rgb(249, 164, 127) 45%, rgb(255, 225, 160) 47%, rgb(248, 128, 98), rgb(252, 173, 130))"
+              }
+            })
+          })]
+        })]
+      })]
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = Object.assign({}, _provideComponents(), props.components);
+  return MDXLayout ? _jsx(MDXLayout, Object.assign({}, props, {
+    children: _jsx(_createMdxContent, props)
+  })) : _createMdxContent(props);
+}
+return {
+  default: MDXContent
+};
+function _missingMdxReference(id, component) {
+  throw new Error("Expected " + (component ? "component" : "object") + " `" + id + "` to be defined: you likely forgot to import, pass, or provide it.");
+}
+9:[["$","$La",null,{"meta":{"title":"Over Rating","index":40,"date":null,"slug":"en/stats/over-rating"},"languages":[{"language":"en","link":"/en/stats/over-rating"},{"language":"ko","link":"/ko/stats/over-rating"}],"current":"en"}],["$","$Lb",null,{"compiledSource":"$c","frontmatter":{"title":"Over Rating","index":40},"scope":{}}]]
