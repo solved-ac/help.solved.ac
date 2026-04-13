@@ -15,6 +15,7 @@ import {
   Typo,
 } from "@solved-ac/ui-react";
 import DifficultyComparison from "../content/difficultyComparison/DifficultyComparison";
+import StreakColorChipTable from "../content/streakColorChip/StreakColorChipTable";
 import CLISSchedule2024 from "../content/updates/240824/CLISSchedule2024";
 import ClassIcon from "./ClassIcon";
 import ContentHeading1 from "./ContentHeading1";
@@ -84,6 +85,7 @@ const MDXComponents = {
 
   // Content-specific components
   DifficultyComparison: () => <DifficultyComparison />,
+  StreakColorChipTable: () => <StreakColorChipTable />,
   CLISSchedule2024: () => <CLISSchedule2024 />,
 } as const;
 
